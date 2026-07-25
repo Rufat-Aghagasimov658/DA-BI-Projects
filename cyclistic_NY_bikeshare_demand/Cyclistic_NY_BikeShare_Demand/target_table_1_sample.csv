@@ -1,0 +1,1001 @@
+usertype,start_station_id,start_station_name,zip_code_start,borough_start,neighborhood_start,end_station_name,zip_code_end,borough_end,neighborhood_end,start_day,stop_day,day_mean_temperature,day_mean_wind_speed,day_total_precipitation,trip_minutes,trip_count
+Subscriber,519,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-11-03,2015-11-03,60.6,1.6,0.0,20.0,1
+Subscriber,3164,Columbus Ave & W 72 St,10023,Manhattan,Upper West Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-10-06,2015-10-06,61.2,1.5,0.0,10.0,1
+Customer,3139,E 72 St & Park Ave,10021,Manhattan,Upper East Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-09-13,2015-09-13,72.0,5.2,0.29,20.0,3
+Customer,521,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,E 71 St & 2 Ave,10021,Manhattan,Upper East Side,2015-12-12,2015-12-12,59.6,2.7,0.0,30.0,2
+Subscriber,3157,East End Ave & E 86 St,10128,Manhattan,Upper East Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-10-14,2015-10-14,63.8,3.2,0.0,10.0,3
+Subscriber,3238,E 80 St & 2 Ave,10075,Manhattan,Upper East Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-12-23,2015-12-23,56.4,3.0,0.19,10.0,2
+Subscriber,3136,5 Ave & E 63 St,10065,Manhattan,Upper East Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-11-04,2015-11-04,62.9,2.3,0.0,10.0,1
+Subscriber,504,1 Ave & E 15 St,10009,Manhattan,Lower East Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-10-23,2015-10-23,58.8,5.0,0.0,20.0,2
+Subscriber,3231,E 67 St & Park Ave,10065,Manhattan,Upper East Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-12-15,2015-12-15,61.8,8.6,0.42,10.0,3
+Subscriber,3231,E 67 St & Park Ave,10065,Manhattan,Upper East Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-10-20,2015-10-20,56.2,5.7,0.0,10.0,7
+Subscriber,3145,E 84 St & Park Ave,10028,Manhattan,Upper East Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-09-23,2015-09-23,68.4,3.3,0.0,10.0,7
+Subscriber,515,W 43 St & 10 Ave,10036,Manhattan,Chelsea and Clinton,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-10-07,2015-10-07,64.9,2.5,0.0,40.0,1
+Customer,3086,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,Driggs Ave & Lorimer St,11222,Brooklyn,Greenpoint,2015-09-12,2015-09-12,74.0,2.3,0.0,10.0,3
+Subscriber,3112,Milton St & Franklin St,11222,Brooklyn,Greenpoint,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,2015-10-10,2015-10-10,58.9,2.6,0.89,10.0,1
+Subscriber,3119,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,Meserole Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,2015-10-08,2015-10-08,63.8,2.9,0.0,10.0,1
+Subscriber,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Norman Ave & Leonard St,11222,Brooklyn,Greenpoint,2015-10-23,2015-10-23,58.8,5.0,0.0,10.0,5
+Customer,3077,Stagg St & Union Ave,11211,Brooklyn,Greenpoint,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-11-14,2015-11-14,46.4,8.0,0.0,10.0,1
+Subscriber,3122,48 Ave & 5 St,11101,Queens,Northwest Queens,Meserole Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,2015-12-24,2015-12-24,66.4,5.1,1.56,10.0,1
+Subscriber,3129,Queens Plaza North & Crescent St,11101,Queens,Northwest Queens,Norman Ave & Leonard St,11222,Brooklyn,Greenpoint,2015-09-06,2015-09-06,74.1,1.0,0.0,20.0,1
+Subscriber,3110,Meserole Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-08-15,2015-08-15,80.7,3.3,0.0,30.0,1
+Subscriber,3086,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-10-15,2015-10-15,58.2,3.5,0.0,10.0,1
+Subscriber,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Bedford Ave & Nassau Ave,11222,Brooklyn,Greenpoint,2015-12-11,2015-12-11,55.2,3.1,0.0,0.0,4
+Customer,401,Allen St & Rivington St,10002,Manhattan,Lower East Side,Banker St & Meserole Ave,11222,Brooklyn,Greenpoint,2015-09-17,2015-09-17,77.0,1.3,0.0,20.0,3
+Subscriber,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,2015-12-17,2015-12-17,54.7,3.4,0.04,10.0,11
+Subscriber,3106,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,Norman Ave & Leonard St,11222,Brooklyn,Greenpoint,2015-09-17,2015-09-17,77.0,1.3,0.0,10.0,1
+Subscriber,3108,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,Norman Ave & Leonard St,11222,Brooklyn,Greenpoint,2015-10-01,2015-10-01,59.8,7.6,0.04,10.0,1
+Subscriber,3074,Montrose Ave & Bushwick Ave,11206,Brooklyn,Bushwick and Williamsburg,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,2015-12-13,2015-12-13,61.8,2.0,0.0,10.0,1
+Subscriber,268,Howard St & Centre St,10013,Manhattan,Greenwich Village and Soho,India St & Manhattan Ave,11222,Brooklyn,Greenpoint,2015-10-14,2015-10-14,63.8,3.2,0.0,30.0,1
+Subscriber,266,Avenue D & E 8 St,10009,Manhattan,Lower East Side,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-08-21,2015-08-21,78.7,4.0,0.33,40.0,1
+Customer,3148,E 84 St & 1 Ave,10028,Manhattan,Upper East Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-09-29,2015-09-29,75.6,2.7,0.0,10.0,1
+Subscriber,469,Broadway & W 53 St,10019,Manhattan,Chelsea and Clinton,Riverside Blvd & W 67 St,10069,Manhattan,West Side,2015-10-26,2015-10-26,51.8,3.9,0.03,10.0,2
+Subscriber,3134,3 Ave & E 62 St,10065,Manhattan,Upper East Side,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-12-02,2015-12-02,49.3,2.9,0.21,10.0,1
+Subscriber,228,E 48 St & 3 Ave,10017,Manhattan,Gramercy Park and Murray Hill,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-12-09,2015-12-09,45.8,2.7,0.0,10.0,1
+Subscriber,524,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-09-09,2015-09-09,82.0,4.0,0.0,10.0,1
+Subscriber,521,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-10-17,2014-10-17,64.6,4.0,0.12,10.0,6
+Customer,3163,Central Park West & W 68 St,10023,Manhattan,Upper West Side,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-09-20,2015-09-20,73.9,6.3,0.0,20.0,2
+Subscriber,533,Broadway & W 39 St,10018,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-07-30,2015-07-30,80.5,4.6,0.0,10.0,1
+Subscriber,2006,Central Park S & 6 Ave,10023,Manhattan,Upper West Side,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-05-19,2014-05-19,60.3,4.3,0.0,10.0,1
+Subscriber,519,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-11-25,2015-11-25,42.5,2.3,0.0,10.0,1
+Subscriber,441,E 52 St & 2 Ave,10022,Manhattan,Gramercy Park and Murray Hill,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-05-19,2014-05-19,60.3,4.3,0.0,10.0,2
+Subscriber,352,W 56 St & 6 Ave,10019,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-11-02,2015-11-02,59.4,2.6,0.0,0.0,1
+Customer,173,Broadway & W 49 St,10019,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-10-22,2015-10-22,65.4,4.1,0.0,30.0,2
+Subscriber,477,W 41 St & 8 Ave,10018,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-05-28,2015-05-28,75.9,3.3,0.08,10.0,6
+Subscriber,444,Broadway & W 24 St,10010,Manhattan,Gramercy Park and Murray Hill,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-04-08,2014-04-08,52.6,5.6,0.86,20.0,1
+Subscriber,533,Broadway & W 39 St,10018,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-08-07,2014-08-07,74.4,3.6,0.0,10.0,2
+Customer,520,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-09-19,2015-09-19,74.7,1.8,0.0,10.0,8
+Subscriber,500,Broadway & W 51 St,10019,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-06-26,2014-06-26,76.6,3.4,0.15,0.0,2
+Subscriber,72,W 52 St & 11 Ave,10019,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-03-19,2014-03-19,36.9,6.2,0.0,10.0,1
+Subscriber,2021,W 45 St & 8 Ave,10036,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-11-19,2015-11-19,59.5,5.4,0.0,10.0,1
+Subscriber,3124,46 Ave & 5 St,11101,Queens,Northwest Queens,45 Rd & 11 St,11101,Queens,Northwest Queens,2015-12-07,2015-12-07,48.0,2.9,0.0,0.0,10
+Subscriber,3099,Leonard St & Manhattan Ave,11222,Brooklyn,Greenpoint,Jackson Ave & 46 Rd,11101,Queens,Northwest Queens,2015-12-13,2015-12-13,61.8,2.0,0.0,20.0,2
+Customer,3115,India St & Manhattan Ave,11222,Brooklyn,Greenpoint,Queens Plaza North & Crescent St,11101,Queens,Northwest Queens,2015-08-31,2015-08-31,81.7,3.8,0.13,20.0,1
+Subscriber,3126,44 Dr & Jackson Ave,11101,Queens,Northwest Queens,46 Ave & 5 St,11101,Queens,Northwest Queens,2015-09-17,2015-09-17,77.0,1.3,0.0,10.0,11
+Subscriber,3118,McGuinness Blvd & Eagle St,11222,Brooklyn,Greenpoint,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,2015-08-28,2015-08-28,72.7,2.5,0.0,10.0,4
+Customer,3124,46 Ave & 5 St,11101,Queens,Northwest Queens,45 Rd & 11 St,11101,Queens,Northwest Queens,2015-10-25,2015-10-25,59.1,4.0,0.02,10.0,2
+Subscriber,3120,Center Blvd & Borden Ave,11101,Queens,Northwest Queens,Center Blvd & Borden Ave,11101,Queens,Northwest Queens,2015-08-09,2015-08-10,75.0,2.9,0.0,10.0,1
+Subscriber,3112,Milton St & Franklin St,11222,Brooklyn,Greenpoint,Franklin St & Dupont St,11222,Brooklyn,Greenpoint,2015-09-04,2015-09-04,80.6,5.0,0.0,10.0,1
+Subscriber,3113,Greenpoint Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,N Henry St & Richardson St,11222,Brooklyn,Greenpoint,2015-11-05,2015-11-05,62.8,1.9,0.0,10.0,1
+Customer,3106,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,2015-08-23,2015-08-23,76.0,3.6,0.0,20.0,1
+Customer,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Bedford Ave & Nassau Ave,11222,Brooklyn,Greenpoint,2015-09-22,2015-09-22,66.8,6.4,0.0,0.0,1
+Subscriber,3108,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,India St & East River,11222,Brooklyn,Greenpoint,2015-11-16,2015-11-16,58.1,2.9,0.0,10.0,1
+Subscriber,3117,Franklin St & Dupont St,11222,Brooklyn,Greenpoint,India St & Manhattan Ave,11222,Brooklyn,Greenpoint,2015-08-18,2015-08-18,81.8,3.6,0.29,0.0,1
+Subscriber,3087,Metropolitan Ave & Meeker Ave,11211,Brooklyn,Greenpoint,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,2015-08-21,2015-08-21,78.7,4.0,0.33,10.0,1
+Subscriber,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Leonard St & Bayard St,11222,Brooklyn,Greenpoint,2015-08-27,2015-08-27,73.8,2.6,0.0,0.0,1
+Subscriber,3101,N 12 St & Bedford Ave,11222,Brooklyn,Greenpoint,Banker St & Meserole Ave,11222,Brooklyn,Greenpoint,2015-10-28,2015-10-28,58.0,6.3,0.0,0.0,1
+Subscriber,3101,N 12 St & Bedford Ave,11222,Brooklyn,Greenpoint,Bedford Ave & Nassau Ave,11222,Brooklyn,Greenpoint,2015-10-12,2015-10-12,64.4,3.7,0.0,0.0,3
+Subscriber,263,Elizabeth St & Hester St,10013,Manhattan,Greenwich Village and Soho,Banker St & Meserole Ave,11222,Brooklyn,Greenpoint,2015-08-18,2015-08-18,81.8,3.6,0.29,20.0,1
+Subscriber,128,MacDougal St & Prince St,10014,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-06-10,2014-06-10,69.5,3.4,0.96,10.0,1
+Customer,375,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-09-20,2014-09-20,65.0,3.2,0.0,20.0,1
+Customer,217,Old Fulton St,11201,Brooklyn,Northwest Brooklyn,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-08-18,2014-08-18,72.0,3.7,0.01,40.0,1
+Subscriber,316,Fulton St & William St,10038,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-11-07,2014-11-07,49.0,5.3,0.25,10.0,1
+Subscriber,147,Greenwich St & Warren St,10007,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-04-02,2014-04-02,47.3,1.9,0.0,10.0,1
+Subscriber,212,W 16 St & The High Line,10011,Manhattan,Chelsea and Clinton,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-04-14,2014-04-14,67.3,6.4,0.0,20.0,1
+Customer,491,E 24 St & Park Ave S,10010,Manhattan,Gramercy Park and Murray Hill,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-04-29,2015-04-29,64.9,4.3,0.0,30.0,2
+Subscriber,375,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-07-11,2014-07-11,76.8,3.5,0.0,10.0,1
+Customer,368,Carmine St & 6 Ave,10014,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-07-19,2014-07-19,72.2,4.5,0.0,30.0,1
+Subscriber,487,E 20 St & FDR Drive,10009,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-07-21,2015-07-21,83.7,2.5,0.0,20.0,1
+Subscriber,356,Bialystoker Pl & Delancey St,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-05-03,2015-05-03,61.6,2.5,0.0,20.0,1
+Subscriber,307,Canal St & Rutgers St,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-05-14,2014-05-14,58.2,4.7,0.0,10.0,2
+Subscriber,329,Greenwich St & N Moore St,10013,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-07-15,2014-07-15,75.3,2.8,0.46,10.0,2
+Subscriber,509,9 Ave & W 22 St,10011,Manhattan,Chelsea and Clinton,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-06-03,2015-06-03,58.0,4.5,0.26,30.0,1
+Customer,491,E 24 St & Park Ave S,10010,Manhattan,Gramercy Park and Murray Hill,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-08-15,2015-08-15,80.7,3.3,0.0,20.0,7
+Subscriber,3086,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,2015-09-02,2015-09-02,81.1,1.8,0.0,10.0,1
+Subscriber,401,Allen St & Rivington St,10002,Manhattan,Lower East Side,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,2015-12-21,2015-12-21,45.0,6.1,0.0,20.0,1
+Subscriber,3106,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,Greenpoint Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,2015-09-12,2015-09-12,74.0,2.3,0.0,10.0,4
+Subscriber,3111,Norman Ave & Leonard St,11222,Brooklyn,Greenpoint,Greenpoint Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,2015-12-29,2015-12-29,39.3,6.8,0.33,10.0,1
+Subscriber,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-12-02,2015-12-02,49.3,2.9,0.21,10.0,1
+Customer,3094,Graham Ave & Withers St,11211,Brooklyn,Greenpoint,N Henry St & Richardson St,11222,Brooklyn,Greenpoint,2015-10-04,2015-10-04,56.5,9.2,0.02,0.0,1
+Subscriber,466,W 25 St & 6 Ave,10010,Manhattan,Gramercy Park and Murray Hill,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-10-07,2015-10-07,64.9,2.5,0.0,40.0,1
+Customer,471,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,India St & East River,11222,Brooklyn,Greenpoint,2015-09-19,2015-09-19,74.7,1.8,0.0,30.0,1
+Subscriber,3112,Milton St & Franklin St,11222,Brooklyn,Greenpoint,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-09-07,2015-09-07,78.4,3.4,0.0,10.0,1
+Subscriber,3094,Graham Ave & Withers St,11211,Brooklyn,Greenpoint,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,2015-11-30,2015-11-30,39.4,6.0,0.0,10.0,2
+Subscriber,3118,McGuinness Blvd & Eagle St,11222,Brooklyn,Greenpoint,India St & East River,11222,Brooklyn,Greenpoint,2015-12-08,2015-12-08,44.6,4.6,0.0,0.0,1
+Subscriber,3114,India St & East River,11222,Brooklyn,Greenpoint,Franklin St & Dupont St,11222,Brooklyn,Greenpoint,2015-10-08,2015-10-08,63.8,2.9,0.0,0.0,1
+Subscriber,3109,Banker St & Meserole Ave,11222,Brooklyn,Greenpoint,McGuinness Blvd & Eagle St,11222,Brooklyn,Greenpoint,2015-12-03,2015-12-03,50.9,6.2,0.1,10.0,1
+Subscriber,3129,Queens Plaza North & Crescent St,11101,Queens,Northwest Queens,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,2015-08-23,2015-08-23,76.0,3.6,0.0,20.0,1
+Customer,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Franklin St & Dupont St,11222,Brooklyn,Greenpoint,2015-10-31,2015-10-31,49.1,3.0,0.0,20.0,1
+Subscriber,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-08-31,2015-08-31,81.7,3.8,0.13,40.0,1
+Subscriber,258,DeKalb Ave & Vanderbilt Ave,11205,Brooklyn,Northwest Brooklyn,Graham Ave & Herbert St,11222,Brooklyn,Greenpoint,2015-09-01,2015-09-01,82.0,2.6,0.0,20.0,1
+Subscriber,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-11-08,2015-11-08,51.9,4.0,0.0,40.0,1
+Subscriber,2010,Grand St & Greene St,10013,Manhattan,Greenwich Village and Soho,India St & Manhattan Ave,11222,Brooklyn,Greenpoint,2015-08-31,2015-08-31,81.7,3.8,0.13,20.0,1
+Subscriber,152,Warren St & Church St,10007,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-05-02,2015-05-02,55.1,2.5,0.0,0.0,1
+Subscriber,355,Bayard St & Baxter St,10013,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-09-28,2015-09-28,70.1,2.3,0.0,10.0,1
+Customer,386,Centre St & Worth St,10278,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-09-17,2014-09-17,64.3,2.4,0.34,0.0,1
+Subscriber,417,Barclay St & Church St,10007,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-07-07,2015-07-07,78.7,3.6,0.0,10.0,3
+Subscriber,402,Broadway & E 22 St,10010,Manhattan,Gramercy Park and Murray Hill,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-05-08,2015-05-08,66.9,2.3,0.0,20.0,1
+Customer,2012,E 27 St & 1 Ave,10016,Manhattan,Gramercy Park and Murray Hill,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-05-03,2015-05-03,61.6,2.5,0.0,20.0,1
+Subscriber,250,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-07-05,2015-07-05,74.6,1.3,0.0,10.0,1
+Subscriber,340,Madison St & Clinton St,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-08-04,2014-08-04,75.0,2.9,0.02,10.0,1
+Customer,366,Clinton Ave & Myrtle Ave,11205,Brooklyn,Northwest Brooklyn,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-07-03,2014-07-03,77.3,2.0,1.0,50.0,2
+Subscriber,195,Liberty St & Broadway,10005,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-05-06,2015-05-06,68.1,4.5,0.0,10.0,1
+Subscriber,340,Madison St & Clinton St,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-08-12,2015-08-12,77.0,3.8,0.58,10.0,3
+Subscriber,360,William St & Pine St,10005,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-09-25,2015-09-25,69.0,5.5,0.0,10.0,2
+Customer,392,Jay St & Tech Pl,11201,Brooklyn,Northwest Brooklyn,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-11-08,2015-11-08,51.9,4.0,0.0,40.0,3
+Subscriber,478,11 Ave & W 41 St,10036,Manhattan,Chelsea and Clinton,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-12-29,2014-12-29,41.4,4.8,0.1,30.0,1
+Customer,322,Clinton St & Tillary St,11201,Brooklyn,Northwest Brooklyn,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-08-02,2015-08-02,79.9,2.0,0.0,20.0,3
+Subscriber,3124,46 Ave & 5 St,11101,Queens,Northwest Queens,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,2015-10-10,2015-10-10,58.9,2.6,0.89,10.0,3
+Subscriber,3119,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,9 St & 44 Rd,11101,Queens,Northwest Queens,2015-12-08,2015-12-08,44.6,4.6,0.0,10.0,2
+Subscriber,290,2 Ave & E 58 St,10022,Manhattan,Gramercy Park and Murray Hill,46 Ave & 5 St,11101,Queens,Northwest Queens,2015-11-04,2015-11-04,62.9,2.3,0.0,20.0,1
+Subscriber,3124,46 Ave & 5 St,11101,Queens,Northwest Queens,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,2015-12-01,2015-12-01,46.5,5.9,0.0,0.0,5
+Subscriber,3124,46 Ave & 5 St,11101,Queens,Northwest Queens,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,2015-10-06,2015-10-06,61.2,1.5,0.0,0.0,9
+Customer,3119,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,9 St & 44 Rd,11101,Queens,Northwest Queens,2015-09-20,2015-09-20,73.9,6.3,0.0,110.0,2
+Subscriber,3122,48 Ave & 5 St,11101,Queens,Northwest Queens,44 Dr & Jackson Ave,11101,Queens,Northwest Queens,2015-11-27,2015-11-27,57.1,2.9,0.0,10.0,2
+Subscriber,3126,44 Dr & Jackson Ave,11101,Queens,Northwest Queens,46 Ave & 5 St,11101,Queens,Northwest Queens,2015-10-16,2015-10-16,58.5,4.9,0.0,10.0,3
+Subscriber,2022,E 60 St & York Ave,10065,Manhattan,Upper East Side,Queens Plaza North & Crescent St,11101,Queens,Northwest Queens,2015-08-23,2015-08-23,76.0,3.6,0.0,10.0,2
+Subscriber,3113,Greenpoint Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,Norman Ave & Leonard St,11222,Brooklyn,Greenpoint,2015-10-08,2015-10-08,63.8,2.9,0.0,0.0,1
+Subscriber,3110,Meserole Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,2015-09-25,2015-09-25,69.0,5.5,0.0,10.0,1
+Subscriber,3112,Milton St & Franklin St,11222,Brooklyn,Greenpoint,Franklin St & Dupont St,11222,Brooklyn,Greenpoint,2015-09-28,2015-09-28,70.1,2.3,0.0,0.0,3
+Subscriber,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Meserole Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,2015-11-25,2015-11-25,42.5,2.3,0.0,10.0,3
+Subscriber,3111,Norman Ave & Leonard St,11222,Brooklyn,Greenpoint,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,2015-11-19,2015-11-19,59.5,5.4,0.0,10.0,1
+Subscriber,3115,India St & Manhattan Ave,11222,Brooklyn,Greenpoint,Meserole Ave & Manhattan Ave,11222,Brooklyn,Greenpoint,2015-11-17,2015-11-17,47.5,6.4,0.0,0.0,3
+Subscriber,3114,India St & East River,11222,Brooklyn,Greenpoint,Driggs Ave & Lorimer St,11222,Brooklyn,Greenpoint,2015-09-28,2015-09-28,70.1,2.3,0.0,10.0,2
+Subscriber,3119,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,McGuinness Blvd & Eagle St,11222,Brooklyn,Greenpoint,2015-08-24,2015-08-24,78.2,2.1,0.0,10.0,7
+Subscriber,3056,Kosciuszko St & Nostrand Ave,11216,Brooklyn,Central Brooklyn,Driggs Ave & Lorimer St,11222,Brooklyn,Greenpoint,2015-10-20,2015-10-20,56.2,5.7,0.0,20.0,1
+Subscriber,216,Columbia Heights & Cranberry St,11201,Brooklyn,Northwest Brooklyn,Bedford Ave & Nassau Ave,11222,Brooklyn,Greenpoint,2015-11-04,2015-11-04,62.9,2.3,0.0,30.0,1
+Subscriber,3086,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,2015-12-29,2015-12-29,39.3,6.8,0.33,10.0,6
+Subscriber,323,Lawrence St & Willoughby St,11201,Brooklyn,Northwest Brooklyn,Driggs Ave & Lorimer St,11222,Brooklyn,Greenpoint,2015-10-28,2015-10-28,58.0,6.3,0.0,20.0,1
+Subscriber,391,Clark St & Henry St,11201,Brooklyn,Northwest Brooklyn,Milton St & Franklin St,11222,Brooklyn,Greenpoint,2015-10-04,2015-10-04,56.5,9.2,0.02,30.0,1
+Subscriber,426,West St & Chambers St,10282,Manhattan,Tribeca,Riverside Blvd & W 67 St,10069,Manhattan,West Side,2015-11-25,2015-11-25,42.5,2.3,0.0,20.0,1
+Subscriber,3146,E 81 St & 3 Ave,10028,Manhattan,Upper East Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-10-29,2015-10-29,67.2,5.7,1.44,10.0,1
+Customer,456,E 53 St & Madison Ave,10022,Manhattan,Gramercy Park and Murray Hill,Mobile 01,10021,Manhattan,Upper East Side,2015-08-15,2015-08-15,80.7,3.3,0.0,30.0,1
+Customer,3146,E 81 St & 3 Ave,10028,Manhattan,Upper East Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-09-15,2015-09-15,72.0,2.1,0.0,30.0,1
+Customer,167,E 39 St & 3 Ave,10016,Manhattan,Gramercy Park and Murray Hill,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-11-25,2015-11-25,42.5,2.3,0.0,20.0,1
+Subscriber,3165,Central Park West & W 72 St,10023,Manhattan,Upper West Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-11-03,2015-11-03,60.6,1.6,0.0,10.0,3
+Customer,491,E 24 St & Park Ave S,10010,Manhattan,Gramercy Park and Murray Hill,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-09-10,2015-09-10,75.2,4.7,1.13,30.0,1
+Subscriber,160,E 37 St & Lexington Ave,10016,Manhattan,Gramercy Park and Murray Hill,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-12-05,2015-12-05,45.7,2.0,0.0,20.0,1
+Subscriber,536,1 Ave & E 30 St,10016,Manhattan,Gramercy Park and Murray Hill,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-11-03,2015-11-03,60.6,1.6,0.0,20.0,1
+Subscriber,3177,W 84 St & Broadway,10024,Manhattan,Upper West Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-10-27,2015-10-27,51.9,3.5,0.0,20.0,3
+Subscriber,505,6 Ave & W 33 St,10001,Manhattan,Chelsea and Clinton,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-12-08,2015-12-08,44.6,4.6,0.0,20.0,2
+Subscriber,3119,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,Queens Plaza North & Crescent St,11101,Queens,Northwest Queens,2015-09-20,2015-09-20,73.9,6.3,0.0,30.0,1
+Subscriber,3124,46 Ave & 5 St,11101,Queens,Northwest Queens,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,2015-08-31,2015-08-31,81.7,3.8,0.13,0.0,6
+Subscriber,3124,46 Ave & 5 St,11101,Queens,Northwest Queens,45 Rd & 11 St,11101,Queens,Northwest Queens,2015-11-09,2015-11-09,51.1,1.7,0.0,0.0,8
+Subscriber,3124,46 Ave & 5 St,11101,Queens,Northwest Queens,Jackson Ave & 46 Rd,11101,Queens,Northwest Queens,2015-12-18,2015-12-18,51.9,5.5,1.21,0.0,2
+Subscriber,3119,Vernon Blvd & 50 Ave,11101,Queens,Northwest Queens,46 Ave & 5 St,11101,Queens,Northwest Queens,2015-09-22,2015-09-22,66.8,6.4,0.0,10.0,5
+Customer,3125,45 Rd & 11 St,11101,Queens,Northwest Queens,45 Rd & 11 St,11101,Queens,Northwest Queens,2015-10-25,2015-10-25,59.1,4.0,0.02,30.0,1
+Subscriber,305,E 58 St & 3 Ave,10022,Manhattan,Gramercy Park and Murray Hill,Queens Plaza North & Crescent St,11101,Queens,Northwest Queens,2015-12-29,2015-12-29,39.3,6.8,0.33,10.0,1
+Subscriber,442,W 27 St & 7 Ave,10001,Manhattan,Chelsea and Clinton,Queens Plaza North & Crescent St,11101,Queens,Northwest Queens,2015-12-18,2015-12-18,51.9,5.5,1.21,40.0,1
+Subscriber,476,E 31 St & 3 Ave,10016,Manhattan,Gramercy Park and Murray Hill,Queens Plaza North & Crescent St,11101,Queens,Northwest Queens,2015-11-03,2015-11-03,60.6,1.6,0.0,20.0,1
+Subscriber,3112,Milton St & Franklin St,11222,Brooklyn,Greenpoint,Metropolitan Ave & Meeker Ave,11211,Brooklyn,Greenpoint,2015-09-22,2015-09-22,66.8,6.4,0.0,10.0,1
+Subscriber,3082,Hope St & Union Ave,11211,Brooklyn,Greenpoint,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,2015-09-27,2015-09-27,63.5,4.8,0.0,10.0,3
+Subscriber,3107,Bedford Ave & Nassau Ave,11222,Brooklyn,Greenpoint,Graham Ave & Withers St,11211,Brooklyn,Greenpoint,2015-09-08,2015-09-08,84.2,3.8,0.0,10.0,1
+Customer,349,Rivington St & Ridge St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-10-09,2014-10-09,62.6,5.2,0.04,20.0,4
+Customer,3115,India St & Manhattan Ave,11222,Brooklyn,Greenpoint,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-09-20,2015-09-20,73.9,6.3,0.0,10.0,2
+Subscriber,3106,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,Division Ave & Hooper St,11211,Brooklyn,Greenpoint,2015-08-22,2015-08-22,76.9,3.7,0.32,20.0,1
+Subscriber,3117,Franklin St & Dupont St,11222,Brooklyn,Greenpoint,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,2015-11-17,2015-11-17,47.5,6.4,0.0,10.0,1
+Customer,532,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2014-07-06,2014-07-06,76.0,4.1,0.0,10.0,2
+Subscriber,3047,Halsey St & Tompkins Ave,11216,Brooklyn,Central Brooklyn,Devoe St & Leonard St,11211,Brooklyn,Greenpoint,2015-10-08,2015-10-08,63.8,2.9,0.0,20.0,1
+Subscriber,3095,Graham Ave & Herbert St,11222,Brooklyn,Greenpoint,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,2015-11-13,2015-11-13,55.4,9.4,0.01,0.0,5
+Subscriber,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-07-06,2014-07-06,76.0,4.1,0.0,20.0,5
+Subscriber,3094,Graham Ave & Withers St,11211,Brooklyn,Greenpoint,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,2015-10-21,2015-10-21,65.0,2.8,0.0,10.0,1
+Subscriber,531,Forsyth St & Broome St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-08-19,2015-08-19,80.0,4.0,0.0,10.0,1
+Subscriber,3081,Graham Ave & Grand St,11211,Brooklyn,Greenpoint,Division Ave & Hooper St,11211,Brooklyn,Greenpoint,2015-10-14,2015-10-14,63.8,3.2,0.0,10.0,1
+Subscriber,251,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2014-08-20,2014-08-20,75.1,1.8,0.0,30.0,1
+Subscriber,252,MacDougal St & Washington Sq,10011,Manhattan,Chelsea and Clinton,Bushwick Ave & Powers St,11211,Brooklyn,Greenpoint,2015-09-28,2015-09-28,70.1,2.3,0.0,30.0,1
+Customer,242,Carlton Ave & Flushing Ave,11205,Brooklyn,Northwest Brooklyn,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2015-09-21,2015-09-21,65.8,7.4,0.0,20.0,2
+Subscriber,3102,Driggs Ave & Lorimer St,11222,Brooklyn,Greenpoint,Union Ave & N 12 St,11211,Brooklyn,Greenpoint,2015-12-12,2015-12-12,59.6,2.7,0.0,10.0,2
+Subscriber,532,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2015-01-16,2015-01-16,33.4,7.3,0.0,0.0,1
+Subscriber,421,Clermont Ave & Park Ave,11205,Brooklyn,Northwest Brooklyn,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2014-08-25,2014-08-25,74.3,1.9,0.0,20.0,2
+Customer,400,Pitt St & Stanton St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-06-14,2014-06-14,69.0,3.7,1.14,20.0,2
+Subscriber,304,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,2015-10-11,2015-10-11,59.3,2.8,0.0,30.0,1
+Subscriber,251,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-10-20,2015-10-20,56.2,5.7,0.0,20.0,1
+Subscriber,406,Hicks St & Montague St,11201,Brooklyn,Northwest Brooklyn,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2014-07-13,2014-07-13,75.8,4.3,0.0,30.0,2
+Subscriber,366,Clinton Ave & Myrtle Ave,11205,Brooklyn,Northwest Brooklyn,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-11-18,2015-11-18,50.9,3.6,0.0,10.0,1
+Customer,313,Washington Ave & Park Ave,11205,Brooklyn,Northwest Brooklyn,Bedford Ave & S 9th St,11211,Brooklyn,Greenpoint,2015-03-22,2015-03-22,39.1,7.2,0.0,20.0,2
+Subscriber,438,St Marks Pl & 1 Ave,10003,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-05-07,2014-05-07,59.1,3.2,0.0,10.0,1
+Customer,2003,1 Ave & E 18 St,10009,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-11-08,2015-11-08,51.9,4.0,0.0,30.0,1
+Subscriber,428,E 3 St & 1 Ave,10003,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-11-22,2015-11-22,51.2,5.1,0.03,20.0,2
+Customer,532,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2014-06-10,2014-06-10,69.5,3.4,0.96,10.0,1
+Subscriber,433,E 13 St & Avenue A,10009,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-07-17,2015-07-17,72.5,3.1,0.0,20.0,1
+Subscriber,546,E 30 St & Park Ave S,10016,Manhattan,Gramercy Park and Murray Hill,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-08-27,2015-08-27,73.8,2.6,0.0,30.0,1
+Subscriber,418,Front St & Gold St,11201,Brooklyn,Northwest Brooklyn,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2014-08-15,2014-08-15,68.0,4.8,0.0,20.0,3
+Customer,321,Cadman Plaza E & Red Cross Pl,11201,Brooklyn,Northwest Brooklyn,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,2015-05-10,2015-05-10,70.0,2.3,0.0,20.0,1
+Subscriber,237,E 11 St & 2 Ave,10003,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-08-01,2015-08-01,81.6,3.8,0.0,20.0,1
+Subscriber,368,Carmine St & 6 Ave,10014,Manhattan,Greenwich Village and Soho,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-11-09,2014-11-09,50.0,3.6,0.0,30.0,1
+Subscriber,513,W 56 St & 10 Ave,10019,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-09-18,2015-09-18,76.3,2.4,0.0,20.0,1
+Subscriber,336,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-11-05,2015-11-05,62.8,1.9,0.0,20.0,1
+Subscriber,493,W 45 St & 6 Ave,10036,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-07-24,2015-07-24,77.8,2.1,0.0,0.0,2
+Subscriber,238,Bank St & Washington St,10014,Manhattan,Greenwich Village and Soho,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-07-07,2014-07-07,79.8,4.8,0.0,20.0,2
+Subscriber,3149,E 82 St & 2 Ave,10028,Manhattan,Upper East Side,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-10-06,2015-10-06,61.2,1.5,0.0,20.0,1
+Customer,238,Bank St & Washington St,10014,Manhattan,Greenwich Village and Soho,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-08-09,2014-08-09,76.0,2.5,0.0,30.0,2
+Subscriber,522,E 51 St & Lexington Ave,10022,Manhattan,Gramercy Park and Murray Hill,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-06-08,2015-06-08,68.6,4.8,0.0,0.0,1
+Subscriber,284,Greenwich Ave & 8 Ave,10014,Manhattan,Greenwich Village and Soho,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-06-24,2015-06-24,76.7,4.5,0.02,20.0,1
+Subscriber,309,Murray St & West St,10007,Manhattan,Lower Manhattan,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-04-09,2014-04-09,52.2,6.6,0.34,40.0,1
+Subscriber,368,Carmine St & 6 Ave,10014,Manhattan,Greenwich Village and Soho,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-05-03,2014-05-03,61.3,3.6,0.0,20.0,1
+Subscriber,3167,Amsterdam Ave & W 73 St,10023,Manhattan,Upper West Side,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-12-03,2015-12-03,50.9,6.2,0.1,10.0,1
+Subscriber,435,W 21 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-05-29,2015-05-29,73.6,4.5,0.0,20.0,1
+Subscriber,509,9 Ave & W 22 St,10011,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-10-09,2015-10-09,66.6,3.0,0.0,20.0,1
+Subscriber,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-09-09,2015-09-09,82.0,4.0,0.0,10.0,1
+Subscriber,3133,E 67 St & Lexington Ave,10065,Manhattan,Upper East Side,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-09-20,2015-09-20,73.9,6.3,0.0,10.0,2
+Subscriber,3175,W 70 St & Amsterdam Ave,10023,Manhattan,Upper West Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-09-15,2015-09-15,72.0,2.1,0.0,10.0,1
+Subscriber,3150,E 85 St & York Ave,10028,Manhattan,Upper East Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-12-08,2015-12-08,44.6,4.6,0.0,10.0,5
+Subscriber,523,W 38 St & 8 Ave,10018,Manhattan,Chelsea and Clinton,Riverside Blvd & W 67 St,10069,Manhattan,West Side,2015-12-25,2015-12-25,62.0,0.7,0.01,10.0,1
+Subscriber,160,E 37 St & Lexington Ave,10016,Manhattan,Gramercy Park and Murray Hill,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-11-06,2015-11-06,69.4,3.7,0.01,20.0,1
+Subscriber,515,W 43 St & 10 Ave,10036,Manhattan,Chelsea and Clinton,E 71 St & 2 Ave,10021,Manhattan,Upper East Side,2015-12-22,2015-12-22,57.2,4.9,0.0,20.0,1
+Subscriber,505,6 Ave & W 33 St,10001,Manhattan,Chelsea and Clinton,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-10-05,2015-10-05,57.7,6.6,0.0,30.0,1
+Customer,295,Pike St & E Broadway,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-07-22,2015-07-22,77.3,4.5,0.0,0.0,2
+Subscriber,340,Madison St & Clinton St,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-09-23,2014-09-23,60.1,2.7,0.0,10.0,1
+Customer,2009,Catherine St & Monroe St,10038,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-04-22,2015-04-22,57.7,4.8,0.06,10.0,1
+Subscriber,147,Greenwich St & Warren St,10007,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-04-01,2015-04-01,38.9,4.7,0.17,10.0,1
+Customer,151,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-10-21,2015-10-21,65.0,2.8,0.0,10.0,2
+Subscriber,316,Fulton St & William St,10038,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-01-28,2014-01-28,17.8,6.5,0.0,10.0,1
+Customer,147,Greenwich St & Warren St,10007,Manhattan,Lower Manhattan,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-08-04,2015-08-04,80.7,4.6,0.43,10.0,2
+Subscriber,502,Henry St & Grand St,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-11-21,2014-11-21,32.3,7.5,0.0,10.0,3
+Subscriber,340,Madison St & Clinton St,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-03-25,2014-03-25,32.4,4.1,0.0,10.0,1
+Subscriber,531,Forsyth St & Broome St,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-09-26,2015-09-26,66.5,5.2,0.0,10.0,1
+Subscriber,403,E 2 St & 2 Ave,10003,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-10-19,2015-10-19,42.9,2.2,0.0,10.0,1
+Subscriber,503,E 20 St & Park Ave,10010,Manhattan,Gramercy Park and Murray Hill,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-05-14,2015-05-14,60.0,3.5,0.0,20.0,1
+Customer,229,Great Jones St,10012,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-10-17,2015-10-17,51.6,5.0,0.0,30.0,1
+Subscriber,151,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2014-08-09,2014-08-09,76.0,2.5,0.0,10.0,4
+Customer,545,E 23 St & 1 Ave,10010,Manhattan,Gramercy Park and Murray Hill,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-07-03,2015-07-03,73.5,2.4,0.0,60.0,3
+Subscriber,146,Hudson St & Reade St,10013,Manhattan,Greenwich Village and Soho,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-01-16,2015-01-16,33.4,7.3,0.0,0.0,1
+Subscriber,332,Cherry St,10002,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-10-07,2015-10-07,64.9,2.5,0.0,10.0,1
+Subscriber,302,Avenue D & E 3 St,10009,Manhattan,Lower East Side,Centre St & Worth St,10278,Manhattan,Lower Manhattan,2015-06-11,2015-06-11,79.6,4.5,0.0,10.0,1
+Subscriber,304,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-12-05,2014-12-05,38.4,6.1,0.0,10.0,1
+Subscriber,264,Maiden Ln & Pearl St,10038,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-05-21,2015-05-21,56.7,2.5,0.0,20.0,1
+Subscriber,521,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-11-25,2014-11-25,60.0,4.3,0.02,20.0,3
+Subscriber,224,Spruce St & Nassau St,10038,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-06-22,2014-06-22,69.8,1.5,0.0,10.0,1
+Subscriber,259,South St & Whitehall St,10004,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-09-15,2014-09-15,62.8,2.5,0.0,10.0,1
+Customer,327,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-06-21,2014-06-21,70.4,4.7,0.0,20.0,9
+Subscriber,387,Centre St & Chambers St,10007,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-03-27,2015-03-27,43.9,4.2,0.59,10.0,2
+Subscriber,304,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-09-21,2015-09-21,65.8,7.4,0.0,10.0,5
+Subscriber,351,Front St & Maiden Ln,10005,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-07-31,2015-07-31,80.5,3.3,1.95,20.0,1
+Subscriber,427,Bus Slip & State St,10004,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-01-13,2015-01-13,29.5,7.3,0.35,10.0,4
+Subscriber,3166,Riverside Dr & W 72 St,10024,Manhattan,Upper West Side,West St & Chambers St,10282,Manhattan,Tribeca,2015-11-01,2015-11-01,57.9,3.9,0.0,30.0,2
+Subscriber,426,West St & Chambers St,10282,Manhattan,Tribeca,West St & Chambers St,10282,Manhattan,Tribeca,2014-07-18,2014-07-18,73.4,3.6,0.0,0.0,4
+Subscriber,327,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-09-14,2015-09-14,66.4,6.3,0.04,230.0,2
+Subscriber,426,West St & Chambers St,10282,Manhattan,Tribeca,West St & Chambers St,10282,Manhattan,Tribeca,2015-06-04,2015-06-04,58.0,4.6,0.0,10.0,3
+Subscriber,2009,Catherine St & Monroe St,10038,Manhattan,Lower Manhattan,West St & Chambers St,10282,Manhattan,Tribeca,2014-06-15,2014-06-15,67.7,4.0,0.0,30.0,3
+Subscriber,306,Cliff St & Fulton St,10038,Manhattan,Lower Manhattan,West St & Chambers St,10282,Manhattan,Tribeca,2015-08-08,2015-08-08,74.7,3.4,0.0,20.0,2
+Subscriber,306,Cliff St & Fulton St,10038,Manhattan,Lower Manhattan,West St & Chambers St,10282,Manhattan,Tribeca,2014-11-12,2014-11-12,59.5,2.4,0.0,10.0,1
+Subscriber,426,West St & Chambers St,10282,Manhattan,Tribeca,West St & Chambers St,10282,Manhattan,Tribeca,2014-08-13,2014-08-13,72.5,4.9,0.7,0.0,4
+Subscriber,72,W 52 St & 11 Ave,10019,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-04-21,2014-04-21,52.0,3.6,0.0,30.0,1
+Subscriber,387,Centre St & Chambers St,10007,Manhattan,Lower Manhattan,West St & Chambers St,10282,Manhattan,Tribeca,2015-11-02,2015-11-02,59.4,2.6,0.0,10.0,7
+Subscriber,387,Centre St & Chambers St,10007,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-12-30,2014-12-30,32.5,4.3,0.0,10.0,2
+Subscriber,3230,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2015-11-13,2015-11-13,55.4,9.4,0.01,20.0,2
+Subscriber,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2014-10-16,2014-10-16,68.8,3.4,1.68,10.0,6
+Customer,225,W 14 St & The High Line,10014,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2015-07-27,2015-07-27,78.5,2.8,0.36,60.0,1
+Subscriber,514,12 Ave & W 40 St,10018,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-05-11,2014-05-11,70.1,4.0,0.4,20.0,3
+Subscriber,147,Greenwich St & Warren St,10007,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-06-10,2015-06-10,74.0,2.5,0.01,10.0,2
+Subscriber,327,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,West St & Chambers St,10282,Manhattan,Tribeca,2014-08-27,2014-08-27,78.5,2.3,0.0,0.0,3
+Customer,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2015-07-25,2015-07-25,78.2,2.5,0.0,10.0,3
+Subscriber,457,Broadway & W 58 St,10019,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2014-07-09,2014-07-09,78.8,4.9,0.39,30.0,2
+Subscriber,426,West St & Chambers St,10282,Manhattan,Tribeca,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-05-12,2015-05-12,75.6,3.7,0.0,0.0,4
+Subscriber,380,W 4 St & 7 Ave S,10014,Manhattan,Greenwich Village and Soho,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-06-11,2015-06-11,79.6,4.5,0.0,10.0,2
+Subscriber,362,Broadway & W 37 St,10018,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2014-07-23,2014-07-23,79.7,4.8,0.0,30.0,1
+Subscriber,380,W 4 St & 7 Ave S,10014,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2014-08-17,2014-08-17,73.6,3.4,0.0,10.0,3
+Subscriber,335,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2014-09-22,2014-09-22,67.3,5.3,0.0,20.0,1
+Subscriber,540,Lexington Ave & E 26 St,10010,Manhattan,Gramercy Park and Murray Hill,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-05-30,2014-05-30,63.3,1.6,0.0,30.0,1
+Customer,387,Centre St & Chambers St,10007,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-08-21,2014-08-21,73.9,2.8,0.04,20.0,2
+Subscriber,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2015-12-10,2015-12-10,54.9,4.5,0.0,10.0,4
+Subscriber,508,W 46 St & 11 Ave,10036,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2014-05-30,2014-05-30,63.3,1.6,0.0,20.0,3
+Subscriber,303,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2014-06-03,2014-06-03,75.3,3.7,0.0,10.0,3
+Subscriber,2008,Little West St & 1 Pl,10280,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-08-18,2015-08-18,81.8,3.6,0.29,10.0,12
+Subscriber,2010,Grand St & Greene St,10013,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2014-04-27,2014-04-27,51.9,5.2,0.05,10.0,1
+Customer,432,E 7 St & Avenue A,10009,Manhattan,Lower East Side,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-08-22,2015-08-22,76.9,3.7,0.32,30.0,1
+Subscriber,355,Bayard St & Baxter St,10013,Manhattan,Greenwich Village and Soho,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-09-07,2015-09-07,78.4,3.4,0.0,10.0,2
+Customer,72,W 52 St & 11 Ave,10019,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2015-07-25,2015-07-25,78.2,2.5,0.0,40.0,1
+Subscriber,380,W 4 St & 7 Ave S,10014,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2015-11-20,2015-11-20,58.1,5.5,1.25,10.0,3
+Subscriber,238,Bank St & Washington St,10014,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2015-05-23,2015-05-23,59.3,4.6,0.0,10.0,4
+Customer,225,W 14 St & The High Line,10014,Manhattan,Greenwich Village and Soho,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-05-29,2015-05-29,73.6,4.5,0.0,20.0,5
+Subscriber,329,Greenwich St & N Moore St,10013,Manhattan,Greenwich Village and Soho,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-10-26,2015-10-26,51.8,3.9,0.03,10.0,7
+Subscriber,528,2 Ave & E 31 St,10016,Manhattan,Gramercy Park and Murray Hill,West St & Chambers St,10282,Manhattan,Tribeca,2014-10-06,2014-10-06,58.6,3.0,0.0,30.0,1
+Customer,404,9 Ave & W 14 St,10014,Manhattan,Greenwich Village and Soho,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-04-27,2014-04-27,51.9,5.2,0.05,20.0,1
+Subscriber,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2014-05-24,2014-05-24,60.2,3.4,0.99,10.0,5
+Subscriber,526,E 33 St & 5 Ave,10016,Manhattan,Gramercy Park and Murray Hill,West St & Chambers St,10282,Manhattan,Tribeca,2014-10-14,2014-10-14,67.9,3.7,0.05,30.0,1
+Subscriber,459,W 20 St & 11 Ave,10011,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2014-03-02,2014-03-02,36.9,3.4,0.0,10.0,1
+Customer,459,W 20 St & 11 Ave,10011,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2014-09-20,2014-09-20,65.0,3.2,0.0,20.0,6
+Subscriber,507,E 25 St & 2 Ave,10010,Manhattan,Gramercy Park and Murray Hill,West St & Chambers St,10282,Manhattan,Tribeca,2015-04-28,2015-04-28,59.0,6.6,0.0,20.0,3
+Subscriber,257,Lispenard St & Broadway,10013,Manhattan,Greenwich Village and Soho,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-04-13,2014-04-13,63.0,4.7,0.0,10.0,2
+Customer,334,W 20 St & 7 Ave,10011,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2015-09-22,2015-09-22,66.8,6.4,0.0,20.0,1
+Subscriber,329,Greenwich St & N Moore St,10013,Manhattan,Greenwich Village and Soho,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-05-26,2015-05-26,76.1,4.5,0.0,10.0,8
+Subscriber,483,E 12 St & 3 Ave,10003,Manhattan,Lower East Side,West St & Chambers St,10282,Manhattan,Tribeca,2015-08-25,2015-08-25,80.9,3.0,0.0,20.0,1
+Subscriber,249,Harrison St & Hudson St,10013,Manhattan,Greenwich Village and Soho,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-03-16,2015-03-16,40.7,4.6,0.0,0.0,1
+Subscriber,459,W 20 St & 11 Ave,10011,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-05-13,2015-05-13,64.5,6.7,0.0,20.0,1
+Customer,212,W 16 St & The High Line,10011,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-08-08,2015-08-08,74.7,3.4,0.0,20.0,1
+Subscriber,428,E 3 St & 1 Ave,10003,Manhattan,Lower East Side,West St & Chambers St,10282,Manhattan,Tribeca,2014-06-18,2014-06-18,83.4,5.6,0.0,20.0,3
+Subscriber,2008,Little West St & 1 Pl,10280,Manhattan,Lower Manhattan,West St & Chambers St,10282,Manhattan,Tribeca,2015-04-26,2015-04-26,54.1,4.8,0.0,10.0,6
+Subscriber,458,11 Ave & W 27 St,10001,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2014-06-07,2014-06-07,71.0,2.5,0.0,20.0,3
+Subscriber,212,W 16 St & The High Line,10011,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-05-15,2014-05-15,63.1,4.4,0.12,20.0,2
+Subscriber,459,W 20 St & 11 Ave,10011,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-07-02,2015-07-02,74.7,1.3,0.39,20.0,4
+Subscriber,2008,Little West St & 1 Pl,10280,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-10-06,2015-10-06,61.2,1.5,0.0,0.0,2
+Subscriber,310,State St & Smith St,11201,Brooklyn,Northwest Brooklyn,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-05-11,2014-05-11,70.1,4.0,0.4,30.0,1
+Subscriber,363,West Thames St,10280,Manhattan,Lower Manhattan,West St & Chambers St,10282,Manhattan,Tribeca,2014-03-30,2014-03-30,45.3,9.6,2.01,10.0,2
+Subscriber,3002,South End Ave & Liberty St,10280,Manhattan,Lower Manhattan,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-05-24,2014-05-24,60.2,3.4,0.99,0.0,6
+Subscriber,328,Watts St & Greenwich St,10013,Manhattan,Greenwich Village and Soho,West St & Chambers St,10282,Manhattan,Tribeca,2014-06-16,2014-06-16,72.3,2.1,0.0,10.0,4
+Subscriber,377,6 Ave & Canal St,10013,Manhattan,Greenwich Village and Soho,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-05-18,2014-05-18,60.0,4.3,0.0,10.0,3
+Customer,442,W 27 St & 7 Ave,10001,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2014-06-30,2014-07-01,75.7,2.2,0.0,20.0,2
+Subscriber,508,W 46 St & 11 Ave,10036,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2015-10-22,2015-10-22,65.4,4.1,0.0,20.0,2
+Subscriber,495,W 47 St & 10 Ave,10036,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-07-16,2015-07-16,72.8,5.9,0.12,30.0,2
+Subscriber,382,University Pl & E 14 St,10003,Manhattan,Lower East Side,West St & Chambers St,10282,Manhattan,Tribeca,2015-07-07,2015-07-07,78.7,3.6,0.0,30.0,2
+Customer,490,8 Ave & W 33 St,10001,Manhattan,Chelsea and Clinton,West St & Chambers St,10282,Manhattan,Tribeca,2015-05-30,2015-05-30,73.5,4.1,0.0,20.0,1
+Subscriber,442,W 27 St & 7 Ave,10001,Manhattan,Chelsea and Clinton,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,2015-06-11,2015-06-11,79.6,4.5,0.0,20.0,1
+Subscriber,318,E 43 St & Vanderbilt Ave,10017,Manhattan,Gramercy Park and Murray Hill,West St & Chambers St,10282,Manhattan,Tribeca,2014-06-23,2014-06-23,71.8,2.4,0.0,20.0,2
+Subscriber,426,West St & Chambers St,10282,Manhattan,Tribeca,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-09-30,2014-09-30,68.8,3.3,0.0,30.0,1
+Subscriber,464,E 56 St & 3 Ave,10022,Manhattan,Gramercy Park and Murray Hill,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-07-07,2015-07-07,78.7,3.6,0.0,10.0,1
+Subscriber,352,W 56 St & 6 Ave,10019,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-12-10,2014-12-10,37.7,6.6,2.01,0.0,1
+Customer,485,W 37 St & 5 Ave,10018,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-09-28,2015-09-28,70.1,2.3,0.0,20.0,3
+Subscriber,444,Broadway & W 24 St,10010,Manhattan,Gramercy Park and Murray Hill,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-11-21,2014-11-21,32.3,7.5,0.0,10.0,1
+Subscriber,2023,E 55 St & Lexington Ave,10022,Manhattan,Gramercy Park and Murray Hill,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-01-18,2014-01-18,37.6,999.9,0.0,0.0,1
+Subscriber,477,W 41 St & 8 Ave,10018,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-04-03,2015-04-03,61.1,6.3,0.0,10.0,3
+Subscriber,3146,E 81 St & 3 Ave,10028,Manhattan,Upper East Side,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-09-29,2015-09-29,75.6,2.7,0.0,10.0,1
+Subscriber,499,Broadway & W 60 St,10023,Manhattan,Upper West Side,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-08-28,2014-08-28,76.4,4.9,0.0,10.0,3
+Subscriber,499,Broadway & W 60 St,10023,Manhattan,Upper West Side,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-11-16,2015-11-16,58.1,2.9,0.0,10.0,4
+Subscriber,362,Broadway & W 37 St,10018,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-08-07,2015-08-07,76.4,4.3,0.0,10.0,1
+Subscriber,492,W 33 St & 7 Ave,10001,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-06-02,2015-06-02,52.4,6.8,0.4,10.0,2
+Subscriber,3141,1 Ave & E 68 St,10065,Manhattan,Upper East Side,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-12-31,2015-12-31,46.5,3.0,0.19,10.0,2
+Subscriber,484,W 44 St & 5 Ave,10036,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-08-06,2015-08-06,75.6,2.7,0.0,10.0,2
+Subscriber,490,8 Ave & W 33 St,10001,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2015-03-10,2015-03-10,47.2,3.3,0.13,10.0,4
+Customer,446,W 24 St & 7 Ave,10001,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-10-28,2014-10-28,60.6,2.3,0.0,30.0,2
+Subscriber,379,W 31 St & 7 Ave,10001,Manhattan,Chelsea and Clinton,W 52 St & 5 Ave,10103,Manhattan,Chelsea and Clinton,2014-04-29,2014-04-29,49.7,7.1,0.0,10.0,3
+Subscriber,242,Carlton Ave & Flushing Ave,11205,Brooklyn,Northwest Brooklyn,Lewis Ave & Madison St,11221,Brooklyn,Bushwick and Williamsburg,2015-12-07,2015-12-07,48.0,2.9,0.0,20.0,1
+Subscriber,3139,E 72 St & Park Ave,10021,Manhattan,Upper East Side,E 71 St & 2 Ave,10021,Manhattan,Upper East Side,2015-12-21,2015-12-21,45.0,6.1,0.0,0.0,2
+Subscriber,3140,1 Ave & E 78 St,10075,Manhattan,Upper East Side,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-10-08,2015-10-08,63.8,2.9,0.0,0.0,2
+Subscriber,3158,W 63 St & Broadway,10023,Manhattan,Upper West Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-10-22,2015-10-22,65.4,4.1,0.0,10.0,2
+Subscriber,3134,3 Ave & E 62 St,10065,Manhattan,Upper East Side,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-11-05,2015-11-05,62.8,1.9,0.0,10.0,4
+Subscriber,3175,W 70 St & Amsterdam Ave,10023,Manhattan,Upper West Side,Riverside Blvd & W 67 St,10069,Manhattan,West Side,2015-10-22,2015-10-22,65.4,4.1,0.0,10.0,3
+Subscriber,441,E 52 St & 2 Ave,10022,Manhattan,Gramercy Park and Murray Hill,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-12-09,2015-12-09,45.8,2.7,0.0,20.0,1
+Subscriber,477,W 41 St & 8 Ave,10018,Manhattan,Chelsea and Clinton,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-11-01,2015-11-01,57.9,3.9,0.0,20.0,1
+Subscriber,3161,W 76 St & Columbus Ave,10023,Manhattan,Upper West Side,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-11-01,2015-11-01,57.9,3.9,0.0,30.0,2
+Subscriber,3161,W 76 St & Columbus Ave,10023,Manhattan,Upper West Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-12-07,2015-12-07,48.0,2.9,0.0,20.0,1
+Subscriber,456,E 53 St & Madison Ave,10022,Manhattan,Gramercy Park and Murray Hill,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-10-05,2015-10-05,57.7,6.6,0.0,10.0,1
+Subscriber,3178,Riverside Dr & W 78 St,10024,Manhattan,Upper West Side,Riverside Blvd & W 67 St,10069,Manhattan,West Side,2015-10-30,2015-10-30,55.8,5.4,0.04,0.0,3
+Subscriber,3150,E 85 St & York Ave,10028,Manhattan,Upper East Side,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-11-01,2015-11-01,57.9,3.9,0.0,10.0,4
+Subscriber,3178,Riverside Dr & W 78 St,10024,Manhattan,Upper West Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-09-18,2015-09-18,76.3,2.4,0.0,20.0,1
+Subscriber,3148,E 84 St & 1 Ave,10028,Manhattan,Upper East Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-11-14,2015-11-14,46.4,8.0,0.0,10.0,2
+Subscriber,455,1 Ave & E 44 St,10017,Manhattan,Gramercy Park and Murray Hill,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-12-19,2015-12-19,38.2,7.4,0.0,10.0,1
+Subscriber,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,Riverside Blvd & W 67 St,10069,Manhattan,West Side,2015-11-21,2015-11-21,46.4,4.9,0.0,20.0,1
+Subscriber,505,6 Ave & W 33 St,10001,Manhattan,Chelsea and Clinton,E 72 St & York Ave,10021,Manhattan,Upper East Side,2015-10-27,2015-10-27,51.9,3.5,0.0,30.0,1
+Subscriber,359,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-16,2015-09-16,75.8,1.5,0.0,10.0,2
+Subscriber,456,E 53 St & Madison Ave,10022,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-15,2015-05-15,63.1,3.3,0.0,20.0,1
+Subscriber,309,Murray St & West St,10007,Manhattan,Lower Manhattan,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-06-10,2014-06-10,69.5,3.4,0.96,20.0,1
+Subscriber,380,W 4 St & 7 Ave S,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-04,2015-05-04,70.1,3.6,0.0,10.0,1
+Subscriber,248,Laight St & Hudson St,10013,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-02-18,2014-02-18,32.0,4.2,0.07,20.0,1
+Subscriber,127,Barrow St & Hudson St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-09-07,2014-09-07,72.6,4.1,0.11,10.0,1
+Subscriber,3230,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,2015-10-22,2015-10-22,65.4,4.1,0.0,0.0,7
+Customer,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-04-13,2015-04-13,57.7,3.5,0.0,20.0,2
+Subscriber,127,Barrow St & Hudson St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-08-19,2015-08-19,80.0,4.0,0.0,10.0,4
+Subscriber,368,Carmine St & 6 Ave,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-04-25,2014-04-25,52.6,4.2,0.0,10.0,3
+Subscriber,2021,W 45 St & 8 Ave,10036,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-04,2015-05-04,70.1,3.6,0.0,10.0,1
+Subscriber,229,Great Jones St,10012,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-08-25,2014-08-25,74.3,1.9,0.0,10.0,1
+Subscriber,528,2 Ave & E 31 St,10016,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-06-05,2015-06-05,59.4,3.2,0.0,10.0,1
+Subscriber,461,E 20 St & 2 Ave,10003,Manhattan,Lower East Side,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-11-05,2014-11-05,60.4,4.3,0.0,10.0,2
+Subscriber,293,Lafayette St & E 8 St,10003,Manhattan,Lower East Side,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-08-07,2014-08-07,74.4,3.6,0.0,10.0,2
+Subscriber,357,E 11 St & Broadway,10003,Manhattan,Lower East Side,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-12-14,2014-12-14,41.0,5.9,0.0,20.0,1
+Subscriber,405,Washington St & Gansevoort St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-01,2015-05-01,53.6,5.1,0.0,10.0,1
+Subscriber,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-08-26,2014-08-26,77.7,2.0,0.0,10.0,8
+Subscriber,463,9 Ave & W 16 St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-11-20,2014-11-20,38.2,5.7,0.0,10.0,10
+Subscriber,488,W 39 St & 9 Ave,10018,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-04-29,2014-04-29,49.7,7.1,0.0,10.0,1
+Subscriber,508,W 46 St & 11 Ave,10036,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-14,2015-09-14,66.4,6.3,0.04,10.0,2
+Subscriber,503,E 20 St & Park Ave,10010,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-08-03,2015-08-03,81.3,3.7,0.0,10.0,3
+Subscriber,281,Grand Army Plaza & Central Park S,10019,Manhattan,Chelsea and Clinton,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,2015-11-11,2015-11-11,52.7,6.0,0.69,20.0,1
+Subscriber,444,Broadway & W 24 St,10010,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-03-18,2014-03-18,33.9,5.7,0.0,10.0,7
+Subscriber,502,Henry St & Grand St,10002,Manhattan,Lower East Side,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-12-02,2015-12-02,49.3,2.9,0.21,30.0,1
+Subscriber,253,W 13 St & 5 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-06-18,2015-06-18,66.8,3.3,0.0,10.0,1
+Subscriber,459,W 20 St & 11 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-09-16,2014-09-16,63.5,1.7,0.03,10.0,8
+Subscriber,517,E 41 St & Madison Ave,10017,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-05-05,2014-05-05,58.4,7.2,0.02,10.0,2
+Subscriber,351,Front St & Maiden Ln,10005,Manhattan,Lower Manhattan,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-28,2015-09-28,70.1,2.3,0.0,30.0,1
+Subscriber,459,W 20 St & 11 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-05-14,2014-05-14,58.2,4.7,0.0,10.0,9
+Subscriber,509,9 Ave & W 22 St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-11-25,2015-11-25,42.5,2.3,0.0,10.0,1
+Customer,463,9 Ave & W 16 St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-11-04,2014-11-04,59.5,4.4,0.0,10.0,1
+Subscriber,434,9 Ave & W 18 St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-10-27,2015-10-27,51.9,3.5,0.0,10.0,3
+Subscriber,435,W 21 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,2015-12-07,2015-12-07,48.0,2.9,0.0,10.0,1
+Subscriber,484,W 44 St & 5 Ave,10036,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-10-20,2015-10-20,56.2,5.7,0.0,10.0,2
+Subscriber,268,Howard St & Centre St,10013,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-06-10,2015-06-10,74.0,2.5,0.01,10.0,1
+Subscriber,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-10-12,2014-10-12,54.0,2.1,0.19,10.0,1
+Subscriber,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-03-18,2014-03-18,33.9,5.7,0.0,10.0,4
+Customer,470,W 20 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-14,2015-09-14,66.4,6.3,0.04,10.0,4
+Subscriber,2004,6 Ave & Broome St,10013,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-08-26,2015-08-26,76.0,3.7,0.0,20.0,3
+Customer,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-11-12,2015-11-12,55.4,3.6,0.43,10.0,4
+Subscriber,116,W 17 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-06-30,2015-06-30,74.5,3.7,0.0,10.0,17
+Subscriber,494,W 26 St & 8 Ave,10001,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-17,2015-05-17,72.2,2.1,0.29,0.0,5
+Subscriber,479,9 Ave & W 45 St,10036,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-06-18,2015-06-18,66.8,3.3,0.0,10.0,2
+Subscriber,489,10 Ave & W 28 St,10001,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-06-24,2014-06-24,73.1,3.8,0.0,10.0,5
+Subscriber,2021,W 45 St & 8 Ave,10036,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-07-20,2015-07-20,88.0,4.1,0.0,10.0,3
+Subscriber,458,11 Ave & W 27 St,10001,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-11-17,2015-11-17,47.5,6.4,0.0,10.0,5
+Subscriber,517,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-09-19,2015-09-19,74.7,1.8,0.0,20.0,1
+Subscriber,537,Lexington Ave & E 24 St,10010,Manhattan,Gramercy Park and Murray Hill,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-10-12,2015-10-12,64.4,3.7,0.0,20.0,2
+Subscriber,517,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-07-01,2015-07-01,75.0,4.3,0.43,10.0,1
+Subscriber,306,Cliff St & Fulton St,10038,Manhattan,Lower Manhattan,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-01-23,2015-01-23,32.7,5.5,0.0,10.0,2
+Customer,426,West St & Chambers St,10282,Manhattan,Tribeca,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-05-24,2015-05-24,66.2,3.3,0.0,30.0,6
+Subscriber,3108,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-09-22,2015-09-22,66.8,6.4,0.0,30.0,1
+Subscriber,393,E 5 St & Avenue C,10009,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-04-09,2015-04-09,38.8,8.9,0.0,10.0,1
+Subscriber,351,Front St & Maiden Ln,10005,Manhattan,Lower Manhattan,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-12-17,2014-12-17,47.4,4.2,0.22,20.0,1
+Customer,517,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-09-14,2015-09-14,66.4,6.3,0.04,40.0,2
+Subscriber,307,Canal St & Rutgers St,10002,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-12-30,2014-12-30,32.5,4.3,0.0,10.0,2
+Subscriber,387,Centre St & Chambers St,10007,Manhattan,Lower Manhattan,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-05-16,2015-05-16,65.4,1.8,0.03,10.0,5
+Subscriber,417,Barclay St & Church St,10007,Manhattan,Lower Manhattan,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-06-27,2014-06-27,75.1,3.4,0.07,10.0,3
+Subscriber,229,Great Jones St,10012,Manhattan,Greenwich Village and Soho,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-10-14,2014-10-14,67.9,3.7,0.05,0.0,1
+Subscriber,376,John St & William St,10038,Manhattan,Lower Manhattan,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-10-30,2015-10-30,55.8,5.4,0.04,10.0,1
+Subscriber,401,Allen St & Rivington St,10002,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-06-06,2014-06-06,67.7,4.2,0.25,10.0,1
+Subscriber,330,Reade St & Broadway,10007,Manhattan,Lower Manhattan,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-07-08,2014-07-08,81.4,4.1,0.43,10.0,2
+Subscriber,161,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-10-28,2014-10-28,60.6,2.3,0.0,20.0,3
+Subscriber,229,Great Jones St,10012,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-11-17,2014-11-17,43.7,2.6,0.49,10.0,1
+Subscriber,532,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-06-05,2015-06-05,59.4,3.2,0.0,20.0,1
+Subscriber,250,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-10-15,2014-10-15,71.4,4.4,0.0,0.0,2
+Subscriber,336,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-09-07,2014-09-07,72.6,4.1,0.11,10.0,2
+Subscriber,375,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-08-04,2015-08-04,80.7,4.6,0.43,10.0,1
+Subscriber,353,S Portland Ave & Hanson Pl,11217,Brooklyn,Northwest Brooklyn,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-07-24,2014-07-24,75.1,4.4,0.19,30.0,1
+Subscriber,329,Greenwich St & N Moore St,10013,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-05-07,2015-05-07,66.2,1.7,0.0,10.0,1
+Subscriber,309,Murray St & West St,10007,Manhattan,Lower Manhattan,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2014-04-29,2014-04-29,49.7,7.1,0.0,20.0,1
+Subscriber,386,Centre St & Worth St,10278,Manhattan,Lower Manhattan,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-07-22,2014-07-22,77.0,2.3,0.0,10.0,4
+Subscriber,72,W 52 St & 11 Ave,10019,Manhattan,Chelsea and Clinton,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-03-09,2014-03-09,41.4,5.6,0.0,30.0,1
+Subscriber,439,E 4 St & 2 Ave,10003,Manhattan,Lower East Side,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-10-15,2015-10-15,58.2,3.5,0.0,10.0,3
+Subscriber,326,E 11 St & 1 Ave,10003,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-07-24,2015-07-24,77.8,2.1,0.0,10.0,2
+Subscriber,502,Henry St & Grand St,10002,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-06-04,2014-06-04,70.8,2.7,0.12,10.0,1
+Subscriber,521,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-08-12,2015-08-12,77.0,3.8,0.58,20.0,1
+Customer,447,8 Ave & W 52 St,10019,Manhattan,Chelsea and Clinton,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-06-07,2015-06-07,65.0,3.0,0.19,30.0,1
+Subscriber,312,Allen St & E Houston St,10002,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-09-30,2015-09-30,73.5,5.3,1.33,0.0,3
+Subscriber,284,Greenwich Ave & 8 Ave,10014,Manhattan,Greenwich Village and Soho,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-03-15,2015-03-15,42.4,8.8,0.58,10.0,3
+Subscriber,312,Allen St & E Houston St,10002,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-05-07,2014-05-07,59.1,3.2,0.0,10.0,2
+Subscriber,517,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-11-10,2015-11-10,55.0,6.7,0.0,10.0,1
+Subscriber,347,Greenwich St & W Houston St,10014,Manhattan,Greenwich Village and Soho,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-12-24,2015-12-24,66.4,5.1,1.56,10.0,1
+Subscriber,284,Greenwich Ave & 8 Ave,10014,Manhattan,Greenwich Village and Soho,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-01-24,2015-01-24,35.4,5.5,0.66,10.0,2
+Subscriber,380,W 4 St & 7 Ave S,10014,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-09-18,2014-09-18,65.8,1.8,0.0,0.0,3
+Subscriber,473,Rivington St & Chrystie St,10002,Manhattan,Lower East Side,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-06-24,2015-06-24,76.7,4.5,0.02,10.0,1
+Subscriber,306,Cliff St & Fulton St,10038,Manhattan,Lower Manhattan,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-11-06,2015-11-06,69.4,3.7,0.01,20.0,1
+Subscriber,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-07-07,2015-07-07,78.7,3.6,0.0,10.0,3
+Subscriber,503,E 20 St & Park Ave,10010,Manhattan,Gramercy Park and Murray Hill,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-02-02,2014-02-02,45.1,3.1,0.0,10.0,1
+Customer,259,South St & Whitehall St,10004,Manhattan,Lower Manhattan,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-10-04,2014-10-04,64.2,5.3,0.14,20.0,1
+Subscriber,473,Rivington St & Chrystie St,10002,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-06-21,2014-06-21,70.4,4.7,0.0,10.0,1
+Subscriber,473,Rivington St & Chrystie St,10002,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-08-01,2014-08-01,75.5,3.3,0.0,10.0,2
+Subscriber,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-10-19,2015-10-19,42.9,2.2,0.0,10.0,1
+Subscriber,387,Centre St & Chambers St,10007,Manhattan,Lower Manhattan,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-02-23,2014-02-23,48.6,4.1,0.0,40.0,2
+Subscriber,147,Greenwich St & Warren St,10007,Manhattan,Lower Manhattan,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-03-19,2015-03-19,34.0,5.5,0.0,20.0,1
+Customer,380,W 4 St & 7 Ave S,10014,Manhattan,Greenwich Village and Soho,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-09-26,2015-09-26,66.5,5.2,0.0,10.0,2
+Subscriber,151,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-01-07,2014-01-07,12.3,13.0,0.27,0.0,2
+Subscriber,426,West St & Chambers St,10282,Manhattan,Tribeca,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-05-15,2014-05-15,63.1,4.4,0.12,10.0,3
+Subscriber,519,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-10-17,2014-10-17,64.6,4.0,0.12,30.0,1
+Customer,319,Park Pl & Church St,10007,Manhattan,Lower Manhattan,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-08-31,2014-08-31,77.0,3.0,0.0,20.0,4
+Subscriber,519,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-05-15,2015-05-15,63.1,3.3,0.0,10.0,2
+Subscriber,315,South St & Gouverneur Ln,10038,Manhattan,Lower Manhattan,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-02-12,2015-02-12,32.3,4.6,0.0,20.0,1
+Subscriber,247,Perry St & Bleecker St,10014,Manhattan,Greenwich Village and Soho,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-05-11,2015-05-11,75.3,3.6,0.0,10.0,3
+Subscriber,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-01-07,2014-01-07,12.3,13.0,0.27,10.0,1
+Subscriber,346,Bank St & Hudson St,10014,Manhattan,Greenwich Village and Soho,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-08-02,2015-08-02,79.9,2.0,0.0,20.0,1
+Subscriber,2021,W 45 St & 8 Ave,10036,Manhattan,Chelsea and Clinton,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-07-31,2015-07-31,80.5,3.3,1.95,30.0,1
+Customer,279,Peck Slip & Front St,10038,Manhattan,Lower Manhattan,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-06-17,2015-06-17,73.3,3.4,0.27,20.0,2
+Customer,444,Broadway & W 24 St,10010,Manhattan,Gramercy Park and Murray Hill,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-08-11,2015-08-11,74.9,3.9,0.59,40.0,2
+Subscriber,229,Great Jones St,10012,Manhattan,Greenwich Village and Soho,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-08-02,2015-08-02,79.9,2.0,0.0,0.0,1
+Subscriber,229,Great Jones St,10012,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-04-27,2014-04-27,51.9,5.2,0.05,0.0,3
+Subscriber,303,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-07-28,2015-07-28,82.7,2.2,0.0,0.0,1
+Customer,303,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-09-05,2014-09-05,78.2,3.1,0.0,150.0,1
+Customer,348,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-04-29,2015-04-29,64.9,4.3,0.0,0.0,1
+Subscriber,405,Washington St & Gansevoort St,10014,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-04-27,2014-04-27,51.9,5.2,0.05,10.0,2
+Customer,405,Washington St & Gansevoort St,10014,Manhattan,Greenwich Village and Soho,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-07-11,2015-07-11,78.7,1.9,0.0,20.0,2
+Subscriber,356,Bialystoker Pl & Delancey St,10002,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-07-25,2014-07-25,73.7,3.5,0.0,10.0,2
+Subscriber,473,Rivington St & Chrystie St,10002,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-06-17,2015-06-17,73.3,3.4,0.27,0.0,3
+Subscriber,250,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-06-05,2014-06-05,68.1,4.5,0.62,0.0,2
+Subscriber,127,Barrow St & Hudson St,10014,Manhattan,Greenwich Village and Soho,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-12-09,2015-12-09,45.8,2.7,0.0,10.0,3
+Subscriber,127,Barrow St & Hudson St,10014,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-05-04,2014-05-04,57.6,5.1,0.08,10.0,1
+Subscriber,404,9 Ave & W 14 St,10014,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-05-05,2014-05-05,58.4,7.2,0.02,10.0,1
+Subscriber,483,E 12 St & 3 Ave,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-03-25,2015-03-25,39.9,3.5,0.0,10.0,1
+Subscriber,382,University Pl & E 14 St,10003,Manhattan,Lower East Side,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-07-09,2014-07-09,78.8,4.9,0.39,10.0,2
+Subscriber,294,Washington Square E,10003,Manhattan,Lower East Side,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-04-11,2015-04-11,54.1,7.9,0.0,10.0,2
+Customer,315,South St & Gouverneur Ln,10038,Manhattan,Lower Manhattan,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-12-11,2015-12-11,55.2,3.1,0.0,20.0,1
+Subscriber,306,Cliff St & Fulton St,10038,Manhattan,Lower Manhattan,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-10-01,2014-10-01,63.2,5.2,0.0,20.0,1
+Subscriber,349,Rivington St & Ridge St,10002,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-05-26,2014-05-26,74.7,3.7,0.0,10.0,3
+Subscriber,412,Forsyth St & Canal St,10002,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-12-20,2015-12-20,38.6,5.8,0.0,10.0,2
+Customer,350,Clinton St & Grand St,10002,Manhattan,Lower East Side,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-07-28,2015-07-28,82.7,2.2,0.0,20.0,2
+Subscriber,473,Rivington St & Chrystie St,10002,Manhattan,Lower East Side,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-08-27,2015-08-27,73.8,2.6,0.0,10.0,1
+Customer,402,Broadway & E 22 St,10010,Manhattan,Gramercy Park and Murray Hill,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-09-22,2015-09-22,66.8,6.4,0.0,20.0,2
+Subscriber,345,W 13 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-03-17,2014-03-17,28.9,7.5,0.0,10.0,1
+Subscriber,545,E 23 St & 1 Ave,10010,Manhattan,Gramercy Park and Murray Hill,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-05-18,2014-05-18,60.0,4.3,0.0,10.0,1
+Subscriber,473,Rivington St & Chrystie St,10002,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-07-30,2014-07-30,70.8,2.8,0.0,10.0,2
+Subscriber,350,Clinton St & Grand St,10002,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-12-04,2015-12-04,46.4,4.5,0.0,10.0,1
+Subscriber,340,Madison St & Clinton St,10002,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-04-22,2014-04-22,59.0,4.3,0.0,10.0,1
+Subscriber,161,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-06-24,2014-06-24,73.1,3.8,0.0,10.0,1
+Subscriber,375,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-08-05,2015-08-05,79.3,2.6,0.0,0.0,2
+Subscriber,229,Great Jones St,10012,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-06-18,2014-06-18,83.4,5.6,0.0,0.0,5
+Subscriber,346,Bank St & Hudson St,10014,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-04-10,2015-04-10,44.6,4.2,0.17,10.0,1
+Subscriber,497,E 17 St & Broadway,10003,Manhattan,Lower East Side,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-09-28,2014-09-28,73.1,0.9,0.0,10.0,2
+Customer,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-10-10,2015-10-10,58.9,2.6,0.89,10.0,2
+Subscriber,151,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-12-21,2015-12-21,45.0,6.1,0.0,0.0,7
+Subscriber,293,Lafayette St & E 8 St,10003,Manhattan,Lower East Side,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-05-28,2015-05-28,75.9,3.3,0.08,0.0,2
+Subscriber,382,University Pl & E 14 St,10003,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-11-05,2015-11-05,62.8,1.9,0.0,20.0,1
+Subscriber,523,W 38 St & 8 Ave,10018,Manhattan,Chelsea and Clinton,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-07-27,2014-07-27,77.0,2.9,0.01,20.0,2
+Subscriber,352,W 56 St & 6 Ave,10019,Manhattan,Chelsea and Clinton,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-07-23,2014-07-23,79.7,4.8,0.0,20.0,1
+Customer,485,W 37 St & 5 Ave,10018,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-09-22,2015-09-22,66.8,6.4,0.0,20.0,2
+Subscriber,153,E 40 St & 5 Ave,10016,Manhattan,Gramercy Park and Murray Hill,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-07-07,2015-07-07,78.7,3.6,0.0,20.0,1
+Subscriber,421,Clermont Ave & Park Ave,11205,Brooklyn,Northwest Brooklyn,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-08-08,2015-08-08,74.7,3.4,0.0,20.0,2
+Subscriber,488,W 39 St & 9 Ave,10018,Manhattan,Chelsea and Clinton,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-03-29,2015-03-29,33.4,5.8,0.0,20.0,1
+Subscriber,387,Centre St & Chambers St,10007,Manhattan,Lower Manhattan,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-08-10,2015-08-10,74.9,3.6,0.0,20.0,1
+Subscriber,229,Great Jones St,10012,Manhattan,Greenwich Village and Soho,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-07-26,2014-07-26,73.9,3.6,0.0,10.0,1
+Subscriber,401,Allen St & Rivington St,10002,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-12-03,2015-12-03,50.9,6.2,0.1,10.0,4
+Subscriber,361,Allen St & Hester St,10002,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-11-21,2015-11-21,46.4,4.9,0.0,10.0,1
+Subscriber,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-12-03,2015-12-03,50.9,6.2,0.1,10.0,2
+Subscriber,236,St Marks Pl & 2 Ave,10003,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-10-05,2015-10-05,57.7,6.6,0.0,10.0,4
+Subscriber,403,E 2 St & 2 Ave,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-08-21,2014-08-21,73.9,2.8,0.04,0.0,2
+Subscriber,507,E 25 St & 2 Ave,10010,Manhattan,Gramercy Park and Murray Hill,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-08-19,2015-08-19,80.0,4.0,0.0,20.0,2
+Subscriber,326,E 11 St & 1 Ave,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-08-29,2014-08-29,69.6,2.8,0.0,20.0,1
+Subscriber,434,9 Ave & W 18 St,10011,Manhattan,Chelsea and Clinton,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-07-29,2014-07-29,69.6,5.3,0.19,10.0,1
+Subscriber,223,W 13 St & 7 Ave,10011,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-11-05,2014-11-05,60.4,4.3,0.0,10.0,2
+Customer,427,Bus Slip & State St,10004,Manhattan,Lower Manhattan,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-11-09,2015-11-09,51.1,1.7,0.0,20.0,4
+Customer,251,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-08-13,2015-08-13,75.4,3.3,0.0,10.0,1
+Subscriber,468,Broadway & W 55 St,10019,Manhattan,Chelsea and Clinton,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-05-09,2014-05-09,58.0,2.9,0.11,30.0,1
+Subscriber,312,Allen St & E Houston St,10002,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-09-04,2015-09-04,80.6,5.0,0.0,10.0,2
+Subscriber,401,Allen St & Rivington St,10002,Manhattan,Lower East Side,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-04-13,2014-04-13,63.0,4.7,0.0,20.0,2
+Subscriber,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-06-17,2015-06-17,73.3,3.4,0.27,10.0,1
+Subscriber,336,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-09-06,2014-09-06,80.9,3.8,0.0,10.0,1
+Subscriber,161,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-05-14,2014-05-14,58.2,4.7,0.0,30.0,1
+Subscriber,127,Barrow St & Hudson St,10014,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-04-16,2014-04-16,38.8,7.3,0.69,20.0,1
+Subscriber,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-03-14,2014-03-14,30.5,6.1,0.0,10.0,1
+Subscriber,317,E 6 St & Avenue B,10009,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-09-29,2014-09-29,72.4,1.2,0.0,10.0,4
+Subscriber,301,E 2 St & Avenue B,10009,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-04-17,2014-04-17,41.6,7.2,0.05,20.0,2
+Subscriber,161,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-04-03,2014-04-03,53.6,3.0,0.0,40.0,1
+Subscriber,438,St Marks Pl & 1 Ave,10003,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-07-29,2015-07-29,85.4,2.7,0.0,10.0,2
+Subscriber,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-02-16,2015-02-16,9.8,8.5,0.0,0.0,1
+Subscriber,383,Greenwich Ave & Charles St,10011,Manhattan,Chelsea and Clinton,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-03-21,2014-03-21,44.1,8.2,0.0,10.0,1
+Subscriber,383,Greenwich Ave & Charles St,10011,Manhattan,Chelsea and Clinton,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-05-25,2015-05-25,73.8,3.6,0.0,10.0,2
+Subscriber,479,9 Ave & W 45 St,10036,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-05-26,2015-05-26,76.1,4.5,0.0,20.0,2
+Subscriber,311,Norfolk St & Broome St,10002,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-07-17,2015-07-17,72.5,3.1,0.0,10.0,1
+Subscriber,265,Stanton St & Chrystie St,10002,Manhattan,Lower East Side,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-03-05,2014-03-05,31.3,3.2,0.0,10.0,1
+Subscriber,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-07-07,2015-07-07,78.7,3.6,0.0,10.0,1
+Subscriber,350,Clinton St & Grand St,10002,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-07-21,2014-07-21,73.9,1.6,0.0,10.0,1
+Subscriber,382,University Pl & E 14 St,10003,Manhattan,Lower East Side,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-08-19,2014-08-19,72.2,3.6,0.0,10.0,1
+Subscriber,382,University Pl & E 14 St,10003,Manhattan,Lower East Side,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-10-04,2015-10-04,56.5,9.2,0.02,0.0,2
+Subscriber,284,Greenwich Ave & 8 Ave,10014,Manhattan,Greenwich Village and Soho,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-08-28,2015-08-28,72.7,2.5,0.0,10.0,1
+Customer,128,MacDougal St & Prince St,10014,Manhattan,Greenwich Village and Soho,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-05-28,2014-05-28,61.5,6.3,0.0,0.0,1
+Subscriber,361,Allen St & Hester St,10002,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-08-12,2015-08-12,77.0,3.8,0.58,10.0,4
+Subscriber,251,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-07-31,2014-07-31,73.5,2.5,0.0,10.0,2
+Subscriber,317,E 6 St & Avenue B,10009,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-02-15,2014-02-15,35.6,6.5,0.3,10.0,4
+Subscriber,432,E 7 St & Avenue A,10009,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-03-31,2014-03-31,43.5,8.2,0.3,10.0,3
+Customer,402,Broadway & E 22 St,10010,Manhattan,Gramercy Park and Murray Hill,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-04-17,2015-04-17,60.5,5.4,0.08,10.0,1
+Subscriber,237,E 11 St & 2 Ave,10003,Manhattan,Lower East Side,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-10-24,2015-10-24,48.4,4.1,0.0,10.0,3
+Subscriber,325,E 19 St & 3 Ave,10003,Manhattan,Lower East Side,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-11-05,2014-11-05,60.4,4.3,0.0,10.0,4
+Subscriber,474,5 Ave & E 29 St,10016,Manhattan,Gramercy Park and Murray Hill,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-07-09,2014-07-09,78.8,4.9,0.39,10.0,1
+Subscriber,251,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2014-06-29,2014-06-29,74.4,2.1,0.0,10.0,1
+Customer,151,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-09-26,2015-09-26,66.5,5.2,0.0,10.0,3
+Subscriber,373,Willoughby Ave & Walworth St,11205,Brooklyn,Northwest Brooklyn,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-01-17,2014-01-17,37.8,999.9,0.0,30.0,1
+Subscriber,280,E 10 St & 5 Ave,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-10-06,2014-10-06,58.6,3.0,0.0,10.0,2
+Subscriber,514,12 Ave & W 40 St,10018,Manhattan,Chelsea and Clinton,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-04-26,2015-04-26,54.1,4.8,0.0,20.0,1
+Subscriber,2009,Catherine St & Monroe St,10038,Manhattan,Lower Manhattan,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-07-09,2014-07-09,78.8,4.9,0.39,10.0,2
+Subscriber,284,Greenwich Ave & 8 Ave,10014,Manhattan,Greenwich Village and Soho,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-10-02,2014-10-02,63.5,4.8,0.02,10.0,3
+Subscriber,284,Greenwich Ave & 8 Ave,10014,Manhattan,Greenwich Village and Soho,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-07-06,2015-07-06,76.8,2.1,0.0,10.0,3
+Subscriber,472,E 32 St & Park Ave,10016,Manhattan,Gramercy Park and Murray Hill,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-06-02,2015-06-02,52.4,6.8,0.4,10.0,1
+Subscriber,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-08-29,2015-08-29,75.7,1.2,0.0,10.0,8
+Subscriber,248,Laight St & Hudson St,10013,Manhattan,Greenwich Village and Soho,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-07-31,2014-07-31,73.5,2.5,0.0,10.0,2
+Subscriber,432,E 7 St & Avenue A,10009,Manhattan,Lower East Side,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-04-14,2014-04-14,67.3,6.4,0.0,10.0,4
+Subscriber,320,Leonard St & Church St,10013,Manhattan,Greenwich Village and Soho,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-12-14,2014-12-14,41.0,5.9,0.0,0.0,1
+Subscriber,504,1 Ave & E 15 St,10009,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-05-27,2015-05-27,75.7,4.8,0.0,20.0,1
+Subscriber,2010,Grand St & Greene St,10013,Manhattan,Greenwich Village and Soho,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-06-18,2015-06-18,66.8,3.3,0.0,10.0,3
+Subscriber,545,E 23 St & 1 Ave,10010,Manhattan,Gramercy Park and Murray Hill,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-06-30,2015-06-30,74.5,3.7,0.0,20.0,1
+Subscriber,284,Greenwich Ave & 8 Ave,10014,Manhattan,Greenwich Village and Soho,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-10-09,2015-10-09,66.6,3.0,0.0,10.0,1
+Subscriber,449,W 52 St & 9 Ave,10019,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-06-28,2014-06-28,74.5,2.5,0.0,30.0,1
+Subscriber,116,W 17 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-04-03,2014-04-03,53.6,3.0,0.0,10.0,1
+Subscriber,377,6 Ave & Canal St,10013,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-08-03,2015-08-03,81.3,3.7,0.0,20.0,1
+Customer,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-09-19,2015-09-19,74.7,1.8,0.0,20.0,1
+Subscriber,497,E 17 St & Broadway,10003,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-11-24,2014-11-24,60.7,4.0,0.68,10.0,3
+Subscriber,545,E 23 St & 1 Ave,10010,Manhattan,Gramercy Park and Murray Hill,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-11-07,2014-11-07,49.0,5.3,0.25,10.0,2
+Subscriber,265,Stanton St & Chrystie St,10002,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-04-03,2015-04-03,61.1,6.3,0.0,10.0,1
+Subscriber,403,E 2 St & 2 Ave,10003,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-07-27,2014-07-27,77.0,2.9,0.01,10.0,5
+Subscriber,355,Bayard St & Baxter St,10013,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-12-24,2015-12-24,66.4,5.1,1.56,10.0,1
+Subscriber,512,W 29 St & 9 Ave,10001,Manhattan,Chelsea and Clinton,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-05-23,2014-05-23,62.2,3.1,0.02,20.0,1
+Subscriber,432,E 7 St & Avenue A,10009,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-12-31,2014-12-31,29.4,4.3,0.0,10.0,1
+Subscriber,195,Liberty St & Broadway,10005,Manhattan,Lower Manhattan,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-12-15,2015-12-15,61.8,8.6,0.42,20.0,1
+Subscriber,355,Bayard St & Baxter St,10013,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-12-15,2015-12-15,61.8,8.6,0.42,10.0,1
+Subscriber,394,E 9 St & Avenue C,10009,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-06-30,2015-06-30,74.5,3.7,0.0,10.0,1
+Subscriber,439,E 4 St & 2 Ave,10003,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-02-10,2014-02-10,25.1,5.4,0.1,10.0,1
+Subscriber,382,University Pl & E 14 St,10003,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-10-11,2015-10-11,59.3,2.8,0.0,40.0,1
+Subscriber,168,W 18 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-09-14,2015-09-14,66.4,6.3,0.04,20.0,1
+Subscriber,470,W 20 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-04-22,2014-04-22,59.0,4.3,0.0,10.0,1
+Subscriber,537,Lexington Ave & E 24 St,10010,Manhattan,Gramercy Park and Murray Hill,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-07-25,2015-07-25,78.2,2.5,0.0,10.0,1
+Subscriber,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-03-13,2014-03-13,28.7,11.0,0.35,0.0,5
+Subscriber,116,W 17 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-08-26,2015-08-26,76.0,3.7,0.0,10.0,1
+Subscriber,253,W 13 St & 5 Ave,10011,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-09-13,2015-09-13,72.0,5.2,0.29,10.0,2
+Subscriber,151,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-11-06,2015-11-06,69.4,3.7,0.01,0.0,3
+Subscriber,375,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-03-27,2014-03-27,30.5,6.7,0.0,0.0,1
+Subscriber,161,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-11-16,2015-11-16,58.1,2.9,0.0,0.0,1
+Subscriber,433,E 13 St & Avenue A,10009,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-10-09,2015-10-09,66.6,3.0,0.0,10.0,2
+Subscriber,146,Hudson St & Reade St,10013,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-11-30,2015-11-30,39.4,6.0,0.0,10.0,3
+Subscriber,463,9 Ave & W 16 St,10011,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-01-11,2014-01-11,47.7,5.6,1.4,10.0,1
+Subscriber,223,W 13 St & 7 Ave,10011,Manhattan,Chelsea and Clinton,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-12-18,2015-12-18,51.9,5.5,1.21,10.0,4
+Subscriber,253,W 13 St & 5 Ave,10011,Manhattan,Chelsea and Clinton,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-10-13,2015-10-13,65.8,2.5,0.01,10.0,2
+Customer,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-06-25,2015-06-25,75.0,2.7,0.0,20.0,1
+Subscriber,383,Greenwich Ave & Charles St,10011,Manhattan,Chelsea and Clinton,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-11-24,2015-11-24,38.2,3.8,0.0,20.0,1
+Subscriber,223,W 13 St & 7 Ave,10011,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-03-16,2014-03-16,37.0,7.3,0.0,10.0,1
+Subscriber,402,Broadway & E 22 St,10010,Manhattan,Gramercy Park and Murray Hill,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-05-28,2014-05-28,61.5,6.3,0.0,10.0,3
+Subscriber,310,State St & Smith St,11201,Brooklyn,Northwest Brooklyn,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-05-05,2015-05-05,73.7,4.6,0.0,20.0,1
+Subscriber,432,E 7 St & Avenue A,10009,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-04-11,2014-04-11,62.1,5.7,0.0,10.0,1
+Subscriber,266,Avenue D & E 8 St,10009,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-05-18,2015-05-18,67.2,3.9,0.02,20.0,1
+Subscriber,528,2 Ave & E 31 St,10016,Manhattan,Gramercy Park and Murray Hill,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-08-14,2015-08-14,77.1,2.2,0.0,20.0,1
+Subscriber,375,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-04-13,2014-04-13,63.0,4.7,0.0,10.0,2
+Subscriber,294,Washington Square E,10003,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-10-05,2014-10-05,53.1,5.7,1.04,10.0,4
+Customer,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-06-24,2014-06-24,73.1,3.8,0.0,10.0,1
+Subscriber,293,Lafayette St & E 8 St,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-10-25,2014-10-25,58.1,4.3,0.0,0.0,1
+Subscriber,293,Lafayette St & E 8 St,10003,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-06-11,2014-06-11,67.0,6.0,0.02,10.0,5
+Subscriber,439,E 4 St & 2 Ave,10003,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-03-25,2014-03-25,32.4,4.1,0.0,10.0,4
+Subscriber,511,E 14 St & Avenue B,10009,Manhattan,Lower East Side,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-07-15,2015-07-15,77.0,2.8,0.42,10.0,2
+Subscriber,236,St Marks Pl & 2 Ave,10003,Manhattan,Lower East Side,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-10-14,2014-10-14,67.9,3.7,0.05,10.0,2
+Subscriber,369,Washington Pl & 6 Ave,10011,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-07-19,2014-07-19,72.2,4.5,0.0,0.0,4
+Subscriber,2010,Grand St & Greene St,10013,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-08-28,2015-08-28,72.7,2.5,0.0,0.0,3
+Subscriber,461,E 20 St & 2 Ave,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-12-05,2015-12-05,45.7,2.0,0.0,10.0,2
+Subscriber,382,University Pl & E 14 St,10003,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-12-27,2014-12-27,47.7,3.5,0.0,10.0,1
+Subscriber,237,E 11 St & 2 Ave,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-06-01,2014-06-01,64.8,2.8,0.05,10.0,6
+Subscriber,146,Hudson St & Reade St,10013,Manhattan,Greenwich Village and Soho,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2014-10-08,2014-10-08,66.7,5.4,0.1,30.0,1
+Subscriber,2003,1 Ave & E 18 St,10009,Manhattan,Lower East Side,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-12-12,2015-12-12,59.6,2.7,0.0,10.0,3
+Subscriber,280,E 10 St & 5 Ave,10003,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2014-09-06,2014-09-06,80.9,3.8,0.0,10.0,1
+Subscriber,470,W 20 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-06-25,2015-06-25,75.0,2.7,0.0,10.0,1
+Subscriber,394,E 9 St & Avenue C,10009,Manhattan,Lower East Side,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-06-29,2015-06-29,70.3,4.6,0.29,10.0,1
+Subscriber,168,W 18 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-10-14,2015-10-14,63.8,3.2,0.0,10.0,2
+Subscriber,345,W 13 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-08-03,2014-08-03,69.5,2.2,0.1,10.0,1
+Subscriber,377,6 Ave & Canal St,10013,Manhattan,Greenwich Village and Soho,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-03-14,2014-03-14,30.5,6.1,0.0,10.0,1
+Subscriber,168,W 18 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-05-03,2014-05-03,61.3,3.6,0.0,10.0,1
+Subscriber,236,St Marks Pl & 2 Ave,10003,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-12-21,2014-12-21,32.4,3.8,0.0,10.0,1
+Subscriber,293,Lafayette St & E 8 St,10003,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2014-09-12,2014-09-12,70.1,4.2,0.0,20.0,2
+Subscriber,403,E 2 St & 2 Ave,10003,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2014-10-29,2014-10-29,64.5,3.9,0.0,0.0,1
+Subscriber,79,Franklin St & W Broadway,10013,Manhattan,Greenwich Village and Soho,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-07-08,2014-07-08,81.4,4.1,0.43,10.0,1
+Subscriber,360,William St & Pine St,10005,Manhattan,Lower Manhattan,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-12-10,2015-12-10,54.9,4.5,0.0,10.0,2
+Subscriber,383,Greenwich Ave & Charles St,10011,Manhattan,Chelsea and Clinton,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-08-05,2015-08-05,79.3,2.6,0.0,20.0,1
+Subscriber,300,Shevchenko Pl & E 7 St,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-09-23,2015-09-23,68.4,3.3,0.0,10.0,2
+Customer,325,E 19 St & 3 Ave,10003,Manhattan,Lower East Side,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-08-29,2015-08-29,75.7,1.2,0.0,50.0,1
+Subscriber,160,E 37 St & Lexington Ave,10016,Manhattan,Gramercy Park and Murray Hill,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-08-02,2015-08-02,79.9,2.0,0.0,10.0,2
+Subscriber,369,Washington Pl & 6 Ave,10011,Manhattan,Chelsea and Clinton,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-12-19,2014-12-19,36.2,6.4,0.0,10.0,1
+Subscriber,383,Greenwich Ave & Charles St,10011,Manhattan,Chelsea and Clinton,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-12-03,2015-12-03,50.9,6.2,0.1,0.0,2
+Customer,504,1 Ave & E 15 St,10009,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-08-18,2015-08-18,81.8,3.6,0.29,10.0,1
+Subscriber,382,University Pl & E 14 St,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-07-24,2014-07-24,75.1,4.4,0.19,10.0,3
+Customer,497,E 17 St & Broadway,10003,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-05-10,2015-05-10,70.0,2.3,0.0,20.0,4
+Subscriber,439,E 4 St & 2 Ave,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-04-28,2015-04-28,59.0,6.6,0.0,0.0,1
+Customer,297,E 15 St & 3 Ave,10003,Manhattan,Lower East Side,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2015-08-02,2015-08-02,79.9,2.0,0.0,40.0,4
+Subscriber,438,St Marks Pl & 1 Ave,10003,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-08-19,2015-08-19,80.0,4.0,0.0,10.0,2
+Subscriber,478,11 Ave & W 41 St,10036,Manhattan,Chelsea and Clinton,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-07-25,2015-07-25,78.2,2.5,0.0,30.0,1
+Subscriber,526,E 33 St & 5 Ave,10016,Manhattan,Gramercy Park and Murray Hill,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-02-24,2014-02-24,39.1,7.6,0.0,10.0,1
+Subscriber,236,St Marks Pl & 2 Ave,10003,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2015-09-07,2015-09-07,78.4,3.4,0.0,10.0,2
+Subscriber,2004,6 Ave & Broome St,10013,Manhattan,Greenwich Village and Soho,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-09-10,2014-09-10,69.4,5.6,0.0,0.0,1
+Subscriber,249,Harrison St & Hudson St,10013,Manhattan,Greenwich Village and Soho,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-01-29,2014-01-29,17.4,5.8,0.04,20.0,1
+Subscriber,263,Elizabeth St & Hester St,10013,Manhattan,Greenwich Village and Soho,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-02-02,2015-02-03,29.9,6.8,0.71,720.0,1
+Subscriber,434,9 Ave & W 18 St,10011,Manhattan,Chelsea and Clinton,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-09-13,2014-09-13,63.9,5.2,0.0,20.0,1
+Subscriber,2010,Grand St & Greene St,10013,Manhattan,Greenwich Village and Soho,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-12-13,2014-12-13,37.5,8.2,0.0,0.0,2
+Customer,268,Howard St & Centre St,10013,Manhattan,Greenwich Village and Soho,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-08-09,2015-08-09,75.0,2.9,0.0,10.0,1
+Customer,301,E 2 St & Avenue B,10009,Manhattan,Lower East Side,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-09-27,2014-09-27,70.7,2.7,0.0,30.0,1
+Subscriber,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-05-20,2015-05-20,62.0,5.8,0.0,10.0,2
+Subscriber,228,E 48 St & 3 Ave,10017,Manhattan,Gramercy Park and Murray Hill,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-10-28,2014-10-28,60.6,2.3,0.0,20.0,1
+Subscriber,2003,1 Ave & E 18 St,10009,Manhattan,Lower East Side,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-05-23,2014-05-23,62.2,3.1,0.02,10.0,1
+Subscriber,433,E 13 St & Avenue A,10009,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-08-31,2015-08-31,81.7,3.8,0.13,20.0,2
+Subscriber,382,University Pl & E 14 St,10003,Manhattan,Lower East Side,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2015-10-30,2015-10-30,55.8,5.4,0.04,10.0,2
+Subscriber,497,E 17 St & Broadway,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-10-07,2015-10-07,64.9,2.5,0.0,10.0,2
+Subscriber,486,Broadway & W 29 St,10001,Manhattan,Chelsea and Clinton,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-04-13,2015-04-13,57.7,3.5,0.0,10.0,1
+Subscriber,433,E 13 St & Avenue A,10009,Manhattan,Lower East Side,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-04-12,2014-04-12,60.4,3.6,0.0,20.0,1
+Subscriber,237,E 11 St & 2 Ave,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-09-15,2015-09-15,72.0,2.1,0.0,10.0,3
+Subscriber,3141,1 Ave & E 68 St,10065,Manhattan,Upper East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2015-10-29,2015-10-29,67.2,5.7,1.44,30.0,1
+Subscriber,403,E 2 St & 2 Ave,10003,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2014-07-20,2014-07-20,71.9,5.4,0.0,0.0,2
+Subscriber,326,E 11 St & 1 Ave,10003,Manhattan,Lower East Side,Great Jones St,10012,Manhattan,Greenwich Village and Soho,2014-10-22,2014-10-22,55.5,6.8,0.61,10.0,4
+Subscriber,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-02-16,2015-02-16,9.8,8.5,0.0,10.0,2
+Subscriber,300,Shevchenko Pl & E 7 St,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2014-07-10,2014-07-10,75.4,2.9,0.09,10.0,3
+Subscriber,461,E 20 St & 2 Ave,10003,Manhattan,Lower East Side,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-08-19,2014-08-19,72.2,3.6,0.0,10.0,2
+Subscriber,517,E 41 St & Madison Ave,10017,Manhattan,Gramercy Park and Murray Hill,Mott St & Prince St,10012,Manhattan,Greenwich Village and Soho,2014-07-24,2014-07-24,75.1,4.4,0.19,20.0,1
+Subscriber,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-12-17,2015-12-17,54.7,3.4,0.04,10.0,3
+Subscriber,293,Lafayette St & E 8 St,10003,Manhattan,Lower East Side,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-08-13,2014-08-13,72.5,4.9,0.7,10.0,3
+Subscriber,455,1 Ave & E 44 St,10017,Manhattan,Gramercy Park and Murray Hill,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-08-19,2014-08-19,72.2,3.6,0.0,20.0,1
+Subscriber,2003,1 Ave & E 18 St,10009,Manhattan,Lower East Side,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2014-06-09,2014-06-09,67.4,3.6,0.64,10.0,2
+Subscriber,2004,6 Ave & Broome St,10013,Manhattan,Greenwich Village and Soho,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,2015-06-09,2015-06-09,73.7,4.9,0.07,0.0,1
+Subscriber,511,E 14 St & Avenue B,10009,Manhattan,Lower East Side,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2015-07-29,2015-07-29,85.4,2.7,0.0,20.0,1
+Subscriber,484,W 44 St & 5 Ave,10036,Manhattan,Chelsea and Clinton,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,2014-09-12,2014-09-12,70.1,4.2,0.0,20.0,3
+Subscriber,157,Henry St & Atlantic Ave,11201,Brooklyn,Northwest Brooklyn,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-01-21,2014-01-21,25.2,999.9,0.0,40.0,1
+Subscriber,508,W 46 St & 11 Ave,10036,Manhattan,Chelsea and Clinton,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-09-18,2014-09-18,65.8,1.8,0.0,20.0,1
+Subscriber,478,11 Ave & W 41 St,10036,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-02-21,2014-02-21,39.4,6.3,0.03,20.0,1
+Subscriber,233,Cadman Plaza W & Pierrepont St,11201,Brooklyn,Northwest Brooklyn,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-04-14,2015-04-14,60.7,3.7,0.0,20.0,1
+Subscriber,494,W 26 St & 8 Ave,10001,Manhattan,Chelsea and Clinton,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2014-10-21,2014-10-21,60.2,2.7,0.0,20.0,1
+Subscriber,379,W 31 St & 7 Ave,10001,Manhattan,Chelsea and Clinton,Mercer St & Bleecker St,10012,Manhattan,Greenwich Village and Soho,2014-09-03,2014-09-03,79.4,4.6,0.0,20.0,1
+Subscriber,494,W 26 St & 8 Ave,10001,Manhattan,Chelsea and Clinton,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-10-18,2015-10-18,43.5,5.0,0.0,20.0,1
+Subscriber,515,W 43 St & 10 Ave,10036,Manhattan,Chelsea and Clinton,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,2014-06-04,2014-06-04,70.8,2.7,0.12,20.0,1
+Customer,217,Old Fulton St,11201,Brooklyn,Northwest Brooklyn,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-04-20,2014-04-20,52.1,6.6,0.0,30.0,3
+Subscriber,369,Washington Pl & 6 Ave,10011,Manhattan,Chelsea and Clinton,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-03-12,2014-03-12,52.5,3.3,0.0,10.0,1
+Subscriber,168,W 18 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,2015-06-04,2015-06-04,58.0,4.6,0.0,10.0,3
+Subscriber,458,11 Ave & W 27 St,10001,Manhattan,Chelsea and Clinton,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-01-16,2014-01-16,39.4,999.9,0.0,30.0,1
+Subscriber,3002,South End Ave & Liberty St,10280,Manhattan,Lower Manhattan,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-09-07,2015-09-07,78.4,3.4,0.0,10.0,2
+Subscriber,403,E 2 St & 2 Ave,10003,Manhattan,Lower East Side,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,2014-07-28,2014-07-28,75.8,4.6,0.2,10.0,1
+Subscriber,489,10 Ave & W 28 St,10001,Manhattan,Chelsea and Clinton,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,2015-04-29,2015-04-29,64.9,4.3,0.0,20.0,1
+Subscriber,524,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-11-03,2015-11-03,60.6,1.6,0.0,10.0,4
+Subscriber,521,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-10-06,2014-10-06,58.6,3.0,0.0,20.0,4
+Subscriber,367,E 53 St & Lexington Ave,10022,Manhattan,Gramercy Park and Murray Hill,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-02-04,2014-02-04,28.3,2.1,0.84,0.0,1
+Subscriber,521,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-07-23,2014-07-23,79.7,4.8,0.0,20.0,3
+Subscriber,464,E 56 St & 3 Ave,10022,Manhattan,Gramercy Park and Murray Hill,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-04-07,2015-04-07,54.9,5.7,0.0,10.0,2
+Subscriber,464,E 56 St & 3 Ave,10022,Manhattan,Gramercy Park and Murray Hill,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-08-11,2014-08-11,77.5,2.7,0.0,10.0,3
+Subscriber,447,8 Ave & W 52 St,10019,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-10-21,2015-10-21,65.0,2.8,0.0,10.0,4
+Subscriber,499,Broadway & W 60 St,10023,Manhattan,Upper West Side,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-06-17,2014-06-17,77.7,3.4,0.0,10.0,2
+Subscriber,3159,W 67 St & Broadway,10023,Manhattan,Upper West Side,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-11-16,2015-11-16,58.1,2.9,0.0,20.0,2
+Subscriber,359,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-11-09,2015-11-09,51.1,1.7,0.0,20.0,1
+Subscriber,449,W 52 St & 9 Ave,10019,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-12-18,2014-12-18,40.7,7.8,0.02,10.0,1
+Subscriber,499,Broadway & W 60 St,10023,Manhattan,Upper West Side,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-08-28,2015-08-28,72.7,2.5,0.0,10.0,4
+Subscriber,510,W 51 St & 6 Ave,10019,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-03-19,2015-03-19,34.0,5.5,0.0,10.0,1
+Subscriber,457,Broadway & W 58 St,10019,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-11-13,2015-11-13,55.4,9.4,0.01,10.0,4
+Subscriber,305,E 58 St & 3 Ave,10022,Manhattan,Gramercy Park and Murray Hill,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-01-29,2015-01-29,26.6,3.1,0.0,10.0,2
+Subscriber,137,E 56 St & Madison Ave,10022,Manhattan,Gramercy Park and Murray Hill,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-04-02,2015-04-02,51.8,4.5,0.0,10.0,1
+Subscriber,3172,W 74 St & Columbus Ave,10023,Manhattan,Upper West Side,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-11-17,2015-11-17,47.5,6.4,0.0,20.0,1
+Subscriber,448,W 37 St & 10 Ave,10018,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-11-10,2015-11-10,55.0,6.7,0.0,10.0,1
+Subscriber,281,Grand Army Plaza & Central Park S,10019,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-10-08,2014-10-08,66.7,5.4,0.1,10.0,2
+Subscriber,499,Broadway & W 60 St,10023,Manhattan,Upper West Side,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-04-02,2015-04-02,51.8,4.5,0.0,10.0,5
+Subscriber,480,W 53 St & 10 Ave,10019,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-05-16,2014-05-16,65.9,5.6,0.07,20.0,1
+Subscriber,468,Broadway & W 55 St,10019,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-11-03,2015-11-03,60.6,1.6,0.0,20.0,1
+Subscriber,267,Broadway & W 36 St,10018,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-05-07,2015-05-07,66.2,1.7,0.0,10.0,4
+Subscriber,394,E 9 St & Avenue C,10009,Manhattan,Lower East Side,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-10-09,2015-10-09,66.6,3.0,0.0,20.0,1
+Subscriber,394,E 9 St & Avenue C,10009,Manhattan,Lower East Side,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-06-19,2015-06-19,74.6,2.6,0.0,20.0,1
+Subscriber,545,E 23 St & 1 Ave,10010,Manhattan,Gramercy Park and Murray Hill,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-11-18,2014-11-18,35.4,8.5,1.08,10.0,1
+Subscriber,465,Broadway & W 41 St,10036,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-11-10,2014-11-10,51.9,1.9,0.0,10.0,3
+Subscriber,301,E 2 St & Avenue B,10009,Manhattan,Lower East Side,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-05-01,2015-05-01,53.6,5.1,0.0,20.0,1
+Subscriber,2021,W 45 St & 8 Ave,10036,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2015-01-21,2015-01-21,31.4,4.2,0.0,10.0,1
+Subscriber,2003,1 Ave & E 18 St,10009,Manhattan,Lower East Side,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-08-11,2014-08-11,77.5,2.7,0.0,10.0,1
+Subscriber,538,W 49 St & 5 Ave,10020,Manhattan,Chelsea and Clinton,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,2014-04-05,2014-04-05,45.8,7.9,0.18,0.0,1
+Subscriber,3106,Driggs Ave & N Henry St,11222,Brooklyn,Greenpoint,Montrose Ave & Bushwick Ave,11206,Brooklyn,Bushwick and Williamsburg,2015-10-10,2015-10-10,58.9,2.6,0.89,10.0,1
+Subscriber,534,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2014-11-14,2014-11-14,38.6,5.6,0.26,20.0,1
+Customer,426,West St & Chambers St,10282,Manhattan,Tribeca,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2015-08-22,2015-08-22,76.9,3.7,0.32,20.0,2
+Subscriber,3059,Pulaski St & Marcus Garvey Blvd,11206,Brooklyn,Bushwick and Williamsburg,Montrose Ave & Bushwick Ave,11206,Brooklyn,Bushwick and Williamsburg,2015-11-29,2015-11-29,41.5,999.9,0.02,10.0,1
+Subscriber,532,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2014-08-14,2014-08-14,70.9,4.3,0.02,30.0,1
+Subscriber,260,Broad St & Bridge St,10004,Manhattan,Lower Manhattan,Broad St & Bridge St,10004,Manhattan,Lower Manhattan,2015-06-19,2015-06-19,74.6,2.6,0.0,40.0,1
+Subscriber,3074,Montrose Ave & Bushwick Ave,11206,Brooklyn,Bushwick and Williamsburg,Boerum St & Broadway,11206,Brooklyn,Bushwick and Williamsburg,2015-09-24,2015-09-24,69.7,3.0,0.0,10.0,2
+Customer,427,Bus Slip & State St,10004,Manhattan,Lower Manhattan,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2014-07-11,2014-07-11,76.8,3.5,0.0,40.0,3
+Subscriber,3074,Montrose Ave & Bushwick Ave,11206,Brooklyn,Bushwick and Williamsburg,Scholes St & Manhattan Ave,11206,Brooklyn,Bushwick and Williamsburg,2015-11-17,2015-11-17,47.5,6.4,0.0,0.0,2
+Subscriber,3057,Kosciuszko St & Tompkins Ave,11221,Brooklyn,Bushwick and Williamsburg,Myrtle Ave & Marcy Ave,11206,Brooklyn,Bushwick and Williamsburg,2015-09-29,2015-09-29,75.6,2.7,0.0,0.0,1
+Subscriber,521,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2015-08-18,2015-08-18,81.8,3.6,0.29,30.0,2
+Customer,387,Centre St & Chambers St,10007,Manhattan,Lower Manhattan,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2015-08-02,2015-08-02,79.9,2.0,0.0,20.0,1
+Subscriber,417,Barclay St & Church St,10007,Manhattan,Lower Manhattan,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2014-08-06,2014-08-06,76.3,3.1,0.0,10.0,3
+Customer,259,South St & Whitehall St,10004,Manhattan,Lower Manhattan,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2015-05-24,2015-05-24,66.2,3.3,0.0,230.0,2
+Subscriber,259,South St & Whitehall St,10004,Manhattan,Lower Manhattan,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2015-06-26,2015-06-26,74.4,3.9,0.0,0.0,2
+Subscriber,411,E 6 St & Avenue D,10009,Manhattan,Lower East Side,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2014-07-17,2014-07-17,73.6,3.5,0.0,30.0,1
+Subscriber,319,Park Pl & Church St,10007,Manhattan,Lower Manhattan,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2014-02-26,2014-02-26,27.4,5.0,0.0,10.0,2
+Subscriber,72,W 52 St & 11 Ave,10019,Manhattan,Chelsea and Clinton,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2014-05-05,2014-05-05,58.4,7.2,0.02,30.0,1
+Subscriber,225,W 14 St & The High Line,10014,Manhattan,Greenwich Village and Soho,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2015-05-08,2015-05-08,66.9,2.3,0.0,30.0,1
+Subscriber,404,9 Ave & W 14 St,10014,Manhattan,Greenwich Village and Soho,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2014-08-04,2014-08-04,75.0,2.9,0.02,20.0,2
+Subscriber,342,Columbia St & Rivington St,10002,Manhattan,Lower East Side,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2014-04-26,2014-04-26,53.0,5.0,0.89,30.0,2
+Subscriber,3052,Lewis Ave & Madison St,11221,Brooklyn,Bushwick and Williamsburg,Montrose Ave & Bushwick Ave,11206,Brooklyn,Bushwick and Williamsburg,2015-09-19,2015-09-19,74.7,1.8,0.0,10.0,1
+Subscriber,444,Broadway & W 24 St,10010,Manhattan,Gramercy Park and Murray Hill,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2014-11-09,2014-11-09,50.0,3.6,0.0,20.0,1
+Subscriber,303,Mercer St & Spring St,10012,Manhattan,Greenwich Village and Soho,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2014-04-03,2014-04-03,53.6,3.0,0.0,10.0,1
+Subscriber,427,Bus Slip & State St,10004,Manhattan,Lower Manhattan,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2015-09-27,2015-09-27,63.5,4.8,0.0,10.0,1
+Subscriber,342,Columbia St & Rivington St,10002,Manhattan,Lower East Side,Leonard St & Boerum St,11206,Brooklyn,Bushwick and Williamsburg,2015-12-10,2015-12-10,54.9,4.5,0.0,30.0,1
+Subscriber,350,Clinton St & Grand St,10002,Manhattan,Lower East Side,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2014-07-10,2014-07-10,75.4,2.9,0.09,20.0,1
+Subscriber,327,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2015-07-22,2015-07-22,77.3,4.5,0.0,10.0,6
+Customer,417,Barclay St & Church St,10007,Manhattan,Lower Manhattan,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2015-07-12,2015-07-12,79.9,1.7,0.0,10.0,2
+Subscriber,319,Fulton St & Broadway,10007,Manhattan,Lower Manhattan,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2015-10-09,2015-10-09,66.6,3.0,0.0,10.0,1
+Subscriber,315,South St & Gouverneur Ln,10038,Manhattan,Lower Manhattan,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2014-10-01,2014-10-01,63.2,5.2,0.0,0.0,4
+Subscriber,315,South St & Gouverneur Ln,10038,Manhattan,Lower Manhattan,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2015-01-08,2015-01-08,13.0,8.8,0.0,0.0,2
+Subscriber,315,South St & Gouverneur Ln,10038,Manhattan,Lower Manhattan,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2015-03-04,2015-03-04,38.5,5.4,0.68,0.0,1
+Customer,426,West St & Chambers St,10282,Manhattan,Tribeca,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2015-07-04,2015-07-04,72.0,3.0,0.0,20.0,9
+Subscriber,264,Maiden Ln & Pearl St,10038,Manhattan,Lower Manhattan,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-02-10,2015-02-10,30.0,8.1,0.07,20.0,1
+Subscriber,417,Barclay St & Church St,10007,Manhattan,Lower Manhattan,Broad St & Bridge St,10004,Manhattan,Lower Manhattan,2014-04-28,2014-04-28,54.5,3.6,0.0,10.0,5
+Customer,426,West St & Chambers St,10282,Manhattan,Tribeca,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2014-11-10,2014-11-10,51.9,1.9,0.0,20.0,4
+Subscriber,2022,E 59 St & Sutton Pl,10022,Manhattan,Gramercy Park and Murray Hill,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2014-04-28,2014-04-28,54.5,3.6,0.0,40.0,1
+Subscriber,486,Broadway & W 29 St,10001,Manhattan,Chelsea and Clinton,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2014-01-06,2014-01-06,45.6,6.3,0.23,30.0,1
+Subscriber,147,Greenwich St & Warren St,10007,Manhattan,Lower Manhattan,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2015-08-10,2015-08-10,74.9,3.6,0.0,10.0,1
+Subscriber,306,Cliff St & Fulton St,10038,Manhattan,Lower Manhattan,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-09-17,2015-09-17,77.0,1.3,0.0,10.0,1
+Subscriber,315,South St & Gouverneur Ln,10038,Manhattan,Lower Manhattan,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2014-05-01,2014-05-01,61.1,4.6,4.53,0.0,3
+Subscriber,362,Broadway & W 37 St,10018,Manhattan,Chelsea and Clinton,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-10-05,2015-10-05,57.7,6.6,0.0,30.0,2
+Subscriber,128,MacDougal St & Prince St,10014,Manhattan,Greenwich Village and Soho,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-08-28,2015-08-28,72.7,2.5,0.0,20.0,2
+Customer,263,Elizabeth St & Hester St,10013,Manhattan,Greenwich Village and Soho,Boerum St & Broadway,11206,Brooklyn,Bushwick and Williamsburg,2015-10-22,2015-10-22,65.4,4.1,0.0,20.0,1
+Subscriber,545,E 23 St & 1 Ave,10010,Manhattan,Gramercy Park and Murray Hill,Broad St & Bridge St,10004,Manhattan,Lower Manhattan,2015-05-11,2015-05-11,75.3,3.6,0.0,20.0,1
+Subscriber,3055,Greene Ave & Nostrand Ave,11216,Brooklyn,Central Brooklyn,Tompkins Ave & Hopkins St,11206,Brooklyn,Bushwick and Williamsburg,2015-09-23,2015-09-23,68.4,3.3,0.0,10.0,1
+Subscriber,417,Barclay St & Church St,10007,Manhattan,Lower Manhattan,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2014-07-07,2014-07-07,79.8,4.8,0.0,10.0,4
+Customer,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2014-10-12,2014-10-12,54.0,2.1,0.19,20.0,2
+Subscriber,502,Henry St & Grand St,10002,Manhattan,Lower East Side,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2014-07-16,2014-07-16,73.3,2.5,1.3,20.0,1
+Subscriber,295,Pike St & E Broadway,10002,Manhattan,Lower East Side,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2014-06-05,2014-06-05,68.1,4.5,0.62,10.0,1
+Customer,307,Canal St & Rutgers St,10002,Manhattan,Lower East Side,Bus Slip & State St,10004,Manhattan,Lower Manhattan,2015-08-05,2015-08-05,79.3,2.6,0.0,10.0,1
+Subscriber,487,E 20 St & FDR Drive,10009,Manhattan,Lower East Side,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2014-05-15,2014-05-15,63.1,4.4,0.12,20.0,1
+Subscriber,509,9 Ave & W 22 St,10011,Manhattan,Chelsea and Clinton,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2015-10-16,2015-10-16,58.5,4.9,0.0,20.0,1
+Subscriber,3059,Pulaski St & Marcus Garvey Blvd,11206,Brooklyn,Bushwick and Williamsburg,Myrtle Ave & Lewis Ave,11206,Brooklyn,Bushwick and Williamsburg,2015-10-22,2015-10-22,65.4,4.1,0.0,0.0,3
+Subscriber,412,Forsyth St & Canal St,10002,Manhattan,Lower East Side,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2015-11-30,2015-11-30,39.4,6.0,0.0,10.0,1
+Subscriber,361,Allen St & Hester St,10002,Manhattan,Lower East Side,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2015-03-08,2015-03-08,41.4,4.0,0.0,20.0,1
+Subscriber,348,W Broadway & Spring St,10012,Manhattan,Greenwich Village and Soho,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2014-09-24,2014-09-24,64.1,3.8,0.0,20.0,1
+Customer,336,Sullivan St & Washington Sq,10012,Manhattan,Greenwich Village and Soho,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2014-05-11,2014-05-11,70.1,4.0,0.4,20.0,1
+Customer,439,E 4 St & 2 Ave,10003,Manhattan,Lower East Side,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-11-03,2015-11-03,60.6,1.6,0.0,30.0,2
+Subscriber,511,E 14 St & Avenue B,10009,Manhattan,Lower East Side,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2014-12-08,2014-12-08,29.2,8.9,0.04,20.0,1
+Subscriber,195,Liberty St & Broadway,10005,Manhattan,Lower Manhattan,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-10-01,2015-10-01,59.8,7.6,0.04,0.0,1
+Subscriber,417,Barclay St & Church St,10007,Manhattan,Lower Manhattan,Broad St & Bridge St,10004,Manhattan,Lower Manhattan,2014-01-16,2014-01-16,39.4,999.9,0.0,10.0,6
+Subscriber,433,E 13 St & Avenue A,10009,Manhattan,Lower East Side,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-07-02,2015-07-02,74.7,1.3,0.39,30.0,1
+Customer,285,Broadway & E 14 St,10003,Manhattan,Lower East Side,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2014-07-25,2014-07-25,73.7,3.5,0.0,20.0,3
+Subscriber,291,Madison St & Montgomery St,10002,Manhattan,Lower East Side,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2014-07-02,2014-07-02,81.3,3.5,0.0,10.0,1
+Subscriber,3002,South End Ave & Liberty St,10280,Manhattan,Lower Manhattan,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2015-08-10,2015-08-10,74.9,3.6,0.0,10.0,3
+Subscriber,319,Fulton St & Broadway,10007,Manhattan,Lower Manhattan,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-10-11,2015-10-11,59.3,2.8,0.0,10.0,1
+Subscriber,337,Old Slip & Front St,10005,Manhattan,Lower Manhattan,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-04-29,2015-04-29,64.9,4.3,0.0,0.0,1
+Subscriber,453,W 22 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2015-08-15,2015-08-15,80.7,3.3,0.0,30.0,1
+Customer,363,West Thames St,10280,Manhattan,Lower Manhattan,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2014-03-24,2014-03-24,28.0,6.3,0.0,30.0,2
+Customer,2010,Grand St & Greene St,10013,Manhattan,Greenwich Village and Soho,Broad St & Bridge St,10004,Manhattan,Lower Manhattan,2015-07-16,2015-07-16,72.8,5.9,0.12,20.0,1
+Subscriber,3002,South End Ave & Liberty St,10280,Manhattan,Lower Manhattan,State St,10004,Manhattan,Lower Manhattan,2014-04-17,2014-04-17,41.6,7.2,0.05,10.0,2
+Subscriber,195,Liberty St & Broadway,10005,Manhattan,Lower Manhattan,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2015-07-03,2015-07-03,73.5,2.4,0.0,0.0,2
+Subscriber,327,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2015-09-09,2015-09-09,82.0,4.0,0.0,10.0,5
+Subscriber,2010,Grand St & Greene St,10013,Manhattan,Greenwich Village and Soho,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2014-12-26,2014-12-26,44.9,5.6,0.09,20.0,1
+Subscriber,459,W 20 St & 11 Ave,10011,Manhattan,Chelsea and Clinton,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2014-07-26,2014-07-26,73.9,3.6,0.0,40.0,2
+Subscriber,237,E 11 St & 2 Ave,10003,Manhattan,Lower East Side,Broad St & Bridge St,10004,Manhattan,Lower Manhattan,2015-09-15,2015-09-15,72.0,2.1,0.0,20.0,1
+Subscriber,537,Lexington Ave & E 24 St,10010,Manhattan,Gramercy Park and Murray Hill,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2015-07-24,2015-07-24,77.8,2.1,0.0,20.0,1
+Subscriber,320,Leonard St & Church St,10013,Manhattan,Greenwich Village and Soho,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-08-26,2015-08-26,76.0,3.7,0.0,10.0,1
+Subscriber,3002,South End Ave & Liberty St,10280,Manhattan,Lower Manhattan,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2015-02-28,2015-02-28,21.5,3.6,0.0,10.0,2
+Subscriber,461,E 20 St & 2 Ave,10003,Manhattan,Lower East Side,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2015-08-31,2015-08-31,81.7,3.8,0.13,20.0,2
+Subscriber,3002,South End Ave & Liberty St,10280,Manhattan,Lower Manhattan,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2015-12-23,2015-12-23,56.4,3.0,0.19,10.0,4
+Subscriber,3002,South End Ave & Liberty St,10280,Manhattan,Lower Manhattan,South St & Whitehall St,10004,Manhattan,Lower Manhattan,2014-03-24,2014-03-24,28.0,6.3,0.0,10.0,2
+Subscriber,453,W 22 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2014-07-07,2014-07-07,79.8,4.8,0.0,40.0,2
+Subscriber,2008,Little West St & 1 Pl,10280,Manhattan,Lower Manhattan,Water - Whitehall Plaza,10004,Manhattan,Lower Manhattan,2014-05-30,2014-05-30,63.3,1.6,0.0,0.0,1
+Subscriber,3002,South End Ave & Liberty St,10280,Manhattan,Lower Manhattan,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2014-07-11,2014-07-11,76.8,3.5,0.0,10.0,6
+Subscriber,195,Liberty St & Broadway,10005,Manhattan,Lower Manhattan,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2015-08-20,2015-08-20,80.5,4.2,0.0,0.0,6
+Subscriber,236,St Marks Pl & 2 Ave,10003,Manhattan,Lower East Side,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-09-01,2015-09-01,82.0,2.6,0.0,20.0,1
+Subscriber,195,Liberty St & Broadway,10005,Manhattan,Lower Manhattan,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2015-05-06,2015-05-06,68.1,4.5,0.0,0.0,3
+Subscriber,478,11 Ave & W 41 St,10036,Manhattan,Chelsea and Clinton,Pearl St & Hanover Square,10004,Manhattan,Lower Manhattan,2015-11-13,2015-11-13,55.4,9.4,0.01,30.0,1
+Subscriber,323,Lawrence St & Willoughby St,11201,Brooklyn,Northwest Brooklyn,Broadway & Battery Pl,10004,Manhattan,Lower Manhattan,2014-10-21,2014-10-21,60.2,2.7,0.0,20.0,1
+Subscriber,3107,Bedford Ave & Nassau Ave,11222,Brooklyn,Greenpoint,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,2015-10-16,2015-10-16,58.5,4.9,0.0,0.0,3
+Subscriber,3043,Lewis Ave & Decatur St,11233,Brooklyn,Central Brooklyn,Metropolitan Ave & Meeker Ave,11211,Brooklyn,Greenpoint,2015-09-18,2015-09-18,76.3,2.4,0.0,30.0,1
+Subscriber,532,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-06-28,2015-06-28,64.3,5.8,1.42,20.0,2
+Subscriber,3109,Banker St & Meserole Ave,11222,Brooklyn,Greenpoint,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,2015-10-24,2015-10-24,48.4,4.1,0.0,10.0,2
+Subscriber,3108,Nassau Ave & Russell St,11222,Brooklyn,Greenpoint,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,2015-12-04,2015-12-04,46.4,4.5,0.0,10.0,1
+Subscriber,3116,Huron St & Franklin St,11222,Brooklyn,Greenpoint,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,2015-12-17,2015-12-17,54.7,3.4,0.04,10.0,2
+Subscriber,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,S 4 St & Rodney St,11211,Brooklyn,Greenpoint,2015-12-24,2015-12-24,66.4,5.1,1.56,10.0,1
+Subscriber,3097,N Henry St & Richardson St,11222,Brooklyn,Greenpoint,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,2015-12-22,2015-12-22,57.2,4.9,0.0,10.0,2
+Subscriber,3077,Stagg St & Union Ave,11211,Brooklyn,Greenpoint,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,2015-10-11,2015-10-11,59.3,2.8,0.0,0.0,1
+Customer,161,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-05-05,2014-05-05,58.4,7.2,0.02,30.0,2
+Subscriber,3097,N Henry St & Richardson St,11222,Brooklyn,Greenpoint,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,2015-10-08,2015-10-08,63.8,2.9,0.0,0.0,13
+Subscriber,3083,Bushwick Ave & Powers St,11211,Brooklyn,Greenpoint,Bushwick Ave & Powers St,11211,Brooklyn,Greenpoint,2015-10-24,2015-10-24,48.4,4.1,0.0,0.0,1
+Subscriber,3095,Graham Ave & Herbert St,11222,Brooklyn,Greenpoint,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,2015-10-03,2015-10-03,50.2,11.8,1.36,0.0,2
+Customer,532,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2015-05-24,2015-05-24,66.2,3.3,0.0,10.0,3
+Subscriber,539,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,2015-09-02,2015-09-02,81.1,1.8,0.0,0.0,1
+Subscriber,443,Bedford Ave & S 9th St,11211,Brooklyn,Greenpoint,Bedford Ave & S 9th St,11211,Brooklyn,Greenpoint,2014-09-12,2014-09-12,70.1,4.2,0.0,0.0,1
+Subscriber,473,Rivington St & Chrystie St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-05-30,2015-05-30,73.5,4.1,0.0,20.0,1
+Subscriber,531,Forsyth St & Broome St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-07-10,2015-07-10,76.1,4.4,0.3,10.0,1
+Subscriber,3102,Driggs Ave & Lorimer St,11222,Brooklyn,Greenpoint,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,2015-08-30,2015-08-30,79.1,3.3,0.0,10.0,2
+Customer,349,Rivington St & Ridge St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-08-06,2015-08-06,75.6,2.7,0.0,20.0,2
+Subscriber,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Broadway & Roebling St,11211,Brooklyn,Greenpoint,2015-11-17,2015-11-17,47.5,6.4,0.0,10.0,1
+Subscriber,354,Emerson Pl & Myrtle Ave,11205,Brooklyn,Northwest Brooklyn,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-04-12,2014-04-12,60.4,3.6,0.0,50.0,1
+Subscriber,3085,Roebling St & N 4 St,11211,Brooklyn,Greenpoint,Broadway & Roebling St,11211,Brooklyn,Greenpoint,2015-11-20,2015-11-20,58.1,5.5,1.25,10.0,1
+Subscriber,3086,Graham Ave & Conselyea St,11211,Brooklyn,Greenpoint,Graham Ave & Grand St,11211,Brooklyn,Greenpoint,2015-12-03,2015-12-03,50.9,6.2,0.1,0.0,1
+Customer,532,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,2015-09-11,2015-09-11,72.3,5.6,0.45,10.0,1
+Subscriber,3102,Driggs Ave & Lorimer St,11222,Brooklyn,Greenpoint,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,2015-09-25,2015-09-25,69.0,5.5,0.0,0.0,10
+Subscriber,3068,Humboldt St & Varet St,11206,Brooklyn,Bushwick and Williamsburg,Graham Ave & Grand St,11211,Brooklyn,Greenpoint,2015-09-21,2015-09-21,65.8,7.4,0.0,10.0,1
+Subscriber,3088,Union Ave & Jackson St,11211,Brooklyn,Greenpoint,Bushwick Ave & Powers St,11211,Brooklyn,Greenpoint,2015-09-19,2015-09-19,74.7,1.8,0.0,10.0,3
+Subscriber,3096,Union Ave & N 12 St,11211,Brooklyn,Greenpoint,Union Ave & N 12 St,11211,Brooklyn,Greenpoint,2015-12-12,2015-12-12,59.6,2.7,0.0,10.0,1
+Customer,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,2014-07-12,2014-07-12,76.2,2.1,0.0,20.0,2
+Subscriber,342,Columbia St & Rivington St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-05-20,2015-05-20,62.0,5.8,0.0,10.0,2
+Subscriber,502,Henry St & Grand St,10002,Manhattan,Lower East Side,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,2014-09-20,2014-09-20,65.0,3.2,0.0,20.0,1
+Customer,161,LaGuardia Pl & W 3 St,10012,Manhattan,Greenwich Village and Soho,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-10-18,2014-10-18,63.8,4.7,0.0,30.0,1
+Customer,532,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-07-12,2014-07-12,76.2,2.1,0.0,0.0,3
+Subscriber,3090,N 8 St & Driggs Ave,11211,Brooklyn,Greenpoint,Division Ave & Hooper St,11211,Brooklyn,Greenpoint,2015-09-30,2015-09-30,73.5,5.3,1.33,20.0,1
+Subscriber,3085,Roebling St & N 4 St,11211,Brooklyn,Greenpoint,Graham Ave & Grand St,11211,Brooklyn,Greenpoint,2015-11-20,2015-11-20,58.1,5.5,1.25,10.0,1
+Subscriber,531,Forsyth St & Broome St,10002,Manhattan,Lower East Side,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,2014-09-10,2014-09-10,69.4,5.6,0.0,20.0,1
+Customer,311,Norfolk St & Broome St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-07-16,2015-07-16,72.8,5.9,0.12,20.0,1
+Subscriber,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2015-09-05,2015-09-05,74.0,4.4,0.0,10.0,1
+Customer,301,E 2 St & Avenue B,10009,Manhattan,Lower East Side,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2014-05-31,2014-05-31,64.2,5.5,0.0,30.0,2
+Subscriber,476,E 31 St & 3 Ave,10016,Manhattan,Gramercy Park and Murray Hill,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-06-06,2015-06-06,65.9,3.5,0.32,30.0,2
+Subscriber,354,Emerson Pl & Myrtle Ave,11205,Brooklyn,Northwest Brooklyn,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2014-03-26,2014-03-26,33.1,10.4,0.0,10.0,1
+Subscriber,400,Pitt St & Stanton St,10002,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-06-21,2014-06-21,70.4,4.7,0.0,10.0,1
+Subscriber,271,Ashland Pl & Hanson Pl,11217,Brooklyn,Northwest Brooklyn,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-05-11,2014-05-11,70.1,4.0,0.4,20.0,1
+Subscriber,410,Suffolk St & Stanton St,10002,Manhattan,Lower East Side,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,2015-08-01,2015-08-01,81.6,3.8,0.0,20.0,2
+Customer,266,Avenue D & E 8 St,10009,Manhattan,Lower East Side,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-08-27,2015-08-27,73.8,2.6,0.0,30.0,2
+Subscriber,546,E 30 St & Park Ave S,10016,Manhattan,Gramercy Park and Murray Hill,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-07-19,2015-07-19,84.9,2.8,0.32,30.0,2
+Customer,439,E 4 St & 2 Ave,10003,Manhattan,Lower East Side,Metropolitan Ave & Bedford Ave,11211,Brooklyn,Greenpoint,2014-05-26,2014-05-26,74.7,3.7,0.0,20.0,2
+Subscriber,250,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2015-05-22,2015-05-22,62.1,4.4,0.0,20.0,1
+Subscriber,116,W 17 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,Broadway & Roebling St,11211,Brooklyn,Greenpoint,2015-12-15,2015-12-15,61.8,8.6,0.42,30.0,1
+Subscriber,237,E 11 St & 2 Ave,10003,Manhattan,Lower East Side,Grand St & Havemeyer St,11211,Brooklyn,Greenpoint,2015-09-15,2015-09-15,72.0,2.1,0.0,20.0,1
+Subscriber,268,Howard St & Centre St,10013,Manhattan,Greenwich Village and Soho,Metropolitan Ave & Meeker Ave,11211,Brooklyn,Greenpoint,2015-09-01,2015-09-01,82.0,2.6,0.0,30.0,1
+Subscriber,430,York St & Jay St,11201,Brooklyn,Northwest Brooklyn,S 5 Pl & S 4 St,11211,Brooklyn,Greenpoint,2014-07-17,2014-07-17,73.6,3.5,0.0,20.0,1
+Subscriber,359,E 47 St & Park Ave,10167,Manhattan,Gramercy Park and Murray Hill,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2014-11-20,2014-11-20,38.2,5.7,0.0,10.0,1
+Subscriber,519,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-09-21,2015-09-21,65.8,7.4,0.0,10.0,1
+Subscriber,524,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2014-11-20,2014-11-20,38.2,5.7,0.0,10.0,2
+Subscriber,402,Broadway & E 22 St,10010,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-11-13,2015-11-13,55.4,9.4,0.01,10.0,8
+Subscriber,2023,E 55 St & Lexington Ave,10022,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-12-17,2015-12-17,54.7,3.4,0.04,10.0,4
+Customer,464,E 56 St & 3 Ave,10022,Manhattan,Gramercy Park and Murray Hill,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2014-02-22,2014-02-22,46.0,5.8,0.09,20.0,3
+Customer,521,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2014-12-30,2014-12-30,32.5,4.3,0.0,10.0,1
+Subscriber,275,Washington Ave & Greene Ave,11238,Brooklyn,Central Brooklyn,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-05-18,2015-05-18,67.2,3.9,0.02,50.0,2
+Customer,386,Centre St & Worth St,10278,Manhattan,Lower Manhattan,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2014-09-03,2014-09-03,79.4,4.6,0.0,80.0,3
+Subscriber,327,Vesey Pl & River Terrace,10282,Manhattan,Tribeca,Pershing Square N,10168,Manhattan,Gramercy Park and Murray Hill,2014-02-11,2014-02-11,21.7,5.2,0.0,30.0,1
+Subscriber,491,E 24 St & Park Ave S,10010,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-10-14,2015-10-14,63.8,3.2,0.0,10.0,11
+Customer,259,South St & Whitehall St,10004,Manhattan,Lower Manhattan,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-08-03,2015-08-03,81.3,3.7,0.0,70.0,2
+Subscriber,502,Henry St & Grand St,10002,Manhattan,Lower East Side,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-06-22,2015-06-22,78.3,4.5,0.29,30.0,1
+Subscriber,519,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-09-11,2015-09-11,72.3,5.6,0.45,10.0,1
+Subscriber,267,Broadway & W 36 St,10018,Manhattan,Chelsea and Clinton,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2014-09-11,2014-09-11,73.9,4.0,0.0,10.0,1
+Subscriber,426,West St & Chambers St,10282,Manhattan,Tribeca,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-08-20,2015-08-20,80.5,4.2,0.0,20.0,1
+Subscriber,523,W 38 St & 8 Ave,10018,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-12-16,2015-12-16,50.6,5.9,0.09,10.0,8
+Subscriber,448,W 37 St & 10 Ave,10018,Manhattan,Chelsea and Clinton,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-12-30,2015-12-30,41.3,3.0,0.15,10.0,2
+Subscriber,472,E 32 St & Park Ave,10016,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-12-07,2015-12-07,48.0,2.9,0.0,0.0,5
+Subscriber,517,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-07-14,2015-07-14,75.3,2.1,0.0,10.0,1
+Customer,151,Cleveland Pl & Spring St,10012,Manhattan,Greenwich Village and Soho,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-10-16,2015-10-16,58.5,4.9,0.0,40.0,2
+Subscriber,480,W 53 St & 10 Ave,10019,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-08-20,2015-08-20,80.5,4.2,0.0,20.0,1
+Customer,449,W 52 St & 9 Ave,10019,Manhattan,Chelsea and Clinton,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-10-13,2015-10-13,65.8,2.5,0.01,10.0,1
+Subscriber,290,2 Ave & E 58 St,10022,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-10-05,2015-10-05,57.7,6.6,0.0,20.0,1
+Customer,527,E 33 St & 2 Ave,10016,Manhattan,Gramercy Park and Murray Hill,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2015-07-06,2015-07-06,76.8,2.1,0.0,30.0,2
+Subscriber,499,Broadway & W 60 St,10023,Manhattan,Upper West Side,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-06-12,2015-06-12,81.6,3.3,0.0,10.0,1
+Customer,504,1 Ave & E 15 St,10009,Manhattan,Lower East Side,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-06-18,2015-06-18,66.8,3.3,0.0,20.0,1
+Subscriber,523,W 38 St & 8 Ave,10018,Manhattan,Chelsea and Clinton,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2014-11-28,2014-11-28,33.5,5.6,0.02,10.0,2
+Subscriber,433,E 13 St & Avenue A,10009,Manhattan,Lower East Side,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-08-27,2015-08-27,73.8,2.6,0.0,20.0,1
+Subscriber,472,E 32 St & Park Ave,10016,Manhattan,Gramercy Park and Murray Hill,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-06-23,2015-06-23,82.1,4.7,0.0,10.0,3
+Subscriber,444,Broadway & W 24 St,10010,Manhattan,Gramercy Park and Murray Hill,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-11-20,2015-11-20,58.1,5.5,1.25,10.0,4
+Subscriber,491,E 24 St & Park Ave S,10010,Manhattan,Gramercy Park and Murray Hill,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-08-14,2015-08-14,77.1,2.2,0.0,10.0,7
+Subscriber,3147,E 85 St & 3 Ave,10028,Manhattan,Upper East Side,1 Ave & E 78 St,10075,Manhattan,Upper East Side,2015-11-18,2015-11-18,50.9,3.6,0.0,10.0,1
+Subscriber,482,W 15 St & 7 Ave,10011,Manhattan,Chelsea and Clinton,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2015-09-17,2015-09-17,77.0,1.3,0.0,20.0,1
+Subscriber,546,E 30 St & Park Ave S,10016,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-08-05,2015-08-05,79.3,2.6,0.0,10.0,14
+Customer,281,Grand Army Plaza & Central Park S,10019,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-12-13,2015-12-13,61.8,2.0,0.0,110.0,3
+Subscriber,444,Broadway & W 24 St,10010,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-09-08,2015-09-08,84.2,3.8,0.0,10.0,5
+Subscriber,2000,Front St & Washington St,11201,Brooklyn,Northwest Brooklyn,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-01-13,2015-01-13,29.5,7.3,0.35,30.0,1
+Subscriber,528,2 Ave & E 31 St,10016,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2014-11-17,2014-11-17,43.7,2.6,0.49,10.0,1
+Subscriber,284,Greenwich Ave & 8 Ave,10014,Manhattan,Greenwich Village and Soho,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-06-22,2015-06-22,78.3,4.5,0.29,20.0,2
+Subscriber,474,5 Ave & E 29 St,10016,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-05-20,2015-05-20,62.0,5.8,0.0,10.0,4
+Customer,501,FDR Drive & E 35 St,10016,Manhattan,Gramercy Park and Murray Hill,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-06-13,2015-06-13,81.4,5.7,0.0,20.0,1
+Subscriber,367,E 53 St & Lexington Ave,10022,Manhattan,Gramercy Park and Murray Hill,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-10-14,2015-10-14,63.8,3.2,0.0,10.0,1
+Subscriber,2022,E 59 St & Sutton Pl,10022,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-06-10,2015-06-10,74.0,2.5,0.01,10.0,3
+Customer,335,Washington Pl & Broadway,10012,Manhattan,Greenwich Village and Soho,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2015-08-15,2015-08-15,80.7,3.3,0.0,20.0,1
+Subscriber,383,Greenwich Ave & Charles St,10011,Manhattan,Chelsea and Clinton,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-09-23,2015-09-23,68.4,3.3,0.0,20.0,1
+Subscriber,472,E 32 St & Park Ave,10016,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-04-08,2015-04-08,42.3,9.3,0.15,10.0,1
+Subscriber,368,Carmine St & 6 Ave,10014,Manhattan,Greenwich Village and Soho,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2014-09-29,2014-09-29,72.4,1.2,0.0,10.0,1
+Subscriber,446,W 24 St & 7 Ave,10001,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2014-09-13,2014-09-13,63.9,5.2,0.0,10.0,1
+Subscriber,329,Greenwich St & N Moore St,10013,Manhattan,Greenwich Village and Soho,Pershing Square N,10168,Manhattan,Gramercy Park and Murray Hill,2014-01-10,2014-01-10,32.3,2.9,0.0,20.0,1
+Subscriber,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-09-30,2015-09-30,73.5,5.3,1.33,10.0,1
+Subscriber,325,E 19 St & 3 Ave,10003,Manhattan,Lower East Side,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2015-11-16,2015-11-16,58.1,2.9,0.0,20.0,1
+Subscriber,164,E 47 St & 2 Ave,10017,Manhattan,Gramercy Park and Murray Hill,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2014-11-29,2014-11-29,31.4,3.1,0.0,10.0,2
+Subscriber,257,Lispenard St & Broadway,10013,Manhattan,Greenwich Village and Soho,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-08-27,2015-08-27,73.8,2.6,0.0,20.0,3
+Subscriber,490,8 Ave & W 33 St,10001,Manhattan,Chelsea and Clinton,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2015-06-24,2015-06-24,76.7,4.5,0.02,10.0,2
+Subscriber,505,6 Ave & W 33 St,10001,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-10-27,2015-10-27,51.9,3.5,0.0,10.0,11
+Subscriber,475,E 16 St & Irving Pl,10003,Manhattan,Lower East Side,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-06-19,2015-06-19,74.6,2.6,0.0,10.0,8
+Subscriber,505,6 Ave & W 33 St,10001,Manhattan,Chelsea and Clinton,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-11-20,2015-11-20,58.1,5.5,1.25,10.0,2
+Subscriber,168,W 18 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2015-06-17,2015-06-17,73.3,3.4,0.27,10.0,2
+Subscriber,293,Lafayette St & E 8 St,10003,Manhattan,Lower East Side,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-11-24,2015-11-24,38.2,3.8,0.0,10.0,7
+Subscriber,498,Broadway & W 32 St,10001,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2014-10-13,2014-10-13,58.7,2.0,0.0,10.0,1
+Subscriber,529,W 42 St & 8 Ave,10036,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-11-12,2015-11-12,55.4,3.6,0.43,10.0,5
+Subscriber,168,W 18 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-10-30,2015-10-30,55.8,5.4,0.04,10.0,1
+Subscriber,326,E 11 St & 1 Ave,10003,Manhattan,Lower East Side,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2014-09-05,2014-09-05,78.2,3.1,0.0,30.0,1
+Subscriber,505,6 Ave & W 33 St,10001,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2014-11-12,2014-11-12,59.5,2.4,0.0,10.0,6
+Subscriber,501,FDR Drive & E 35 St,10016,Manhattan,Gramercy Park and Murray Hill,Pershing Square South,10168,Manhattan,Gramercy Park and Murray Hill,2015-09-14,2015-09-14,66.4,6.3,0.04,20.0,1
+Subscriber,508,W 46 St & 11 Ave,10036,Manhattan,Chelsea and Clinton,W 43 St & 6 Ave,10110,Manhattan,Chelsea and Clinton,2015-12-14,2015-12-14,56.8,4.6,0.0,10.0,2
+Subscriber,489,10 Ave & W 28 St,10001,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2015-11-14,2015-11-14,46.4,8.0,0.0,20.0,2
+Subscriber,478,11 Ave & W 41 St,10036,Manhattan,Chelsea and Clinton,Pershing Square North,10168,Manhattan,Gramercy Park and Murray Hill,2014-09-21,2014-09-21,70.2,1.2,0.15,20.0,1
+Subscriber,3167,Amsterdam Ave & W 73 St,10023,Manhattan,Upper West Side,Riverside Blvd & W 67 St,10069,Manhattan,West Side,2015-10-27,2015-10-27,51.9,3.5,0.0,10.0,1
+Subscriber,385,E 55 St & 2 Ave,10022,Manhattan,Gramercy Park and Murray Hill,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-10-26,2015-10-26,51.8,3.9,0.03,10.0,1
+Subscriber,3135,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-11-05,2015-11-05,62.8,1.9,0.0,10.0,1
+Customer,3143,5 Ave & E 78 St,10023,Manhattan,Upper West Side,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-10-25,2015-10-25,59.1,4.0,0.02,10.0,1
+Subscriber,352,W 56 St & 6 Ave,10019,Manhattan,Chelsea and Clinton,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-11-24,2015-11-24,38.2,3.8,0.0,10.0,2
+Customer,3170,W 84 St & Columbus Ave,10024,Manhattan,Upper West Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-09-19,2015-09-19,74.7,1.8,0.0,20.0,1
+Subscriber,334,W 20 St & 7 Ave,10011,Manhattan,Chelsea and Clinton,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-11-30,2015-11-30,39.4,6.0,0.0,30.0,1
+Subscriber,492,W 33 St & 7 Ave,10001,Manhattan,Chelsea and Clinton,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-11-18,2015-11-18,50.9,3.6,0.0,20.0,1
+Subscriber,3147,E 85 St & 3 Ave,10028,Manhattan,Upper East Side,E 72 St & Park Ave,10021,Manhattan,Upper East Side,2015-12-16,2015-12-16,50.6,5.9,0.09,10.0,3
+Subscriber,164,E 47 St & 2 Ave,10017,Manhattan,Gramercy Park and Murray Hill,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,2015-10-02,2015-10-02,52.7,9.9,0.14,10.0,1
+Subscriber,466,W 25 St & 6 Ave,10010,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-11,2015-05-11,75.3,3.6,0.0,10.0,2
+Subscriber,358,Christopher St & Greenwich St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-05-14,2014-05-14,58.2,4.7,0.0,10.0,4
+Subscriber,2012,E 27 St & 1 Ave,10016,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-08,2015-09-08,84.2,3.8,0.0,10.0,1
+Subscriber,468,Broadway & W 55 St,10019,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-09-29,2014-09-29,72.4,1.2,0.0,10.0,1
+Subscriber,147,Greenwich St & Warren St,10007,Manhattan,Lower Manhattan,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-06-10,2014-06-10,69.5,3.4,0.96,30.0,2
+Subscriber,279,Peck Slip & Front Street,10038,Manhattan,Lower Manhattan,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-07-30,2014-07-30,70.8,2.8,0.0,30.0,1
+Subscriber,3135,E 75 St & 3 Ave,10021,Manhattan,Upper East Side,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-12-08,2015-12-08,44.6,4.6,0.0,20.0,1
+Subscriber,457,Broadway & W 58 St,10019,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-04-30,2015-04-30,55.6,7.5,0.0,20.0,1
+Subscriber,383,Greenwich Ave & Charles St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-06-27,2014-06-27,75.1,3.4,0.07,10.0,2
+Subscriber,463,9 Ave & W 16 St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-06-10,2014-06-10,69.5,3.4,0.96,10.0,7
+Subscriber,116,W 17 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-03-10,2014-03-10,42.3,4.7,0.0,10.0,12
+Subscriber,127,Barrow St & Hudson St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-12-15,2015-12-15,61.8,8.6,0.42,10.0,5
+Subscriber,347,W Houston St & Hudson St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-10-21,2014-10-21,60.2,2.7,0.0,20.0,1
+Subscriber,250,Lafayette St & Jersey St,10012,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-01-22,2014-01-22,12.3,999.9,0.46,20.0,1
+Subscriber,474,5 Ave & E 29 St,10016,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-03,2015-09-03,82.6,1.8,0.0,10.0,5
+Subscriber,309,Murray St & West St,10007,Manhattan,Lower Manhattan,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-18,2015-09-18,76.3,2.4,0.0,20.0,3
+Subscriber,435,W 21 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-27,2015-05-27,75.7,4.8,0.0,10.0,6
+Subscriber,470,W 20 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-12-17,2014-12-17,47.4,4.2,0.22,10.0,4
+Subscriber,528,2 Ave & E 31 St,10016,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-03,2015-09-03,82.6,1.8,0.0,10.0,2
+Subscriber,346,Bank St & Hudson St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-10-08,2015-10-08,63.8,2.9,0.0,10.0,1
+Subscriber,527,E 33 St & 1 Ave,10016,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-06-02,2014-06-02,69.7,3.9,0.0,10.0,3
+Subscriber,503,E 20 St & Park Ave,10010,Manhattan,Gramercy Park and Murray Hill,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,2015-12-04,2015-12-04,46.4,4.5,0.0,10.0,2
+Subscriber,500,Broadway & W 51 St,10019,Manhattan,Chelsea and Clinton,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,2015-11-20,2015-11-20,58.1,5.5,1.25,10.0,3
+Subscriber,279,Peck Slip & Front St,10038,Manhattan,Lower Manhattan,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-08-31,2015-08-31,81.7,3.8,0.13,30.0,1
+Subscriber,475,E 16 St & Irving Pl,10003,Manhattan,Lower East Side,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-08-21,2015-08-21,78.7,4.0,0.33,10.0,2
+Subscriber,508,W 46 St & 11 Ave,10036,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-04-23,2014-04-23,55.7,6.6,0.01,10.0,3
+Subscriber,513,W 56 St & 10 Ave,10019,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-07,2015-05-07,66.2,1.7,0.0,10.0,2
+Subscriber,402,Broadway & E 22 St,10010,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-06-11,2015-06-11,79.6,4.5,0.0,10.0,7
+Subscriber,444,Broadway & W 24 St,10010,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-06-05,2015-06-05,59.4,3.2,0.0,10.0,4
+Subscriber,405,Washington St & Gansevoort St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-11-05,2014-11-05,60.4,4.3,0.0,10.0,3
+Subscriber,238,Bank St & Washington St,10014,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-28,2015-09-28,70.1,2.3,0.0,10.0,3
+Subscriber,281,Grand Army Plaza & Central Park S,10019,Manhattan,Chelsea and Clinton,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,2015-10-29,2015-10-29,67.2,5.7,1.44,20.0,2
+Subscriber,470,W 20 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-04-21,2015-04-21,56.3,5.2,1.49,10.0,9
+Subscriber,469,Broadway & W 53 St,10019,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-12-11,2014-12-11,34.1,7.3,0.09,10.0,3
+Subscriber,509,9 Ave & W 22 St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-04-22,2014-04-22,59.0,4.3,0.0,10.0,4
+Subscriber,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-27,2015-09-27,63.5,4.8,0.0,10.0,2
+Subscriber,536,1 Ave & E 30 St,10016,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-01-04,2014-01-04,15.8,4.0,0.02,10.0,1
+Subscriber,489,10 Ave & W 28 St,10001,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-05,2015-05-05,73.7,4.6,0.0,0.0,6
+Customer,377,6 Ave & Canal St,10013,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-24,2015-05-24,66.2,3.3,0.0,30.0,2
+Subscriber,468,Broadway & W 55 St,10019,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-10-21,2014-10-21,60.2,2.7,0.0,20.0,1
+Subscriber,475,E 16 St & Irving Pl,10003,Manhattan,Lower East Side,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-09-19,2014-09-19,61.6,6.6,0.0,20.0,1
+Subscriber,2004,6 Ave & Broome St,10013,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-09-04,2015-09-04,80.6,5.0,0.0,20.0,1
+Subscriber,3177,W 84 St & Broadway,10024,Manhattan,Upper West Side,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,2015-12-04,2015-12-04,46.4,4.5,0.0,20.0,1
+Subscriber,212,W 16 St & The High Line,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-02-10,2015-02-10,30.0,8.1,0.07,10.0,1
+Customer,463,9 Ave & W 16 St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-10-18,2014-10-18,63.8,4.7,0.0,10.0,1
+Subscriber,434,9 Ave & W 18 St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-07-14,2014-07-14,75.7,3.0,0.03,10.0,1
+Subscriber,223,W 13 St & 7 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-06-25,2014-06-25,75.4,5.0,0.0,10.0,2
+Subscriber,195,Liberty St & Broadway,10005,Manhattan,Lower Manhattan,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-12-15,2014-12-15,41.6,3.0,0.0,20.0,1
+Subscriber,482,W 15 St & 7 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-06-02,2014-06-02,69.7,3.9,0.0,30.0,1
+Customer,463,9 Ave & W 16 St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-06-07,2015-06-07,65.0,3.0,0.19,10.0,1
+Subscriber,383,Greenwich Ave & Charles St,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-10-22,2015-10-22,65.4,4.1,0.0,10.0,4
+Subscriber,486,Broadway & W 29 St,10001,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-05-21,2015-05-21,56.7,2.5,0.0,10.0,4
+Subscriber,462,W 22 St & 10 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-11-09,2015-11-09,51.1,1.7,0.0,10.0,7
+Subscriber,459,W 20 St & 11 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-12-02,2014-12-02,39.4,8.0,0.09,10.0,6
+Subscriber,453,W 22 St & 8 Ave,10011,Manhattan,Chelsea and Clinton,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-06-11,2014-06-11,67.0,6.0,0.02,10.0,5
+Subscriber,435,W 21 St & 6 Ave,10011,Manhattan,Chelsea and Clinton,Penn Station Valet,10199,Manhattan,Chelsea and Clinton,2015-10-21,2015-10-21,65.0,2.8,0.0,10.0,3
+Subscriber,79,Franklin St & W Broadway,10013,Manhattan,Greenwich Village and Soho,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2014-05-29,2014-05-29,56.3,4.8,0.0,20.0,1
+Subscriber,318,E 43 St & Vanderbilt Ave,10017,Manhattan,Gramercy Park and Murray Hill,8 Ave & W 31 St,10199,Manhattan,Chelsea and Clinton,2015-07-01,2015-07-01,75.0,4.3,0.43,10.0,5

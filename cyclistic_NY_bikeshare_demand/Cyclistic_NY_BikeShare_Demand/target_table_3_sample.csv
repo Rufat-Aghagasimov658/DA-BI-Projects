@@ -1,0 +1,1001 @@
+usertype,start_station_id,start_station_name,starttime,trip_count
+Subscriber,521,8 Ave & W 31 St,2015-08-20T08:10:47,1
+Subscriber,521,8 Ave & W 31 St,2015-08-21T08:14:16,1
+Subscriber,521,8 Ave & W 31 St,2015-09-28T07:12:50,1
+Subscriber,521,8 Ave & W 31 St,2015-09-02T09:17:30,1
+Subscriber,521,8 Ave & W 31 St,2015-07-17T09:18:00,1
+Customer,336,Sullivan St & Washington Sq,2015-07-09T10:23:15,1
+Subscriber,440,E 45 St & 3 Ave,2015-09-29T12:22:02,1
+Subscriber,492,W 33 St & 7 Ave,2015-09-25T11:56:49,1
+Subscriber,537,Lexington Ave & E 24 St,2015-08-07T07:42:19,1
+Subscriber,515,W 43 St & 10 Ave,2015-09-11T06:51:28,1
+Subscriber,305,E 58 St & 3 Ave,2015-09-29T13:52:32,1
+Subscriber,305,E 58 St & 3 Ave,2015-08-26T18:49:52,1
+Subscriber,529,W 42 St & 8 Ave,2015-09-17T12:01:24,1
+Subscriber,529,W 42 St & 8 Ave,2015-07-17T06:52:21,1
+Subscriber,449,W 52 St & 9 Ave,2015-07-14T12:00:27,1
+Subscriber,472,E 32 St & Park Ave,2015-08-30T10:30:24,1
+Subscriber,490,8 Ave & W 33 St,2015-09-28T08:33:49,1
+Subscriber,3130,21 St & Queens Plaza North,2015-08-26T09:29:08,1
+Subscriber,450,W 49 St & 8 Ave,2015-07-31T09:42:44,1
+Subscriber,523,W 38 St & 8 Ave,2015-07-23T09:19:03,1
+Subscriber,455,1 Ave & E 44 St,2015-08-15T11:39:16,1
+Subscriber,499,Broadway & W 60 St,2015-07-20T19:22:46,1
+Subscriber,518,E 39 St & 2 Ave,2015-07-18T10:12:09,1
+Subscriber,473,Rivington St & Chrystie St,2015-07-02T10:01:46,1
+Customer,519,Pershing Square North,2015-09-25T15:53:55,1
+Customer,519,Pershing Square North,2015-09-03T16:01:55,1
+Customer,348,W Broadway & Spring St,2015-09-05T12:47:30,2
+Customer,517,Pershing Square South,2015-08-15T09:56:52,1
+Customer,517,Pershing Square South,2015-07-23T10:26:28,1
+Customer,514,12 Ave & W 40 St,2015-07-27T10:01:13,1
+Customer,520,W 52 St & 5 Ave,2015-08-23T02:41:40,1
+Subscriber,164,E 47 St & 2 Ave,2015-09-04T14:19:19,1
+Subscriber,281,Grand Army Plaza & Central Park S,2015-07-27T20:13:47,1
+Subscriber,477,W 41 St & 8 Ave,2015-08-28T06:00:54,1
+Subscriber,477,W 41 St & 8 Ave,2015-08-31T09:58:27,1
+Subscriber,505,6 Ave & W 33 St,2015-09-14T09:14:09,1
+Subscriber,446,W 24 St & 7 Ave,2015-07-13T09:14:24,1
+Subscriber,468,Broadway & W 55 St,2015-07-16T09:26:53,1
+Subscriber,468,Broadway & W 55 St,2015-09-25T13:32:21,1
+Subscriber,468,Broadway & W 55 St,2015-09-11T08:57:35,1
+Customer,444,Broadway & W 24 St,2015-09-18T16:46:45,1
+Subscriber,478,11 Ave & W 41 St,2015-07-31T10:14:45,1
+Subscriber,327,Vesey Pl & River Terrace,2015-07-23T19:16:02,1
+Subscriber,480,W 53 St & 10 Ave,2015-09-09T19:15:11,1
+Subscriber,352,W 56 St & 6 Ave,2015-07-25T18:03:12,1
+Customer,3094,Graham Ave & Withers St,2015-09-06T10:56:44,1
+Subscriber,532,S 5 Pl & S 4 St,2015-07-21T23:23:48,1
+Subscriber,3107,Bedford Ave & Nassau Ave,2015-08-30T11:08:59,1
+Subscriber,521,8 Ave & W 31 St,2015-09-08T13:42:47,1
+Subscriber,293,Lafayette St & E 8 St,2015-07-15T18:35:45,1
+Subscriber,250,Lafayette St & Jersey St,2015-07-31T15:08:32,1
+Customer,361,Allen St & Hester St,2015-08-23T16:30:46,1
+Subscriber,361,Allen St & Hester St,2015-09-26T10:55:41,1
+Subscriber,512,W 29 St & 9 Ave,2015-08-24T18:59:11,1
+Subscriber,128,MacDougal St & Prince St,2015-08-30T12:01:37,1
+Subscriber,482,W 15 St & 7 Ave,2015-08-03T13:37:34,1
+Subscriber,492,W 33 St & 7 Ave,2015-09-18T16:08:26,1
+Subscriber,2004,6 Ave & Broome St,2015-08-05T15:30:56,1
+Subscriber,237,E 11 St & 2 Ave,2015-07-11T02:02:34,1
+Subscriber,546,E 30 St & Park Ave S,2015-09-02T10:46:16,1
+Subscriber,326,E 11 St & 1 Ave,2015-07-18T12:58:50,1
+Subscriber,285,Broadway & E 14 St,2015-07-14T22:11:13,1
+Subscriber,285,Broadway & E 14 St,2015-09-20T17:14:00,1
+Customer,291,Madison St & Montgomery St,2015-07-07T02:24:58,1
+Subscriber,150,E 2 St & Avenue C,2015-07-19T16:45:56,1
+Subscriber,411,E 6 St & Avenue D,2015-07-28T14:50:21,1
+Subscriber,438,St Marks Pl & 1 Ave,2015-09-27T17:47:09,1
+Subscriber,504,1 Ave & E 15 St,2015-08-02T20:40:54,1
+Subscriber,228,E 48 St & 3 Ave,2015-09-03T16:33:49,1
+Subscriber,304,Broadway & Battery Pl,2015-07-01T20:14:22,1
+Subscriber,358,Christopher St & Greenwich St,2015-07-11T13:29:59,1
+Subscriber,301,E 2 St & Avenue B,2015-08-04T09:38:18,1
+Subscriber,368,Carmine St & 6 Ave,2015-07-09T15:20:22,1
+Subscriber,380,W 4 St & 7 Ave S,2015-09-03T19:47:38,1
+Subscriber,519,Pershing Square North,2015-08-22T13:26:17,1
+Subscriber,445,E 10 St & Avenue A,2015-09-27T08:44:20,1
+Subscriber,445,E 10 St & Avenue A,2015-09-20T12:15:16,1
+Subscriber,168,W 18 St & 6 Ave,2015-09-16T18:28:19,1
+Customer,369,Washington Pl & 6 Ave,2015-07-03T09:54:25,1
+Subscriber,507,E 25 St & 2 Ave,2015-09-01T17:25:35,1
+Subscriber,345,W 13 St & 6 Ave,2015-08-22T22:35:59,1
+Subscriber,306,Cliff St & Fulton St,2015-07-06T17:53:57,1
+Customer,355,Bayard St & Baxter St,2015-08-08T11:31:06,1
+Subscriber,195,Liberty St & Broadway,2015-07-08T14:32:31,1
+Subscriber,336,Sullivan St & Washington Sq,2015-07-17T09:35:36,1
+Subscriber,323,Lawrence St & Willoughby St,2015-07-08T07:44:15,1
+Subscriber,537,Lexington Ave & E 24 St,2015-07-16T09:57:17,1
+Subscriber,2004,6 Ave & Broome St,2015-09-02T18:47:30,1
+Subscriber,485,W 37 St & 5 Ave,2015-08-21T10:13:17,1
+Customer,263,Elizabeth St & Hester St,2015-08-16T10:47:31,1
+Subscriber,402,Broadway & E 22 St,2015-09-13T11:26:16,1
+Subscriber,153,E 40 St & 5 Ave,2015-08-25T07:29:48,1
+Customer,217,Old Fulton St,2015-07-26T12:56:19,1
+Customer,217,Old Fulton St,2015-09-14T19:50:20,1
+Subscriber,448,W 37 St & 10 Ave,2015-07-18T10:16:14,1
+Customer,426,West St & Chambers St,2015-09-06T13:17:07,1
+Subscriber,519,Pershing Square North,2015-09-17T08:04:42,1
+Subscriber,519,Pershing Square North,2015-09-16T07:50:47,1
+Subscriber,284,Greenwich Ave & 8 Ave,2015-08-07T16:16:41,1
+Customer,427,Bus Slip & State St,2015-07-03T11:37:18,1
+Subscriber,82,St James Pl & Pearl St,2015-08-17T10:06:25,1
+Subscriber,330,Reade St & Broadway,2015-08-31T15:33:36,1
+Subscriber,151,Cleveland Pl & Spring St,2015-07-10T18:28:21,1
+Customer,151,Cleveland Pl & Spring St,2015-07-23T20:49:41,1
+Subscriber,147,Greenwich St & Warren St,2015-09-15T09:58:09,1
+Customer,3002,South End Ave & Liberty St,2015-07-03T16:40:28,1
+Subscriber,3002,South End Ave & Liberty St,2015-09-16T09:19:40,1
+Subscriber,146,Hudson St & Reade St,2015-09-17T20:02:32,1
+Subscriber,502,Henry St & Grand St,2015-09-14T07:20:22,1
+Subscriber,319,Fulton St & Broadway,2015-09-08T16:31:48,1
+Customer,327,Vesey Pl & River Terrace,2015-07-04T09:45:20,1
+Subscriber,327,Vesey Pl & River Terrace,2015-09-15T10:37:37,1
+Customer,224,Spruce St & Nassau St,2015-09-13T17:06:22,1
+Subscriber,382,University Pl & E 14 St,2015-07-24T12:57:24,1
+Customer,382,University Pl & E 14 St,2015-07-25T15:15:26,1
+Subscriber,521,8 Ave & W 31 St,2015-08-20T16:40:45,1
+Subscriber,494,W 26 St & 8 Ave,2015-09-26T00:42:21,1
+Subscriber,250,Lafayette St & Jersey St,2015-08-09T14:41:25,1
+Subscriber,351,Front St & Maiden Ln,2015-09-15T17:17:57,1
+Subscriber,466,W 25 St & 6 Ave,2015-08-18T17:49:53,1
+Subscriber,346,Bank St & Hudson St,2015-07-16T20:11:04,1
+Subscriber,79,Franklin St & W Broadway,2015-08-20T17:40:09,1
+Subscriber,530,11 Ave & W 59 St,2015-08-01T17:27:34,1
+Subscriber,482,W 15 St & 7 Ave,2015-09-14T09:01:01,1
+Subscriber,492,W 33 St & 7 Ave,2015-07-16T21:00:27,1
+Customer,2000,Front St & Washington St,2015-09-26T10:52:11,1
+Subscriber,329,Greenwich St & N Moore St,2015-07-31T19:14:33,1
+Customer,529,W 42 St & 8 Ave,2015-08-28T07:54:08,1
+Subscriber,529,W 42 St & 8 Ave,2015-07-24T09:58:18,1
+Subscriber,496,E 16 St & 5 Ave,2015-09-23T17:38:04,1
+Customer,405,Washington St & Gansevoort St,2015-07-26T17:01:59,1
+Subscriber,405,Washington St & Gansevoort St,2015-08-19T12:47:57,1
+Subscriber,405,Washington St & Gansevoort St,2015-09-28T05:36:40,1
+Subscriber,304,Broadway & Battery Pl,2015-07-30T17:36:33,1
+Customer,347,Greenwich St & W Houston St,2015-08-29T11:18:52,1
+Customer,426,West St & Chambers St,2015-07-25T17:24:58,1
+Subscriber,426,West St & Chambers St,2015-08-19T12:18:25,1
+Subscriber,426,West St & Chambers St,2015-08-04T19:16:40,1
+Subscriber,426,West St & Chambers St,2015-09-11T17:14:49,1
+Subscriber,368,Carmine St & 6 Ave,2015-09-27T06:36:53,1
+Subscriber,380,W 4 St & 7 Ave S,2015-07-06T19:59:53,1
+Customer,320,Leonard St & Church St,2015-07-25T13:27:25,2
+Subscriber,390,Duffield St & Willoughby St,2015-09-08T19:26:11,1
+Customer,363,West Thames St,2015-07-31T14:21:01,1
+Subscriber,363,West Thames St,2015-08-15T19:37:07,1
+Customer,363,West Thames St,2015-08-11T02:36:38,1
+Subscriber,363,West Thames St,2015-08-16T07:46:31,1
+Subscriber,445,E 10 St & Avenue A,2015-09-17T14:52:40,1
+Subscriber,152,Warren St & Church St,2015-09-05T16:01:38,1
+Subscriber,465,Broadway & W 41 St,2015-08-01T18:34:21,1
+Customer,147,Greenwich St & Warren St,2015-07-02T09:43:35,1
+Subscriber,147,Greenwich St & Warren St,2015-08-09T19:46:03,1
+Subscriber,147,Greenwich St & Warren St,2015-09-02T15:55:55,1
+Subscriber,147,Greenwich St & Warren St,2015-09-13T17:19:58,1
+Subscriber,147,Greenwich St & Warren St,2015-09-04T13:35:11,1
+Subscriber,508,W 46 St & 11 Ave,2015-08-05T19:15:47,1
+Subscriber,3002,South End Ave & Liberty St,2015-08-30T21:00:29,1
+Subscriber,3002,South End Ave & Liberty St,2015-07-27T11:51:50,1
+Subscriber,3002,South End Ave & Liberty St,2015-09-21T18:59:37,1
+Subscriber,3002,South End Ave & Liberty St,2015-08-25T06:37:10,1
+Subscriber,3002,South End Ave & Liberty St,2015-08-15T22:29:25,1
+Subscriber,3002,South End Ave & Liberty St,2015-09-21T18:20:29,1
+Subscriber,146,Hudson St & Reade St,2015-09-17T18:16:29,1
+Subscriber,327,Vesey Pl & River Terrace,2015-08-20T07:40:35,1
+Subscriber,212,W 16 St & The High Line,2015-07-17T22:00:24,1
+Subscriber,224,Spruce St & Nassau St,2015-08-27T16:41:22,1
+Subscriber,218,Gallatin Pl & Livingston St,2015-08-04T17:13:09,1
+Subscriber,242,Carlton Ave & Flushing Ave,2015-09-16T17:21:37,1
+Customer,195,Liberty St & Broadway,2015-08-11T15:07:29,1
+Subscriber,323,Lawrence St & Willoughby St,2015-07-10T20:45:26,1
+Subscriber,323,Lawrence St & Willoughby St,2015-08-17T18:09:37,1
+Subscriber,364,Lafayette Ave & Classon Ave,2015-07-16T07:22:42,1
+Customer,392,Jay St & Tech Pl,2015-08-10T09:36:29,1
+Subscriber,537,Lexington Ave & E 24 St,2015-08-28T21:31:28,1
+Subscriber,314,Cadman Plaza West & Montague St,2015-07-08T21:35:28,1
+Customer,232,Cadman Plaza E & Tillary St,2015-09-07T09:58:13,1
+Subscriber,217,Old Fulton St,2015-09-29T17:16:08,1
+Subscriber,217,Old Fulton St,2015-08-09T12:19:14,1
+Customer,275,Washington Ave & Greene Ave,2015-08-07T19:19:50,1
+Subscriber,275,Washington Ave & Greene Ave,2015-09-18T08:03:09,1
+Subscriber,406,Hicks St & Montague St,2015-09-03T15:50:28,1
+Customer,216,Columbia Heights & Cranberry St,2015-07-15T14:23:53,1
+Subscriber,390,Duffield St & Willoughby St,2015-08-05T16:43:42,1
+Subscriber,261,Johnson St & Gold St,2015-07-23T23:21:05,1
+Subscriber,119,Park Ave & St Edwards St,2015-09-11T19:48:37,1
+Customer,321,Cadman Plaza E & Red Cross Pl,2015-08-25T11:42:42,1
+Subscriber,437,Macon St & Nostrand Ave,2015-09-19T13:00:02,1
+Customer,409,DeKalb Ave & Skillman St,2015-07-12T12:21:41,1
+Subscriber,310,State St & Smith St,2015-08-28T19:22:58,1
+Subscriber,365,Fulton St & Grand Ave,2015-07-12T18:05:08,1
+Subscriber,397,Fulton St & Clermont Ave,2015-07-14T08:24:39,1
+Subscriber,521,8 Ave & W 31 St,2015-08-22T15:24:44,1
+Subscriber,2003,1 Ave & E 18 St,2015-07-13T19:06:51,1
+Subscriber,293,Lafayette St & E 8 St,2015-07-16T09:37:25,1
+Subscriber,293,Lafayette St & E 8 St,2015-07-14T09:16:49,1
+Subscriber,494,W 26 St & 8 Ave,2015-09-17T17:43:22,1
+Subscriber,334,W 20 St & 7 Ave,2015-07-29T06:55:04,1
+Subscriber,336,Sullivan St & Washington Sq,2015-07-13T19:03:36,1
+Customer,453,W 22 St & 8 Ave,2015-07-04T10:29:01,1
+Subscriber,453,W 22 St & 8 Ave,2015-07-01T21:44:08,1
+Subscriber,422,W 59 St & 10 Ave,2015-08-24T13:21:45,1
+Subscriber,346,Bank St & Hudson St,2015-07-12T09:14:32,1
+Subscriber,128,MacDougal St & Prince St,2015-07-15T22:57:17,1
+Subscriber,530,11 Ave & W 59 St,2015-07-24T07:15:44,1
+Subscriber,296,Division St & Bowery,2015-09-28T09:05:36,1
+Subscriber,335,Washington Pl & Broadway,2015-09-16T17:30:46,1
+Subscriber,492,W 33 St & 7 Ave,2015-07-08T20:09:49,1
+Subscriber,459,W 20 St & 11 Ave,2015-07-14T09:26:05,1
+Subscriber,276,Duane St & Greenwich St,2015-09-02T14:30:09,1
+Subscriber,2004,6 Ave & Broome St,2015-09-24T18:12:23,1
+Subscriber,329,Greenwich St & N Moore St,2015-09-06T23:32:32,1
+Subscriber,264,Maiden Ln & Pearl St,2015-08-19T12:51:32,1
+Subscriber,515,W 43 St & 10 Ave,2015-09-01T10:57:40,1
+Subscriber,294,Washington Square E,2015-08-31T19:07:32,1
+Customer,462,W 22 St & 10 Ave,2015-08-26T17:32:34,1
+Subscriber,462,W 22 St & 10 Ave,2015-09-23T18:42:01,1
+Subscriber,402,Broadway & E 22 St,2015-07-08T13:14:18,1
+Subscriber,229,Great Jones St,2015-08-27T19:17:03,1
+Subscriber,236,St Marks Pl & 2 Ave,2015-07-13T08:24:38,1
+Subscriber,236,St Marks Pl & 2 Ave,2015-08-03T19:40:18,1
+Subscriber,377,6 Ave & Canal St,2015-07-24T22:48:45,1
+Subscriber,533,Broadway & W 39 St,2015-07-17T20:17:01,1
+Subscriber,525,W 34 St & 11 Ave,2015-07-02T08:42:56,1
+Customer,127,Barrow St & Hudson St,2015-07-17T16:47:11,1
+Subscriber,127,Barrow St & Hudson St,2015-09-22T19:59:46,1
+Subscriber,116,W 17 St & 8 Ave,2015-08-17T12:11:18,1
+Subscriber,435,W 21 St & 6 Ave,2015-07-26T12:45:42,1
+Subscriber,254,W 11 St & 6 Ave,2015-09-16T09:46:13,1
+Subscriber,360,William St & Pine St,2015-09-26T17:40:52,1
+Subscriber,360,William St & Pine St,2015-08-26T17:37:23,1
+Subscriber,223,W 13 St & 7 Ave,2015-09-02T20:03:08,1
+Subscriber,426,West St & Chambers St,2015-08-21T19:32:10,1
+Subscriber,426,West St & Chambers St,2015-07-05T19:29:44,1
+Customer,3178,Riverside Dr & W 78 St,2015-09-20T14:30:54,1
+Subscriber,253,W 13 St & 5 Ave,2015-07-30T14:51:54,1
+Subscriber,368,Carmine St & 6 Ave,2015-08-31T21:00:34,1
+Customer,499,Broadway & W 60 St,2015-08-23T17:51:29,1
+Subscriber,473,Rivington St & Chrystie St,2015-07-15T09:58:00,1
+Subscriber,284,Greenwich Ave & 8 Ave,2015-07-25T14:25:30,1
+Subscriber,284,Greenwich Ave & 8 Ave,2015-07-15T08:44:44,1
+Subscriber,284,Greenwich Ave & 8 Ave,2015-08-29T16:50:25,1
+Subscriber,348,W Broadway & Spring St,2015-09-23T14:54:51,1
+Subscriber,363,West Thames St,2015-09-26T14:57:02,1
+Subscriber,404,9 Ave & W 14 St,2015-07-09T20:13:49,1
+Subscriber,514,12 Ave & W 40 St,2015-09-16T08:33:27,1
+Customer,514,12 Ave & W 40 St,2015-07-17T17:27:21,1
+Subscriber,514,12 Ave & W 40 St,2015-08-04T17:04:46,1
+Subscriber,510,W 51 St & 6 Ave,2015-08-24T17:01:39,1
+Subscriber,458,11 Ave & W 27 St,2015-08-12T16:32:07,1
+Subscriber,151,Cleveland Pl & Spring St,2015-07-14T18:51:48,1
+Subscriber,369,Washington Pl & 6 Ave,2015-09-18T07:45:51,1
+Subscriber,463,9 Ave & W 16 St,2015-08-25T10:52:14,1
+Customer,161,LaGuardia Pl & W 3 St,2015-08-02T18:47:27,1
+Subscriber,383,Greenwich Ave & Charles St,2015-07-06T17:27:28,1
+Subscriber,507,E 25 St & 2 Ave,2015-09-05T09:37:18,1
+Subscriber,327,Vesey Pl & River Terrace,2015-08-03T00:36:07,1
+Subscriber,526,E 33 St & 5 Ave,2015-07-18T15:44:36,1
+Subscriber,521,8 Ave & W 31 St,2015-08-22T11:01:39,1
+Subscriber,521,8 Ave & W 31 St,2015-07-31T21:16:12,1
+Subscriber,489,10 Ave & W 28 St,2015-09-18T00:59:16,1
+Subscriber,489,10 Ave & W 28 St,2015-08-25T18:09:29,1
+Subscriber,250,Lafayette St & Jersey St,2015-07-31T18:06:04,1
+Customer,309,Murray St & West St,2015-08-14T15:24:08,1
+Subscriber,346,Bank St & Hudson St,2015-09-26T11:05:01,1
+Subscriber,512,W 29 St & 9 Ave,2015-07-26T17:29:19,1
+Customer,537,Lexington Ave & E 24 St,2015-08-11T21:16:03,1
+Subscriber,442,W 27 St & 7 Ave,2015-07-30T11:58:50,1
+Subscriber,459,W 20 St & 11 Ave,2015-09-23T08:09:30,1
+Subscriber,459,W 20 St & 11 Ave,2015-07-04T13:44:33,1
+Subscriber,459,W 20 St & 11 Ave,2015-09-09T11:04:37,1
+Subscriber,459,W 20 St & 11 Ave,2015-09-16T18:16:00,1
+Subscriber,459,W 20 St & 11 Ave,2015-09-17T21:47:43,1
+Subscriber,276,Duane St & Greenwich St,2015-09-15T18:34:58,1
+Subscriber,237,E 11 St & 2 Ave,2015-08-10T13:21:12,1
+Subscriber,498,Broadway & W 32 St,2015-08-05T17:32:24,1
+Subscriber,515,W 43 St & 10 Ave,2015-09-11T12:03:50,1
+Subscriber,285,Broadway & E 14 St,2015-08-09T15:38:38,1
+Subscriber,307,Canal St & Rutgers St,2015-07-16T00:12:30,1
+Subscriber,488,W 39 St & 9 Ave,2015-09-25T19:19:13,1
+Subscriber,294,Washington Square E,2015-07-15T14:08:44,1
+Subscriber,529,W 42 St & 8 Ave,2015-09-08T19:21:13,1
+Subscriber,402,Broadway & E 22 St,2015-07-23T12:20:07,1
+Subscriber,483,E 12 St & 3 Ave,2015-08-01T09:59:33,1
+Subscriber,470,W 20 St & 8 Ave,2015-09-13T23:26:57,1
+Subscriber,252,MacDougal St & Washington Sq,2015-09-24T14:30:46,1
+Subscriber,511,E 14 St & Avenue B,2015-09-11T10:43:58,1
+Subscriber,476,E 31 St & 3 Ave,2015-08-20T20:28:18,1
+Subscriber,358,Christopher St & Greenwich St,2015-08-29T11:00:44,1
+Subscriber,358,Christopher St & Greenwich St,2015-09-07T21:09:38,1
+Subscriber,435,W 21 St & 6 Ave,2015-08-26T14:39:43,1
+Subscriber,435,W 21 St & 6 Ave,2015-07-15T19:01:26,1
+Subscriber,435,W 21 St & 6 Ave,2015-09-22T16:21:46,1
+Subscriber,348,W Broadway & Spring St,2015-08-18T18:04:02,1
+Subscriber,261,Johnson St & Gold St,2015-08-21T08:55:24,1
+Customer,369,Washington Pl & 6 Ave,2015-07-02T15:15:47,1
+Customer,463,9 Ave & W 16 St,2015-07-24T21:55:45,1
+Subscriber,446,W 24 St & 7 Ave,2015-08-22T17:41:43,2
+Subscriber,446,W 24 St & 7 Ave,2015-09-21T20:17:27,1
+Subscriber,383,Greenwich Ave & Charles St,2015-09-05T11:10:31,1
+Customer,328,Watts St & Greenwich St,2015-09-01T14:18:59,2
+Customer,345,W 13 St & 6 Ave,2015-07-11T10:03:23,1
+Subscriber,345,W 13 St & 6 Ave,2015-09-27T13:40:51,1
+Subscriber,491,E 24 St & Park Ave S,2015-08-02T10:39:32,1
+Subscriber,444,Broadway & W 24 St,2015-07-24T06:37:09,1
+Subscriber,225,W 14 St & The High Line,2015-09-06T11:27:08,1
+Subscriber,212,W 16 St & The High Line,2015-09-28T08:10:09,1
+Subscriber,521,8 Ave & W 31 St,2015-08-07T08:59:25,1
+Subscriber,521,8 Ave & W 31 St,2015-08-12T08:56:31,1
+Subscriber,293,Lafayette St & E 8 St,2015-09-10T23:10:54,1
+Subscriber,293,Lafayette St & E 8 St,2015-09-19T15:03:29,1
+Subscriber,355,Bayard St & Baxter St,2015-08-14T09:35:52,1
+Subscriber,401,Allen St & Rivington St,2015-08-16T08:23:29,1
+Subscriber,453,W 22 St & 8 Ave,2015-09-09T18:00:04,1
+Subscriber,351,Front St & Maiden Ln,2015-09-24T12:30:47,1
+Subscriber,466,W 25 St & 6 Ave,2015-09-05T10:46:29,1
+Subscriber,410,Suffolk St & Stanton St,2015-09-03T09:35:47,1
+Customer,128,MacDougal St & Prince St,2015-08-28T09:47:22,1
+Subscriber,79,Franklin St & W Broadway,2015-09-28T19:36:01,1
+Subscriber,482,W 15 St & 7 Ave,2015-09-07T18:46:25,1
+Subscriber,482,W 15 St & 7 Ave,2015-07-18T16:53:42,1
+Subscriber,492,W 33 St & 7 Ave,2015-07-18T19:54:16,1
+Subscriber,251,Mott St & Prince St,2015-08-26T17:56:15,1
+Subscriber,251,Mott St & Prince St,2015-09-27T15:02:29,1
+Subscriber,423,W 54 St & 9 Ave,2015-09-01T20:02:27,1
+Subscriber,388,W 26 St & 10 Ave,2015-08-07T17:38:18,1
+Subscriber,326,E 11 St & 1 Ave,2015-09-18T20:22:57,1
+Customer,264,Maiden Ln & Pearl St,2015-08-27T20:56:44,1
+Customer,529,W 42 St & 8 Ave,2015-09-02T14:30:51,1
+Customer,462,W 22 St & 10 Ave,2015-09-13T10:35:10,1
+Subscriber,315,South St & Gouverneur Ln,2015-08-28T07:37:28,2
+Subscriber,377,6 Ave & Canal St,2015-08-19T18:15:18,1
+Subscriber,472,E 32 St & Park Ave,2015-07-24T21:58:43,1
+Subscriber,331,Pike St & Monroe St,2015-07-23T04:13:42,1
+Customer,525,W 34 St & 11 Ave,2015-08-07T18:02:34,1
+Customer,405,Washington St & Gansevoort St,2015-08-16T11:54:04,1
+Subscriber,504,1 Ave & E 15 St,2015-09-05T09:24:07,1
+Subscriber,116,W 17 St & 8 Ave,2015-08-26T08:54:51,1
+Subscriber,304,Broadway & Battery Pl,2015-07-22T17:53:39,1
+Subscriber,358,Christopher St & Greenwich St,2015-08-25T14:31:54,1
+Subscriber,358,Christopher St & Greenwich St,2015-07-25T08:38:51,1
+Subscriber,434,9 Ave & W 18 St,2015-08-27T09:25:07,1
+Subscriber,434,9 Ave & W 18 St,2015-09-04T09:47:45,2
+Subscriber,450,W 49 St & 8 Ave,2015-09-15T07:02:07,1
+Subscriber,347,Greenwich St & W Houston St,2015-08-19T12:46:58,1
+Subscriber,347,Greenwich St & W Houston St,2015-09-14T05:44:43,1
+Subscriber,347,Greenwich St & W Houston St,2015-08-14T18:47:56,1
+Subscriber,3178,Riverside Dr & W 78 St,2015-09-13T10:17:07,1
+Subscriber,499,Broadway & W 60 St,2015-09-20T18:02:11,1
+Customer,72,W 52 St & 11 Ave,2015-07-16T09:55:45,1
+Subscriber,318,E 43 St & Vanderbilt Ave,2015-07-28T18:20:23,1
+Subscriber,427,Bus Slip & State St,2015-09-03T08:32:42,1
+Subscriber,404,9 Ave & W 14 St,2015-07-20T14:02:55,1
+Subscriber,430,York St & Jay St,2015-07-25T16:32:17,1
+Subscriber,514,12 Ave & W 40 St,2015-08-20T16:25:45,1
+Customer,379,W 31 St & 7 Ave,2015-09-11T11:44:16,1
+Subscriber,303,Mercer St & Spring St,2015-07-16T19:36:22,1
+Subscriber,477,W 41 St & 8 Ave,2015-09-24T11:01:34,1
+Subscriber,151,Cleveland Pl & Spring St,2015-09-28T14:57:17,1
+Subscriber,486,Broadway & W 29 St,2015-07-28T20:51:28,1
+Subscriber,463,9 Ave & W 16 St,2015-08-11T11:29:24,1
+Subscriber,383,Greenwich Ave & Charles St,2015-08-24T19:12:08,1
+Subscriber,508,W 46 St & 11 Ave,2015-08-27T13:23:27,1
+Subscriber,3002,South End Ave & Liberty St,2015-09-12T11:11:46,1
+Subscriber,280,E 10 St & 5 Ave,2015-09-02T13:36:45,1
+Subscriber,345,W 13 St & 6 Ave,2015-09-22T16:53:15,1
+Subscriber,327,Vesey Pl & River Terrace,2015-07-21T17:18:01,1
+Subscriber,327,Vesey Pl & River Terrace,2015-08-21T12:51:18,1
+Customer,391,Clark St & Henry St,2015-09-19T15:56:28,1
+Customer,3169,Riverside Dr & W 82 St,2015-09-26T17:42:23,1
+Subscriber,439,E 4 St & 2 Ave,2015-07-29T21:19:21,1
+Subscriber,382,University Pl & E 14 St,2015-08-26T19:52:12,1
+Subscriber,3092,Berry St & N 8 St,2015-09-01T14:29:18,1
+Subscriber,3092,Berry St & N 8 St,2015-09-14T20:18:45,1
+Subscriber,3090,N 8 St & Driggs Ave,2015-08-23T17:19:14,1
+Customer,3095,Graham Ave & Herbert St,2015-09-20T11:22:00,1
+Customer,3093,N 6 St & Bedford Ave,2015-09-22T13:36:48,1
+Subscriber,314,Cadman Plaza West & Montague St,2015-09-11T21:40:05,1
+Customer,3104,Kent Ave & N 7 St,2015-09-12T14:43:19,1
+Subscriber,3222,Hanson Pl & St Felix St,2015-09-08T15:19:33,1
+Subscriber,250,Lafayette St & Jersey St,2015-09-25T19:36:19,1
+Subscriber,354,Emerson Pl & Myrtle Ave,2015-09-27T01:21:59,1
+Subscriber,348,W Broadway & Spring St,2015-08-19T17:48:39,1
+Customer,436,Hancock St & Bedford Ave,2015-08-04T20:50:30,1
+Customer,389,Broadway & Berry St,2015-08-16T20:57:51,1
+Subscriber,262,Washington Park,2015-09-25T19:29:05,1
+Subscriber,324,DeKalb Ave & Hudson Ave,2015-09-21T20:54:01,1
+Subscriber,384,Fulton St & Washington Ave,2015-08-21T21:00:17,1
+Subscriber,157,Henry St & Atlantic Ave,2015-08-15T12:49:08,1
+Subscriber,3223,E 55 St & 3 Ave,2015-09-14T17:37:00,1
+Subscriber,521,8 Ave & W 31 St,2015-09-29T07:45:14,1
+Subscriber,500,Broadway & W 51 St,2015-09-08T06:51:41,1
+Subscriber,357,E 11 St & Broadway,2015-09-24T13:52:27,1
+Customer,334,W 20 St & 7 Ave,2015-07-10T20:43:22,1
+Subscriber,334,W 20 St & 7 Ave,2015-08-31T07:44:36,1
+Subscriber,3147,E 85 St & 3 Ave,2015-09-20T12:11:29,1
+Subscriber,492,W 33 St & 7 Ave,2015-07-24T09:41:31,1
+Subscriber,464,E 56 St & 3 Ave,2015-08-06T18:40:03,1
+Customer,524,W 43 St & 6 Ave,2015-08-20T06:22:10,1
+Customer,498,Broadway & W 32 St,2015-09-07T17:31:05,1
+Subscriber,305,E 58 St & 3 Ave,2015-08-20T14:14:07,1
+Subscriber,529,W 42 St & 8 Ave,2015-07-23T10:08:06,1
+Subscriber,529,W 42 St & 8 Ave,2015-08-24T05:51:23,1
+Subscriber,529,W 42 St & 8 Ave,2015-08-06T08:27:25,1
+Subscriber,472,E 32 St & Park Ave,2015-09-02T14:25:14,1
+Subscriber,493,W 45 St & 6 Ave,2015-08-13T17:27:15,1
+Subscriber,448,W 37 St & 10 Ave,2015-08-27T18:04:59,1
+Customer,265,Stanton St & Chrystie St,2015-07-04T23:46:48,1
+Subscriber,519,Pershing Square North,2015-09-17T16:18:37,1
+Subscriber,519,Pershing Square North,2015-09-21T19:02:38,1
+Customer,510,W 51 St & 6 Ave,2015-07-19T02:38:39,1
+Subscriber,510,W 51 St & 6 Ave,2015-09-17T13:50:19,1
+Subscriber,387,Centre St & Chambers St,2015-08-15T08:26:26,1
+Subscriber,152,Warren St & Church St,2015-09-18T10:14:33,1
+Subscriber,379,W 31 St & 7 Ave,2015-07-02T07:17:52,1
+Subscriber,267,Broadway & W 36 St,2015-08-14T09:01:18,1
+Subscriber,267,Broadway & W 36 St,2015-07-17T12:33:18,1
+Customer,281,Grand Army Plaza & Central Park S,2015-08-23T15:11:20,1
+Customer,281,Grand Army Plaza & Central Park S,2015-07-16T18:00:32,1
+Customer,486,Broadway & W 29 St,2015-07-04T19:21:06,1
+Customer,486,Broadway & W 29 St,2015-07-04T19:21:39,1
+Customer,497,E 17 St & Broadway,2015-08-17T14:59:57,1
+Customer,3160,Central Park West & W 76 St,2015-09-27T14:27:16,1
+Customer,487,E 20 St & FDR Drive,2015-07-18T17:43:39,1
+Subscriber,491,E 24 St & Park Ave S,2015-08-31T15:10:25,1
+Subscriber,491,E 24 St & Park Ave S,2015-08-21T13:01:34,1
+Subscriber,290,2 Ave & E 58 St,2015-08-27T14:03:17,1
+Subscriber,357,E 11 St & Broadway,2015-09-17T20:02:20,1
+Subscriber,349,Rivington St & Ridge St,2015-07-20T17:18:54,1
+Subscriber,335,Washington Pl & Broadway,2015-07-04T13:47:22,1
+Subscriber,312,Allen St & E Houston St,2015-07-20T16:14:51,1
+Subscriber,264,Maiden Ln & Pearl St,2015-09-17T09:10:17,1
+Subscriber,307,Canal St & Rutgers St,2015-08-25T18:20:52,1
+Subscriber,307,Canal St & Rutgers St,2015-07-29T19:16:00,1
+Subscriber,307,Canal St & Rutgers St,2015-09-09T08:59:19,1
+Subscriber,307,Canal St & Rutgers St,2015-08-14T10:08:17,1
+Subscriber,307,Canal St & Rutgers St,2015-09-23T19:29:31,1
+Subscriber,531,Forsyth St & Broome St,2015-08-14T15:04:00,1
+Subscriber,531,Forsyth St & Broome St,2015-08-19T18:44:23,1
+Subscriber,2010,Grand St & Greene St,2015-09-24T18:49:11,1
+Customer,304,Broadway & Battery Pl,2015-09-19T16:09:00,1
+Subscriber,301,E 2 St & Avenue B,2015-07-09T19:18:19,1
+Subscriber,519,Pershing Square North,2015-08-19T18:24:29,1
+Customer,279,Peck Slip & Front St,2015-07-13T14:33:35,1
+Subscriber,249,Harrison St & Hudson St,2015-09-15T19:08:42,1
+Subscriber,168,W 18 St & 6 Ave,2015-08-15T13:47:59,1
+Subscriber,350,Clinton St & Grand St,2015-09-20T15:26:34,1
+Subscriber,350,Clinton St & Grand St,2015-07-11T16:39:19,1
+Subscriber,350,Clinton St & Grand St,2015-08-23T20:50:58,1
+Subscriber,489,10 Ave & W 28 St,2015-09-01T09:13:45,1
+Customer,2008,Little West St & 1 Pl,2015-07-17T18:58:52,1
+Subscriber,466,W 25 St & 6 Ave,2015-09-28T16:08:03,1
+Subscriber,417,Barclay St & Church St,2015-09-28T18:50:12,1
+Subscriber,417,Barclay St & Church St,2015-08-20T17:56:52,1
+Subscriber,128,MacDougal St & Prince St,2015-09-21T17:56:01,1
+Subscriber,513,W 56 St & 10 Ave,2015-08-05T07:24:22,1
+Customer,537,Lexington Ave & E 24 St,2015-09-09T22:44:19,1
+Subscriber,276,Duane St & Greenwich St,2015-07-21T19:25:50,1
+Subscriber,276,Duane St & Greenwich St,2015-07-13T11:00:08,1
+Customer,329,Greenwich St & N Moore St,2015-09-19T13:26:15,1
+Subscriber,515,W 43 St & 10 Ave,2015-07-28T19:47:46,1
+Subscriber,402,Broadway & E 22 St,2015-09-15T05:56:36,1
+Customer,247,Perry St & Bleecker St,2015-09-26T16:00:30,1
+Subscriber,405,Washington St & Gansevoort St,2015-07-01T08:41:05,1
+Subscriber,435,W 21 St & 6 Ave,2015-07-08T08:31:18,1
+Subscriber,360,William St & Pine St,2015-09-26T11:30:23,1
+Subscriber,223,W 13 St & 7 Ave,2015-09-15T14:02:36,1
+Subscriber,347,Greenwich St & W Houston St,2015-09-01T14:51:50,1
+Subscriber,426,West St & Chambers St,2015-09-07T14:39:51,1
+Subscriber,426,West St & Chambers St,2015-07-20T19:09:15,1
+Subscriber,368,Carmine St & 6 Ave,2015-07-22T09:07:06,1
+Customer,518,E 39 St & 2 Ave,2015-07-13T17:08:34,1
+Subscriber,72,W 52 St & 11 Ave,2015-07-07T08:55:51,1
+Subscriber,348,W Broadway & Spring St,2015-08-07T17:04:00,1
+Subscriber,249,Harrison St & Hudson St,2015-07-20T15:32:53,1
+Subscriber,458,11 Ave & W 27 St,2015-08-14T15:35:53,1
+Subscriber,147,Greenwich St & Warren St,2015-09-28T22:40:28,1
+Subscriber,383,Greenwich Ave & Charles St,2015-09-16T08:37:29,1
+Subscriber,345,W 13 St & 6 Ave,2015-07-03T17:25:10,1
+Subscriber,319,Fulton St & Broadway,2015-09-17T17:23:28,1
+Subscriber,238,Bank St & Washington St,2015-07-11T09:45:10,1
+Subscriber,327,Vesey Pl & River Terrace,2015-07-21T08:13:00,1
+Subscriber,212,W 16 St & The High Line,2015-09-29T17:11:34,1
+Customer,439,E 4 St & 2 Ave,2015-07-16T14:35:47,1
+Subscriber,250,Lafayette St & Jersey St,2015-08-30T19:27:45,1
+Customer,251,Mott St & Prince St,2015-08-21T23:47:47,1
+Subscriber,237,E 11 St & 2 Ave,2015-09-23T14:30:18,1
+Customer,305,E 58 St & 3 Ave,2015-08-08T12:22:00,1
+Subscriber,294,Washington Square E,2015-09-22T12:07:24,1
+Subscriber,294,Washington Square E,2015-09-01T19:03:12,1
+Subscriber,294,Washington Square E,2015-08-24T16:40:59,1
+Subscriber,402,Broadway & E 22 St,2015-08-20T07:59:15,1
+Subscriber,402,Broadway & E 22 St,2015-08-21T17:32:38,1
+Subscriber,229,Great Jones St,2015-07-30T20:35:29,1
+Customer,150,E 2 St & Avenue C,2015-07-20T23:59:28,1
+Subscriber,531,Forsyth St & Broome St,2015-07-01T14:49:42,1
+Subscriber,2010,Grand St & Greene St,2015-08-12T17:30:25,1
+Subscriber,496,E 16 St & 5 Ave,2015-08-18T21:11:41,1
+Subscriber,511,E 14 St & Avenue B,2015-08-11T07:44:13,1
+Subscriber,476,E 31 St & 3 Ave,2015-07-30T18:28:20,1
+Subscriber,504,1 Ave & E 15 St,2015-08-07T18:29:23,1
+Subscriber,504,1 Ave & E 15 St,2015-08-22T11:25:45,1
+Subscriber,504,1 Ave & E 15 St,2015-08-02T15:13:00,1
+Customer,223,W 13 St & 7 Ave,2015-08-24T12:28:12,1
+Customer,265,Stanton St & Chrystie St,2015-07-23T13:47:02,1
+Subscriber,301,E 2 St & Avenue B,2015-09-27T18:53:24,1
+Customer,253,W 13 St & 5 Ave,2015-08-25T18:16:41,1
+Subscriber,253,W 13 St & 5 Ave,2015-07-29T18:49:08,1
+Subscriber,348,W Broadway & Spring St,2015-08-28T17:35:52,1
+Customer,379,W 31 St & 7 Ave,2015-08-15T11:30:24,1
+Subscriber,458,11 Ave & W 27 St,2015-09-29T10:17:59,1
+Subscriber,3176,W 64 St & West End Ave,2015-09-07T17:27:08,1
+Subscriber,151,Cleveland Pl & Spring St,2015-07-15T09:03:52,1
+Subscriber,151,Cleveland Pl & Spring St,2015-08-05T16:38:48,1
+Subscriber,356,Bialystoker Pl & Delancey St,2015-09-18T09:03:10,1
+Subscriber,168,W 18 St & 6 Ave,2015-08-20T18:43:56,1
+Subscriber,161,LaGuardia Pl & W 3 St,2015-08-13T20:24:30,1
+Subscriber,161,LaGuardia Pl & W 3 St,2015-09-16T15:15:37,1
+Subscriber,487,E 20 St & FDR Drive,2015-07-29T21:16:16,1
+Subscriber,146,Hudson St & Reade St,2015-07-18T17:22:56,1
+Customer,444,Broadway & W 24 St,2015-07-23T08:26:37,1
+Subscriber,325,E 19 St & 3 Ave,2015-08-09T18:19:23,1
+Customer,439,E 4 St & 2 Ave,2015-08-09T16:04:44,1
+Subscriber,439,E 4 St & 2 Ave,2015-07-08T16:33:58,1
+Subscriber,439,E 4 St & 2 Ave,2015-07-18T13:41:22,1
+Subscriber,382,University Pl & E 14 St,2015-09-18T06:04:19,1
+Subscriber,521,8 Ave & W 31 St,2015-09-01T07:47:50,1
+Subscriber,2003,1 Ave & E 18 St,2015-09-18T08:09:44,1
+Subscriber,355,Bayard St & Baxter St,2015-09-22T12:40:06,1
+Subscriber,357,E 11 St & Broadway,2015-07-07T19:38:27,1
+Subscriber,361,Allen St & Hester St,2015-07-20T12:28:00,1
+Subscriber,361,Allen St & Hester St,2015-09-18T22:19:35,1
+Subscriber,410,Suffolk St & Stanton St,2015-08-21T17:30:14,1
+Subscriber,312,Allen St & E Houston St,2015-07-11T12:23:15,1
+Subscriber,317,E 6 St & Avenue B,2015-09-06T12:38:32,1
+Subscriber,285,Broadway & E 14 St,2015-07-12T18:28:44,1
+Subscriber,2006,Central Park S & 6 Ave,2015-09-25T21:30:53,1
+Subscriber,529,W 42 St & 8 Ave,2015-08-01T22:27:59,1
+Subscriber,522,E 51 St & Lexington Ave,2015-07-22T16:11:37,1
+Subscriber,229,Great Jones St,2015-08-03T22:22:39,1
+Subscriber,483,E 12 St & 3 Ave,2015-08-15T16:11:22,1
+Subscriber,483,E 12 St & 3 Ave,2015-08-16T21:39:36,1
+Subscriber,236,St Marks Pl & 2 Ave,2015-08-11T17:10:00,1
+Subscriber,472,E 32 St & Park Ave,2015-08-31T18:54:16,1
+Subscriber,496,E 16 St & 5 Ave,2015-08-14T12:55:33,1
+Subscriber,511,E 14 St & Avenue B,2015-07-29T05:58:52,1
+Subscriber,504,1 Ave & E 15 St,2015-09-28T18:33:48,1
+Subscriber,504,1 Ave & E 15 St,2015-07-15T02:31:44,1
+Subscriber,259,South St & Whitehall St,2015-09-10T17:00:25,1
+Subscriber,435,W 21 St & 6 Ave,2015-09-26T19:14:29,1
+Subscriber,434,9 Ave & W 18 St,2015-08-17T18:07:20,1
+Subscriber,360,William St & Pine St,2015-08-04T17:35:53,1
+Subscriber,426,West St & Chambers St,2015-08-30T17:43:41,1
+Subscriber,455,1 Ave & E 44 St,2015-08-28T17:08:57,1
+Subscriber,518,E 39 St & 2 Ave,2015-08-04T15:00:25,1
+Subscriber,3149,E 82 St & 2 Ave,2015-09-18T02:01:01,1
+Subscriber,517,Pershing Square South,2015-07-13T21:20:48,1
+Subscriber,295,Pike St & E Broadway,2015-07-14T22:23:33,1
+Subscriber,445,E 10 St & Avenue A,2015-08-14T22:45:54,1
+Subscriber,379,W 31 St & 7 Ave,2015-07-27T08:45:04,1
+Subscriber,463,9 Ave & W 16 St,2015-08-17T17:09:44,1
+Subscriber,446,W 24 St & 7 Ave,2015-09-26T00:16:10,1
+Subscriber,446,W 24 St & 7 Ave,2015-09-22T12:04:55,1
+Subscriber,446,W 24 St & 7 Ave,2015-09-04T08:35:41,1
+Subscriber,497,E 17 St & Broadway,2015-08-14T12:25:57,1
+Subscriber,316,Fulton St & William St,2015-09-14T20:14:24,1
+Subscriber,3002,South End Ave & Liberty St,2015-07-12T15:27:11,1
+Subscriber,3002,South End Ave & Liberty St,2015-07-14T19:26:50,1
+Subscriber,475,E 16 St & Irving Pl,2015-07-28T20:07:56,1
+Subscriber,475,E 16 St & Irving Pl,2015-09-07T20:24:12,1
+Subscriber,475,E 16 St & Irving Pl,2015-08-09T15:29:27,2
+Subscriber,146,Hudson St & Reade St,2015-09-16T18:27:55,1
+Subscriber,491,E 24 St & Park Ave S,2015-08-20T15:58:14,1
+Subscriber,444,Broadway & W 24 St,2015-07-21T19:46:24,1
+Subscriber,297,E 15 St & 3 Ave,2015-07-04T08:34:56,1
+Subscriber,297,E 15 St & 3 Ave,2015-07-19T20:10:47,1
+Subscriber,266,Avenue D & E 8 St,2015-09-26T09:08:53,1
+Subscriber,266,Avenue D & E 8 St,2015-08-08T16:59:00,1
+Subscriber,325,E 19 St & 3 Ave,2015-07-22T22:42:53,1
+Subscriber,260,Broad St & Bridge St,2015-07-06T16:19:13,1
+Subscriber,2023,E 55 St & Lexington Ave,2015-09-11T17:02:03,1
+Subscriber,439,E 4 St & 2 Ave,2015-09-27T00:46:24,1
+Subscriber,382,University Pl & E 14 St,2015-09-02T18:51:09,1
+Subscriber,382,University Pl & E 14 St,2015-09-08T13:01:53,1
+Subscriber,521,8 Ave & W 31 St,2015-08-28T06:16:00,1
+Subscriber,521,8 Ave & W 31 St,2015-09-24T08:43:11,2
+Subscriber,521,8 Ave & W 31 St,2015-07-24T08:24:16,1
+Subscriber,128,MacDougal St & Prince St,2015-08-16T14:18:59,1
+Customer,469,Broadway & W 53 St,2015-08-02T19:21:32,1
+Subscriber,423,W 54 St & 9 Ave,2015-09-21T13:46:10,1
+Subscriber,457,Broadway & W 58 St,2015-09-24T08:53:13,1
+Subscriber,495,W 47 St & 10 Ave,2015-09-05T19:59:42,1
+Subscriber,495,W 47 St & 10 Ave,2015-07-31T07:10:33,1
+Subscriber,490,8 Ave & W 33 St,2015-07-26T00:42:30,1
+Subscriber,359,E 47 St & Park Ave,2015-09-21T08:36:34,1
+Subscriber,359,E 47 St & Park Ave,2015-09-21T08:45:19,1
+Subscriber,493,W 45 St & 6 Ave,2015-09-01T15:07:05,1
+Subscriber,116,W 17 St & 8 Ave,2015-08-30T12:30:52,1
+Subscriber,499,Broadway & W 60 St,2015-08-11T08:33:00,1
+Subscriber,318,E 43 St & Vanderbilt Ave,2015-07-22T10:18:22,1
+Subscriber,3170,W 84 St & Columbus Ave,2015-09-28T18:07:49,1
+Subscriber,510,W 51 St & 6 Ave,2015-08-28T16:01:36,2
+Subscriber,152,Warren St & Church St,2015-09-21T14:53:44,1
+Subscriber,520,W 52 St & 5 Ave,2015-08-19T18:05:03,1
+Subscriber,520,W 52 St & 5 Ave,2015-07-02T12:29:04,1
+Subscriber,468,Broadway & W 55 St,2015-09-19T00:27:34,1
+Subscriber,3177,W 84 St & Broadway,2015-09-25T15:39:32,1
+Subscriber,352,W 56 St & 6 Ave,2015-07-18T18:49:13,1
+Subscriber,412,Forsyth St & Canal St,2015-07-13T08:50:49,1
+Customer,357,E 11 St & Broadway,2015-07-03T16:10:48,1
+Subscriber,357,E 11 St & Broadway,2015-08-08T16:09:43,1
+Customer,251,Mott St & Prince St,2015-07-22T17:42:09,1
+Subscriber,464,E 56 St & 3 Ave,2015-07-10T08:39:30,1
+Subscriber,276,Duane St & Greenwich St,2015-08-15T14:27:39,1
+Subscriber,2004,6 Ave & Broome St,2015-07-07T14:26:38,1
+Subscriber,247,Perry St & Bleecker St,2015-09-22T22:11:35,1
+Customer,247,Perry St & Bleecker St,2015-07-11T16:52:57,1
+Subscriber,127,Barrow St & Hudson St,2015-07-05T15:11:36,1
+Subscriber,127,Barrow St & Hudson St,2015-08-25T22:09:22,1
+Subscriber,368,Carmine St & 6 Ave,2015-09-16T08:15:58,1
+Subscriber,320,Leonard St & Church St,2015-09-10T12:34:53,1
+Subscriber,363,West Thames St,2015-09-27T14:12:07,1
+Subscriber,303,Mercer St & Spring St,2015-07-08T14:10:44,1
+Subscriber,463,9 Ave & W 16 St,2015-07-15T14:46:55,1
+Subscriber,161,LaGuardia Pl & W 3 St,2015-07-20T18:13:56,1
+Subscriber,497,E 17 St & Broadway,2015-08-28T18:16:46,1
+Subscriber,146,Hudson St & Reade St,2015-07-29T14:17:33,1
+Subscriber,257,Lispenard St & Broadway,2015-07-04T06:41:33,1
+Subscriber,260,Broad St & Bridge St,2015-07-17T13:56:35,1
+Subscriber,439,E 4 St & 2 Ave,2015-08-31T09:00:28,1
+Subscriber,521,8 Ave & W 31 St,2015-08-13T19:32:53,1
+Subscriber,521,8 Ave & W 31 St,2015-07-16T07:41:12,1
+Subscriber,521,8 Ave & W 31 St,2015-07-27T07:26:23,1
+Subscriber,489,10 Ave & W 28 St,2015-08-04T02:38:21,1
+Subscriber,527,E 33 St & 2 Ave,2015-08-30T12:28:08,1
+Subscriber,422,W 59 St & 10 Ave,2015-09-13T07:00:22,1
+Subscriber,173,Broadway & W 49 St,2015-07-01T19:52:00,1
+Subscriber,428,E 3 St & 1 Ave,2015-08-17T07:03:48,1
+Subscriber,367,E 53 St & Lexington Ave,2015-08-18T16:48:04,1
+Subscriber,457,Broadway & W 58 St,2015-09-26T11:18:24,1
+Customer,305,E 58 St & 3 Ave,2015-07-05T14:13:54,1
+Subscriber,529,W 42 St & 8 Ave,2015-07-29T05:59:56,1
+Subscriber,529,W 42 St & 8 Ave,2015-07-28T06:24:07,1
+Subscriber,529,W 42 St & 8 Ave,2015-08-20T06:34:58,1
+Subscriber,529,W 42 St & 8 Ave,2015-08-18T08:09:53,1
+Subscriber,402,Broadway & E 22 St,2015-08-05T18:58:45,1
+Subscriber,522,E 51 St & Lexington Ave,2015-09-28T13:44:01,1
+Customer,3140,1 Ave & E 78 St,2015-09-15T08:51:09,1
+Subscriber,153,E 40 St & 5 Ave,2015-07-25T11:33:16,1
+Subscriber,495,W 47 St & 10 Ave,2015-08-26T17:39:27,1
+Subscriber,248,Laight St & Hudson St,2015-09-04T15:20:37,1
+Subscriber,472,E 32 St & Park Ave,2015-09-29T12:58:46,1
+Subscriber,490,8 Ave & W 33 St,2015-07-17T08:49:21,1
+Subscriber,359,E 47 St & Park Ave,2015-08-26T07:26:51,1
+Customer,455,1 Ave & E 44 St,2015-07-07T16:07:37,1
+Subscriber,499,Broadway & W 60 St,2015-08-19T20:38:54,1
+Subscriber,499,Broadway & W 60 St,2015-08-20T23:05:03,1
+Subscriber,499,Broadway & W 60 St,2015-08-16T16:25:22,1
+Subscriber,519,Pershing Square North,2015-08-18T19:42:46,1
+Subscriber,519,Pershing Square North,2015-08-05T16:34:23,2
+Subscriber,72,W 52 St & 11 Ave,2015-08-18T17:29:01,1
+Subscriber,284,Greenwich Ave & 8 Ave,2015-07-14T15:37:52,1
+Subscriber,517,Pershing Square South,2015-09-19T13:56:25,1
+Subscriber,318,E 43 St & Vanderbilt Ave,2015-07-15T17:33:19,1
+Subscriber,2017,E 43 St & 2 Ave,2015-09-10T12:26:49,1
+Customer,281,Grand Army Plaza & Central Park S,2015-09-21T15:38:39,1
+Subscriber,281,Grand Army Plaza & Central Park S,2015-07-22T05:47:59,1
+Subscriber,281,Grand Army Plaza & Central Park S,2015-07-01T15:48:06,1
+Subscriber,3172,W 74 St & Columbus Ave,2015-09-09T10:16:09,1
+Subscriber,151,Cleveland Pl & Spring St,2015-08-03T18:10:39,1
+Subscriber,302,Avenue D & E 3 St,2015-09-01T08:01:06,1
+Subscriber,468,Broadway & W 55 St,2015-09-24T16:51:44,1
+Subscriber,501,FDR Drive & E 35 St,2015-08-04T18:23:57,1
+Subscriber,2023,E 55 St & Lexington Ave,2015-08-05T20:45:31,1
+Subscriber,352,W 56 St & 6 Ave,2015-08-05T11:15:55,1
+Subscriber,521,8 Ave & W 31 St,2015-09-25T12:24:02,1
+Subscriber,459,W 20 St & 11 Ave,2015-08-06T21:45:42,1
+Subscriber,485,W 37 St & 5 Ave,2015-09-29T18:58:37,1
+Subscriber,515,W 43 St & 10 Ave,2015-08-30T11:34:39,1
+Subscriber,305,E 58 St & 3 Ave,2015-09-04T15:27:00,1
+Subscriber,488,W 39 St & 9 Ave,2015-09-01T17:01:15,1
+Customer,529,W 42 St & 8 Ave,2015-07-11T19:47:11,1
+Subscriber,462,W 22 St & 10 Ave,2015-08-12T23:34:15,1
+Subscriber,402,Broadway & E 22 St,2015-08-24T17:34:24,1
+Subscriber,472,E 32 St & Park Ave,2015-09-09T19:26:03,1
+Subscriber,525,W 34 St & 11 Ave,2015-09-16T08:26:03,1
+Subscriber,490,8 Ave & W 33 St,2015-08-12T07:11:40,1
+Subscriber,490,8 Ave & W 33 St,2015-07-14T20:33:38,1
+Subscriber,490,8 Ave & W 33 St,2015-09-11T18:21:52,1
+Subscriber,504,1 Ave & E 15 St,2015-08-03T19:30:47,1
+Subscriber,434,9 Ave & W 18 St,2015-09-22T15:40:27,1
+Subscriber,434,9 Ave & W 18 St,2015-09-17T17:53:07,1
+Subscriber,450,W 49 St & 8 Ave,2015-08-22T11:09:50,1
+Subscriber,519,Pershing Square North,2015-08-13T07:39:33,1
+Subscriber,284,Greenwich Ave & 8 Ave,2015-07-22T18:48:19,1
+Subscriber,376,John St & William St,2015-07-28T17:44:54,2
+Subscriber,463,9 Ave & W 16 St,2015-08-01T15:09:44,1
+Subscriber,468,Broadway & W 55 St,2015-08-17T17:52:12,1
+Subscriber,468,Broadway & W 55 St,2015-09-14T17:39:40,1
+Subscriber,3002,South End Ave & Liberty St,2015-07-09T09:55:53,1
+Subscriber,362,Broadway & W 37 St,2015-07-10T17:48:36,1
+Subscriber,310,State St & Smith St,2015-09-04T06:42:29,1
+Customer,2021,W 45 St & 8 Ave,2015-09-07T23:22:39,1
+Subscriber,526,E 33 St & 5 Ave,2015-08-19T17:37:10,1
+Customer,480,W 53 St & 10 Ave,2015-09-24T14:06:34,1
+Subscriber,521,8 Ave & W 31 St,2015-09-09T12:15:50,1
+Subscriber,540,Lexington Ave & E 29 St,2015-08-16T17:14:47,1
+Subscriber,293,Lafayette St & E 8 St,2015-09-18T10:18:32,1
+Customer,355,Bayard St & Baxter St,2015-08-14T09:32:03,1
+Subscriber,489,10 Ave & W 28 St,2015-08-11T17:57:21,1
+Subscriber,375,Mercer St & Bleecker St,2015-09-13T13:41:28,1
+Subscriber,2008,Little West St & 1 Pl,2015-09-03T11:30:01,1
+Subscriber,453,W 22 St & 8 Ave,2015-08-18T07:06:18,1
+Subscriber,296,Division St & Bowery,2015-07-28T08:34:09,1
+Subscriber,251,Mott St & Prince St,2015-09-21T10:31:42,1
+Subscriber,423,W 54 St & 9 Ave,2015-09-12T02:08:59,1
+Subscriber,537,Lexington Ave & E 24 St,2015-07-22T10:58:40,1
+Subscriber,388,W 26 St & 10 Ave,2015-09-04T09:21:03,1
+Subscriber,442,W 27 St & 7 Ave,2015-09-02T08:29:25,1
+Subscriber,442,W 27 St & 7 Ave,2015-07-19T13:19:34,1
+Subscriber,428,E 3 St & 1 Ave,2015-08-31T17:37:25,1
+Subscriber,237,E 11 St & 2 Ave,2015-08-26T16:22:22,1
+Subscriber,237,E 11 St & 2 Ave,2015-08-06T08:36:40,1
+Subscriber,312,Allen St & E Houston St,2015-07-16T18:41:21,1
+Customer,546,E 30 St & Park Ave S,2015-09-13T13:35:45,1
+Customer,546,E 30 St & Park Ave S,2015-08-21T11:36:04,1
+Subscriber,546,E 30 St & Park Ave S,2015-07-07T09:37:12,1
+Subscriber,546,E 30 St & Park Ave S,2015-07-21T07:12:48,1
+Subscriber,326,E 11 St & 1 Ave,2015-09-14T08:03:35,1
+Subscriber,326,E 11 St & 1 Ave,2015-08-06T11:28:11,1
+Subscriber,515,W 43 St & 10 Ave,2015-08-26T12:13:31,1
+Subscriber,515,W 43 St & 10 Ave,2015-09-17T07:05:25,1
+Subscriber,2012,E 27 St & 1 Ave,2015-09-01T18:25:00,1
+Subscriber,503,E 20 St & Park Ave,2015-07-30T08:13:50,1
+Subscriber,495,W 47 St & 10 Ave,2015-08-13T07:20:34,1
+Subscriber,236,St Marks Pl & 2 Ave,2015-09-09T17:30:13,1
+Subscriber,472,E 32 St & Park Ave,2015-08-28T13:12:39,1
+Subscriber,127,Barrow St & Hudson St,2015-09-11T10:38:06,1
+Subscriber,438,St Marks Pl & 1 Ave,2015-09-02T15:26:14,1
+Subscriber,504,1 Ave & E 15 St,2015-07-22T17:47:58,1
+Subscriber,435,W 21 St & 6 Ave,2015-07-16T19:08:26,1
+Subscriber,435,W 21 St & 6 Ave,2015-07-18T10:54:50,1
+Subscriber,435,W 21 St & 6 Ave,2015-07-21T15:48:36,1
+Subscriber,254,W 11 St & 6 Ave,2015-08-27T10:45:24,1
+Subscriber,479,9 Ave & W 45 St,2015-08-25T16:26:55,1
+Subscriber,479,9 Ave & W 45 St,2015-09-06T10:37:00,1
+Subscriber,519,Pershing Square North,2015-09-01T21:19:11,1
+Subscriber,519,Pershing Square North,2015-09-21T10:21:44,1
+Subscriber,284,Greenwich Ave & 8 Ave,2015-08-21T10:25:20,1
+Subscriber,520,W 52 St & 5 Ave,2015-07-24T11:12:31,1
+Subscriber,458,11 Ave & W 27 St,2015-07-21T09:24:36,1
+Subscriber,477,W 41 St & 8 Ave,2015-09-02T14:18:39,1
+Subscriber,151,Cleveland Pl & Spring St,2015-09-18T13:33:26,1
+Subscriber,151,Cleveland Pl & Spring St,2015-08-31T09:04:14,1
+Customer,168,W 18 St & 6 Ave,2015-07-02T12:56:17,1
+Subscriber,168,W 18 St & 6 Ave,2015-09-14T09:18:27,1
+Subscriber,463,9 Ave & W 16 St,2015-09-11T15:47:23,1
+Subscriber,161,LaGuardia Pl & W 3 St,2015-08-14T10:17:09,1
+Subscriber,383,Greenwich Ave & Charles St,2015-07-31T19:07:21,1
+Subscriber,497,E 17 St & Broadway,2015-09-20T15:43:53,1
+Subscriber,507,E 25 St & 2 Ave,2015-09-08T16:30:53,1
+Subscriber,362,Broadway & W 37 St,2015-09-23T10:33:16,1
+Subscriber,394,E 9 St & Avenue C,2015-08-11T18:59:39,1
+Subscriber,521,8 Ave & W 31 St,2015-09-27T16:21:15,1
+Subscriber,521,8 Ave & W 31 St,2015-07-29T12:00:56,1
+Subscriber,2003,1 Ave & E 18 St,2015-07-11T14:13:38,1
+Subscriber,173,Broadway & W 49 St,2015-07-12T16:57:53,1
+Subscriber,173,Broadway & W 49 St,2015-09-07T19:35:32,1
+Subscriber,492,W 33 St & 7 Ave,2015-08-07T17:36:43,1
+Subscriber,423,W 54 St & 9 Ave,2015-09-22T10:17:59,1
+Subscriber,524,W 43 St & 6 Ave,2015-08-09T18:13:33,1
+Subscriber,524,W 43 St & 6 Ave,2015-08-18T20:14:45,1
+Subscriber,264,Maiden Ln & Pearl St,2015-08-14T16:05:11,1
+Subscriber,498,Broadway & W 32 St,2015-08-19T18:36:04,1
+Customer,515,W 43 St & 10 Ave,2015-07-16T19:13:44,1
+Subscriber,515,W 43 St & 10 Ave,2015-08-02T12:41:40,1
+Subscriber,495,W 47 St & 10 Ave,2015-07-31T18:13:23,1
+Subscriber,490,8 Ave & W 33 St,2015-07-17T13:59:53,1
+Customer,405,Washington St & Gansevoort St,2015-09-13T19:17:11,2
+Subscriber,493,W 45 St & 6 Ave,2015-09-14T17:12:55,1
+Subscriber,116,W 17 St & 8 Ave,2015-09-25T08:54:53,1
+Subscriber,448,W 37 St & 10 Ave,2015-07-09T16:57:25,1
+Subscriber,474,5 Ave & E 29 St,2015-08-04T16:05:47,1
+Subscriber,435,W 21 St & 6 Ave,2015-08-04T17:55:57,1
+Subscriber,450,W 49 St & 8 Ave,2015-08-31T22:17:12,1
+Subscriber,523,W 38 St & 8 Ave,2015-08-28T18:34:50,1
+Subscriber,479,9 Ave & W 45 St,2015-09-28T18:50:52,1
+Subscriber,499,Broadway & W 60 St,2015-07-07T12:54:42,1
+Subscriber,499,Broadway & W 60 St,2015-08-22T13:28:27,1
+Subscriber,72,W 52 St & 11 Ave,2015-07-30T07:39:08,1
+Subscriber,517,Pershing Square South,2015-07-07T11:29:17,1
+Subscriber,318,E 43 St & Vanderbilt Ave,2015-07-10T15:58:02,1
+Subscriber,3158,W 63 St & Broadway,2015-09-25T08:46:34,1
+Subscriber,477,W 41 St & 8 Ave,2015-07-23T17:46:04,1
+Subscriber,168,W 18 St & 6 Ave,2015-08-29T18:33:18,1
+Subscriber,168,W 18 St & 6 Ave,2015-08-22T11:52:22,1
+Subscriber,446,W 24 St & 7 Ave,2015-07-03T23:51:34,1
+Subscriber,468,Broadway & W 55 St,2015-07-28T18:27:18,1
+Subscriber,468,Broadway & W 55 St,2015-07-05T19:28:23,1
+Subscriber,475,E 16 St & Irving Pl,2015-07-22T16:41:32,1
+Subscriber,447,8 Ave & W 52 St,2015-08-06T23:01:22,1
+Subscriber,444,Broadway & W 24 St,2015-07-26T13:29:44,1
+Customer,225,W 14 St & The High Line,2015-07-15T17:09:10,1
+Subscriber,528,2 Ave & E 31 St,2015-08-30T13:12:29,1
+Subscriber,212,W 16 St & The High Line,2015-09-18T21:33:43,1
+Subscriber,2021,W 45 St & 8 Ave,2015-08-30T08:46:54,1
+Subscriber,2021,W 45 St & 8 Ave,2015-09-03T18:20:38,1
+Subscriber,382,University Pl & E 14 St,2015-07-31T17:21:38,1
+Subscriber,382,University Pl & E 14 St,2015-09-16T22:02:43,1
+Subscriber,258,DeKalb Ave & Vanderbilt Ave,2015-09-25T15:42:05,1
+Customer,3055,Greene Ave & Nostrand Ave,2015-09-20T14:08:08,1
+Customer,409,DeKalb Ave & Skillman St,2015-09-19T09:35:32,1
+Subscriber,2003,1 Ave & E 18 St,2015-07-02T09:01:34,1
+Subscriber,357,E 11 St & Broadway,2015-07-12T15:26:56,1
+Subscriber,489,10 Ave & W 28 St,2015-08-31T17:36:44,1
+Customer,489,10 Ave & W 28 St,2015-09-02T11:18:21,1
+Customer,334,W 20 St & 7 Ave,2015-08-22T14:00:47,1
+Subscriber,433,E 13 St & Avenue A,2015-09-19T19:01:28,1
+Subscriber,349,Rivington St & Ridge St,2015-07-14T17:39:13,1
+Subscriber,442,W 27 St & 7 Ave,2015-09-14T16:40:53,1
+Subscriber,329,Greenwich St & N Moore St,2015-09-28T21:26:20,1
+Subscriber,329,Greenwich St & N Moore St,2015-07-23T08:08:30,1
+Subscriber,546,E 30 St & Park Ave S,2015-09-01T15:32:59,1
+Subscriber,485,W 37 St & 5 Ave,2015-09-24T19:50:16,1
+Subscriber,263,Elizabeth St & Hester St,2015-09-18T20:22:39,1
+Customer,307,Canal St & Rutgers St,2015-08-13T18:08:07,1
+Subscriber,402,Broadway & E 22 St,2015-09-24T13:00:20,1
+Subscriber,236,St Marks Pl & 2 Ave,2015-08-01T11:43:12,2
+Subscriber,490,8 Ave & W 33 St,2015-07-31T21:44:11,1
+Subscriber,511,E 14 St & Avenue B,2015-07-21T18:42:45,1
+Subscriber,116,W 17 St & 8 Ave,2015-09-02T06:48:19,1
+Subscriber,116,W 17 St & 8 Ave,2015-09-04T09:15:18,1
+Subscriber,474,5 Ave & E 29 St,2015-08-20T17:38:58,1
+Subscriber,435,W 21 St & 6 Ave,2015-07-31T17:58:30,1
+Subscriber,432,E 7 St & Avenue A,2015-07-08T17:08:40,1
+Subscriber,253,W 13 St & 5 Ave,2015-07-31T18:36:48,1
+Subscriber,455,1 Ave & E 44 St,2015-07-11T07:49:23,1
+Subscriber,517,Pershing Square South,2015-09-28T22:18:50,1
+Subscriber,445,E 10 St & Avenue A,2015-08-04T13:57:30,1
+Subscriber,477,W 41 St & 8 Ave,2015-08-20T19:56:07,1
+Subscriber,316,Fulton St & William St,2015-09-21T17:00:26,1
+Subscriber,507,E 25 St & 2 Ave,2015-07-27T14:32:05,1
+Subscriber,507,E 25 St & 2 Ave,2015-07-21T12:08:07,1
+Subscriber,345,W 13 St & 6 Ave,2015-09-14T11:30:47,1
+Subscriber,487,E 20 St & FDR Drive,2015-08-16T09:09:52,1
+Subscriber,444,Broadway & W 24 St,2015-07-19T12:40:42,1
+Subscriber,297,E 15 St & 3 Ave,2015-09-14T18:34:42,1
+Subscriber,391,Clark St & Henry St,2015-08-27T13:13:08,1
+Subscriber,325,E 19 St & 3 Ave,2015-07-10T13:54:27,1
+Subscriber,382,University Pl & E 14 St,2015-07-11T14:30:33,1
+Subscriber,494,W 26 St & 8 Ave,2015-08-28T17:20:43,1
+Subscriber,250,Lafayette St & Jersey St,2015-09-23T09:07:40,1
+Subscriber,361,Allen St & Hester St,2015-08-27T12:31:28,1
+Subscriber,453,W 22 St & 8 Ave,2015-08-28T22:48:18,1
+Subscriber,346,Bank St & Hudson St,2015-09-12T10:23:21,1
+Subscriber,346,Bank St & Hudson St,2015-08-07T17:08:11,1
+Customer,410,Suffolk St & Stanton St,2015-09-05T16:21:13,1
+Subscriber,410,Suffolk St & Stanton St,2015-08-12T21:01:00,1
+Customer,512,W 29 St & 9 Ave,2015-09-05T21:07:52,2
+Subscriber,512,W 29 St & 9 Ave,2015-08-02T12:29:05,1
+Subscriber,530,11 Ave & W 59 St,2015-08-10T07:45:42,1
+Subscriber,251,Mott St & Prince St,2015-08-08T12:45:05,1
+Subscriber,537,Lexington Ave & E 24 St,2015-08-05T08:52:12,1
+Subscriber,537,Lexington Ave & E 24 St,2015-09-23T21:11:15,1
+Customer,428,E 3 St & 1 Ave,2015-07-29T20:38:58,1
+Subscriber,428,E 3 St & 1 Ave,2015-09-04T18:19:08,1
+Customer,460,S 4 St & Wythe Ave,2015-09-23T14:22:13,1
+Subscriber,539,Metropolitan Ave & Bedford Ave,2015-07-17T23:27:03,1
+Subscriber,317,E 6 St & Avenue B,2015-09-17T08:00:04,1
+Subscriber,485,W 37 St & 5 Ave,2015-09-02T11:36:27,1
+Subscriber,498,Broadway & W 32 St,2015-07-08T19:07:05,1
+Subscriber,285,Broadway & E 14 St,2015-07-10T13:08:52,1
+Customer,263,Elizabeth St & Hester St,2015-07-03T20:18:14,1
+Subscriber,462,W 22 St & 10 Ave,2015-09-22T09:47:48,1
+Subscriber,462,W 22 St & 10 Ave,2015-09-23T13:48:55,1
+Subscriber,229,Great Jones St,2015-07-16T18:32:22,1
+Subscriber,377,6 Ave & Canal St,2015-09-24T18:38:02,1
+Subscriber,496,E 16 St & 5 Ave,2015-08-16T15:01:23,1
+Subscriber,127,Barrow St & Hudson St,2015-09-20T11:11:15,1
+Subscriber,504,1 Ave & E 15 St,2015-09-24T07:35:51,1
+Subscriber,358,Christopher St & Greenwich St,2015-09-15T09:03:33,1
+Subscriber,358,Christopher St & Greenwich St,2015-07-22T11:26:32,1
+Customer,432,E 7 St & Avenue A,2015-08-22T07:31:33,1
+Subscriber,347,Greenwich St & W Houston St,2015-09-27T09:48:44,1
+Subscriber,426,West St & Chambers St,2015-07-20T14:41:54,1
+Customer,253,W 13 St & 5 Ave,2015-07-03T19:02:07,1
+Subscriber,253,W 13 St & 5 Ave,2015-08-05T14:39:29,1
+Customer,380,W 4 St & 7 Ave S,2015-08-12T21:56:30,1
+Subscriber,519,Pershing Square North,2015-09-21T10:04:29,1
+Customer,348,W Broadway & Spring St,2015-09-23T13:39:29,1
+Subscriber,249,Harrison St & Hudson St,2015-09-18T10:56:33,1
+Subscriber,404,9 Ave & W 14 St,2015-07-28T20:39:31,1
+Subscriber,477,W 41 St & 8 Ave,2015-08-20T17:57:53,1
+Subscriber,151,Cleveland Pl & Spring St,2015-08-15T11:55:05,1
+Subscriber,151,Cleveland Pl & Spring St,2015-07-12T13:21:24,1
+Subscriber,465,Broadway & W 41 St,2015-07-21T17:51:58,1
+Subscriber,302,Avenue D & E 3 St,2015-09-03T13:13:47,1
+Subscriber,446,W 24 St & 7 Ave,2015-09-15T18:26:16,1
+Subscriber,497,E 17 St & Broadway,2015-07-09T19:48:25,1
+Subscriber,497,E 17 St & Broadway,2015-09-02T10:46:29,1
+Subscriber,3002,South End Ave & Liberty St,2015-07-27T20:39:20,1
+Subscriber,475,E 16 St & Irving Pl,2015-08-07T19:10:32,1
+Subscriber,502,Henry St & Grand St,2015-09-11T12:40:08,1
+Subscriber,3177,W 84 St & Broadway,2015-09-16T08:28:54,1
+Subscriber,444,Broadway & W 24 St,2015-08-18T14:03:44,1
+Subscriber,238,Bank St & Washington St,2015-09-21T10:29:38,1
+Subscriber,365,Fulton St & Grand Ave,2015-07-29T13:09:39,1
+Subscriber,526,E 33 St & 5 Ave,2015-07-24T12:02:23,1
+Subscriber,382,University Pl & E 14 St,2015-08-24T07:35:42,1
+Subscriber,346,Bank St & Hudson St,2015-09-16T08:02:50,1
+Subscriber,128,MacDougal St & Prince St,2015-07-07T21:07:56,1
+Subscriber,349,Rivington St & Ridge St,2015-09-25T14:36:17,1
+Subscriber,79,Franklin St & W Broadway,2015-07-07T02:07:05,1
+Subscriber,460,S 4 St & Wythe Ave,2015-07-18T15:50:49,1
+Customer,2004,6 Ave & Broome St,2015-08-15T22:30:35,1
+Subscriber,237,E 11 St & 2 Ave,2015-08-12T18:56:57,1
+Subscriber,312,Allen St & E Houston St,2015-09-24T10:31:49,1
+Subscriber,312,Allen St & E Houston St,2015-08-31T18:45:24,1
+Subscriber,546,E 30 St & Park Ave S,2015-07-29T13:09:39,1
+Subscriber,317,E 6 St & Avenue B,2015-07-02T15:20:13,1
+Customer,285,Broadway & E 14 St,2015-09-06T17:45:57,1
+Subscriber,285,Broadway & E 14 St,2015-08-16T14:40:36,1
+Subscriber,307,Canal St & Rutgers St,2015-08-15T13:19:31,1
+Subscriber,291,Madison St & Montgomery St,2015-09-15T00:00:41,1
+Subscriber,291,Madison St & Montgomery St,2015-09-11T08:15:54,1
+Subscriber,150,E 2 St & Avenue C,2015-07-19T23:47:57,1
+Subscriber,2010,Grand St & Greene St,2015-08-10T01:03:10,1
+Subscriber,236,St Marks Pl & 2 Ave,2015-08-14T17:13:25,1
+Subscriber,236,St Marks Pl & 2 Ave,2015-08-25T12:12:30,1
+Subscriber,377,6 Ave & Canal St,2015-08-24T18:37:01,1
+Subscriber,377,6 Ave & Canal St,2015-09-28T15:47:22,1
+Subscriber,470,W 20 St & 8 Ave,2015-09-15T18:23:39,1
+Subscriber,265,Stanton St & Chrystie St,2015-08-12T15:08:32,1
+Subscriber,265,Stanton St & Chrystie St,2015-07-30T10:09:51,1
+Subscriber,265,Stanton St & Chrystie St,2015-09-01T17:43:08,1
+Subscriber,265,Stanton St & Chrystie St,2015-09-12T21:07:20,2
+Subscriber,368,Carmine St & 6 Ave,2015-09-12T01:23:34,1
+Subscriber,473,Rivington St & Chrystie St,2015-09-20T16:25:18,1
+Subscriber,348,W Broadway & Spring St,2015-09-19T17:04:30,1
+Subscriber,348,W Broadway & Spring St,2015-08-03T18:44:42,1
+Subscriber,387,Centre St & Chambers St,2015-07-08T19:09:18,1
+Subscriber,330,Reade St & Broadway,2015-07-26T13:55:14,1
+Subscriber,454,E 51 St & 1 Ave,2015-08-23T16:34:19,1
+Subscriber,151,Cleveland Pl & Spring St,2015-08-02T12:32:09,1
+Subscriber,151,Cleveland Pl & Spring St,2015-08-04T20:27:08,1
+Subscriber,356,Bialystoker Pl & Delancey St,2015-07-31T08:25:26,1
+Subscriber,505,6 Ave & W 33 St,2015-09-14T20:47:14,1
+Customer,486,Broadway & W 29 St,2015-09-20T11:01:26,1
+Customer,321,Cadman Plaza E & Red Cross Pl,2015-09-27T15:14:56,1
+Subscriber,501,FDR Drive & E 35 St,2015-09-22T14:42:52,1
+Subscriber,341,Stanton St & Mangin St,2015-08-11T16:02:25,1
+Subscriber,526,E 33 St & 5 Ave,2015-09-01T15:55:51,1
+Subscriber,325,E 19 St & 3 Ave,2015-09-08T23:49:26,1
+Subscriber,471,Grand St & Havemeyer St,2015-08-31T17:46:30,1
+Subscriber,521,8 Ave & W 31 St,2015-09-24T07:55:26,1
+Subscriber,540,Lexington Ave & E 29 St,2015-08-17T10:11:38,1
+Subscriber,293,Lafayette St & E 8 St,2015-09-05T13:01:28,1
+Subscriber,375,Mercer St & Bleecker St,2015-09-19T21:00:14,1
+Subscriber,482,W 15 St & 7 Ave,2015-09-27T22:55:47,1
+Subscriber,482,W 15 St & 7 Ave,2015-09-24T15:49:11,1
+Subscriber,482,W 15 St & 7 Ave,2015-09-21T19:24:14,1
+Subscriber,537,Lexington Ave & E 24 St,2015-07-13T13:32:55,1
+Subscriber,546,E 30 St & Park Ave S,2015-08-11T17:00:53,1
+Subscriber,160,E 37 St & Lexington Ave,2015-09-15T13:32:37,1
+Subscriber,498,Broadway & W 32 St,2015-09-08T18:59:29,1
+Subscriber,498,Broadway & W 32 St,2015-09-29T08:43:49,1
+Subscriber,285,Broadway & E 14 St,2015-09-12T14:37:47,1
+Subscriber,529,W 42 St & 8 Ave,2015-09-24T06:34:33,1
+Subscriber,461,E 20 St & 2 Ave,2015-07-01T17:35:35,1
+Subscriber,408,Market St & Cherry St,2015-09-28T06:16:51,1
+Subscriber,470,W 20 St & 8 Ave,2015-07-29T18:45:58,1
+Subscriber,472,E 32 St & Park Ave,2015-09-28T17:30:10,1
+Subscriber,127,Barrow St & Hudson St,2015-09-18T13:45:22,1
+Subscriber,511,E 14 St & Avenue B,2015-07-31T18:45:49,1
+Subscriber,474,5 Ave & E 29 St,2015-08-28T17:12:02,1
+Subscriber,450,W 49 St & 8 Ave,2015-09-04T14:41:08,1
+Subscriber,445,E 10 St & Avenue A,2015-08-08T12:35:49,1
+Subscriber,174,E 25 St & 1 Ave,2015-09-03T16:53:41,1
+Subscriber,486,Broadway & W 29 St,2015-07-20T17:50:54,1
+Subscriber,369,Washington Pl & 6 Ave,2015-08-25T12:49:40,1
+Subscriber,463,9 Ave & W 16 St,2015-09-29T17:02:11,1
+Customer,446,W 24 St & 7 Ave,2015-09-29T08:56:09,1
+Subscriber,497,E 17 St & Broadway,2015-09-23T16:21:23,1
+Subscriber,507,E 25 St & 2 Ave,2015-07-04T21:21:49,1
+Subscriber,501,FDR Drive & E 35 St,2015-07-21T19:26:34,1
+Subscriber,3002,South End Ave & Liberty St,2015-09-29T16:51:02,1
+Customer,297,E 15 St & 3 Ave,2015-07-21T21:58:52,1
+Subscriber,297,E 15 St & 3 Ave,2015-08-16T15:42:54,1
+Subscriber,327,Vesey Pl & River Terrace,2015-09-11T17:45:46,1
+Subscriber,382,University Pl & E 14 St,2015-09-26T20:14:03,1
+Subscriber,412,Forsyth St & Canal St,2015-08-10T07:26:03,1
+Customer,311,Norfolk St & Broome St,2015-07-19T08:35:34,1
+Customer,373,Willoughby Ave & Walworth St,2015-08-20T10:51:27,2
+Customer,279,Peck Slip & Front St,2015-09-25T19:16:07,1
+Customer,387,Centre St & Chambers St,2015-07-31T16:14:38,1
+Customer,387,Centre St & Chambers St,2015-07-03T16:42:58,1
+Customer,387,Centre St & Chambers St,2015-08-17T18:19:10,1
+Subscriber,387,Centre St & Chambers St,2015-07-14T09:23:11,1
+Subscriber,387,Centre St & Chambers St,2015-09-23T06:41:59,1
+Customer,82,St James Pl & Pearl St,2015-07-03T17:44:56,1
+Customer,147,Greenwich St & Warren St,2015-08-26T17:08:38,1
