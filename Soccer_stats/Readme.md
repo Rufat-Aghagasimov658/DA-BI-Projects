@@ -12,5 +12,5 @@ The report explores historical scoring dynamics, career length, match frequency,
 
 ## Files
 - `01_soccer_stats.html` — full interactive report
-- `02_goalscorers.csv` — dataset
+- `02_goalscorers.csv` — dataset. The original name of the dataset is ‘50+ Football’s All-Time International Goal Scorers’. The dataset was created by Kamran Ali and licensed under CC BY-SA 3.0
 
